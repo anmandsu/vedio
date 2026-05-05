@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "huashu-nuwa": {
+      "source": "alchaincyf/nuwa-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "475706bff84063994a37fea987b142d8bbc54b077d5938b62ced04d36457004c"
+    },
+    "opencli-adapter-author": {
+      "source": "jackwener/opencli",
+      "sourceType": "github",
+      "skillPath": "skills/opencli-adapter-author/SKILL.md",
+      "computedHash": "ea85ddf5ad932ccb5d33e806a10d6ee8dfa8048e170b9c906a81d19317263e8c"
+    },
+    "opencli-autofix": {
+      "source": "jackwener/opencli",
+      "sourceType": "github",
+      "skillPath": "skills/opencli-autofix/SKILL.md",
+      "computedHash": "97bbc0bea838dfba25c9433613c7a9026263045618119fcb4dc2d57fb512d999"
+    },
+    "opencli-browser": {
+      "source": "jackwener/opencli",
+      "sourceType": "github",
+      "skillPath": "skills/opencli-browser/SKILL.md",
+      "computedHash": "6cdac0fdeeec72fbcb9d96989b650eb2328f094b27db9c797a249491baa51b6b"
+    },
+    "opencli-usage": {
+      "source": "jackwener/opencli",
+      "sourceType": "github",
+      "skillPath": "skills/opencli-usage/SKILL.md",
+      "computedHash": "70c4867a4e3f1196c89ab5071dc1638bd7fd6acd95edb48505f385bb18299252"
+    },
+    "smart-search": {
+      "source": "jackwener/opencli",
+      "sourceType": "github",
+      "skillPath": "skills/smart-search/SKILL.md",
+      "computedHash": "dde9af74e6aa46f28810d5e25f5ad645d02180137a6a1e046e30babb3c45ef3a"
+    }
+  }
+}

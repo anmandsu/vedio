@@ -1,0 +1,1387 @@
+# Episode 1 详细分镜头脚本 — VPipe v2
+# 每镜10维度：plot/performance/lighting/camera/blocking/sound/dialogue/duration/beat/style_notes
+# Source: 奇幻本_AUGUST__041726 (dragged).pdf
+
+episode: 1
+title: "太阳守卫与伊斯菲特之灾"
+style: "古埃及神话奇幻动作片；太阳金、沙漠赭、黑曜石紫为主色；史诗战争规模结合高速英雄动作；VFX 强调沙尘、太阳神力、碎屏漩涡、黑曜石甲壳和毒雾。"
+
+shots:
+  - shot_id: "E1_S01"
+    scene_id: "SC01_BAZAAR"
+    character: "集市人群"
+    location: "EXT. PEASANT BAZAAR - DAY"
+
+    plot: >
+      开场建立古埃及平民集市的生活质感：观众先感到炎热、拥挤、真实，再为即将到来的异变制造反差。
+
+    performance: >
+      小贩高声叫卖，顾客讨价还价，孩子从布棚下钻过，驴车缓慢挤过人群。所有人都处在日常忙碌状态，没有意识到危险正在靠近。
+
+    lighting: >
+      正午硬太阳从画面右上方压下，色温偏暖，阴影短而锐利。布棚下形成斑驳阴影，香料粉尘和热浪让空气有轻微丁达尔颗粒感。
+
+    camera: >
+      景别 wide；角度 eye_level；运镜 slow_dolly_forward 穿过摊位；焦段 28mm，轻微广角突出空间拥挤和市场层次。
+
+    blocking: >
+      前景是悬挂的铜饰和皮革流苏，中景是人群与摊位，背景隐约露出远处金字塔轮廓。镜头从铜饰缝隙中推进，像观众被带入世界。
+
+    sound: >
+      环境声由驴叫、脚步、布料拍打、铜器碰撞、叫卖声组成；远处有低不可闻的风声，像沙暴尚未成形。
+
+    dialogue: >
+      无主对白。背景人声交叠，听不清具体内容，重点是生活噪声的密度。
+
+    duration_sec: 6
+    beat_type: "establishing"
+
+    style_notes: >
+      真实集市质感优先，不要一开始就过度魔幻。色彩以晒褪的亚麻白、铜锈绿、香料红和沙黄色构成。
+
+  - shot_id: "E1_S02"
+    scene_id: "SC01_BAZAAR"
+    character: "集市人群"
+    location: "EXT. PEASANT BAZAAR - DAY"
+
+    plot: >
+      现代屏幕意象突然侵入古代世界，作为异变触发点。观众应感到时间和现实被撕裂。
+
+    performance: >
+      人群的动作在一瞬间慢下来：一个小贩转头，一个孩子抬眼，一个顾客手中的铜币停在半空。所有表情从日常转向困惑。
+
+    lighting: >
+      原本稳定的太阳光突然闪烁，画面上出现冷白色屏幕反光。碎裂边缘带蓝白高光，与沙漠暖光形成冲突。
+
+    camera: >
+      景别 extreme_close；角度 eye_level；运镜 static_then_micro_shake；焦段 70mm macro，贴近一层透明 iPhone 玻璃般的画面表面。
+
+    blocking: >
+      玻璃裂纹占满前景，人群被压在裂纹背后。裂缝从画面中心向外放射，像观众正在从屏幕内部看见古代集市。
+
+    sound: >
+      集市声被低通滤掉，只剩玻璃受压的细碎咔声。随后一个尖锐 CRACK 成为冲击峰值。
+
+    dialogue: >
+      无对白。只保留人群吸气和玻璃裂开的声音。
+
+    duration_sec: 4
+    beat_type: "inciting"
+
+    style_notes: >
+      碎屏不是普通转场，要像现实媒介被暴力打穿。玻璃裂纹需要有现代感，但不能破坏古埃及场景的可信度。
+
+  - shot_id: "E1_S03"
+    scene_id: "SC01_BAZAAR"
+    character: "沙尘漩涡"
+    location: "EXT. PEASANT BAZAAR - DAY"
+
+    plot: >
+      裂开的屏幕向内坍缩，形成沙尘漩涡，把集市从生活场景推入灾难场景。
+
+    performance: >
+      人群被风压逼退，摊主抓住布棚，孩子被母亲拉进怀里。所有人的情绪从困惑迅速跳到恐惧。
+
+    lighting: >
+      漩涡中心吞光，周围阳光被沙尘切成旋转光束。暖金光与黑褐色沙影交错，形成强对比。
+
+    camera: >
+      景别 medium_to_wide；角度 slight_low_angle；运镜 pull_back_then_handheld_shake；焦段 35mm。
+
+    blocking: >
+      漩涡在画面中心打开，前景摊位被向内吸扯，中景人群向两侧逃散，背景布棚被卷上天空。
+
+    sound: >
+      玻璃碎片倒吸声转为低频轰鸣，沙子摩擦像千万细小刀片。加入木架断裂、陶罐滚落和人群尖叫。
+
+    dialogue: >
+      人群杂喊： “跑！” “神啊！” “护住孩子！” 语气混乱、被风声撕碎。
+
+    duration_sec: 5
+    beat_type: "escalation"
+
+    style_notes: >
+      漩涡要有吸入感，沙粒轨迹清晰。避免纯烟雾，必须能看见被卷走的碎玻璃和布料。
+
+  - shot_id: "E1_S04"
+    scene_id: "SC01_BAZAAR"
+    character: "Isfet Spawn"
+    location: "EXT. PEASANT BAZAAR - DAY"
+
+    plot: >
+      正式揭示怪物 Isfet Spawn。观众应第一次感到它的尺寸、恶意和不可战胜。
+
+    performance: >
+      怪物从沙中拱起，像一座黑曜石山脊活过来。它的螯肢缓慢张开，黄色胆汁从口器滴落，动作不急却充满压迫。
+
+    lighting: >
+      怪物背对太阳形成硬逆光，甲壳边缘有金色轮廓光。胆汁落地处产生绿色腐蚀烟，局部补出病态黄光。
+
+    camera: >
+      景别 extreme_wide_to_wide；角度 low_angle；运镜 tilt_up 跟随怪物升起；焦段 24mm，强调巨大比例。
+
+    blocking: >
+      前景是惊恐后退的平民剪影，中景是怪物抬起的黑色胸甲，背景集市建筑被它遮住一半。人类只占画面底部很小比例。
+
+    sound: >
+      低频甲壳摩擦声像巨石移动；胆汁滴落发出灼烧嘶声；怪物呼吸带湿黏的喉音，压过所有人声。
+
+    dialogue: >
+      无对白。用集体尖叫和怪物低吼完成揭示。
+
+    duration_sec: 6
+    beat_type: "monster_reveal"
+
+    style_notes: >
+      怪物长度约六十英尺，黑曜石外壳不能像普通昆虫，应像神话灾厄和矿石甲胄的结合体。
+
+  - shot_id: "E1_S05"
+    scene_id: "SC01_BAZAAR"
+    character: "Isfet Spawn / 平民"
+    location: "EXT. PEASANT BAZAAR - DAY"
+
+    plot: >
+      怪物第一次造成实质破坏，证明它不是幻象，而是能瞬间摧毁城市秩序的灾难。
+
+    performance: >
+      怪物轻轻一合巨螯，像捏碎薄饼一样击垮砖屋。平民由惊叫转为崩溃逃命，个别人摔倒又被拖起。
+
+    lighting: >
+      建筑倒塌扬起沙尘，太阳光被遮蔽成橙褐色半昏暗。碎砖边缘有短促高光，强调冲击瞬间。
+
+    camera: >
+      景别 wide；角度 low_angle；运镜 handheld_lateral_run，与逃跑人群同方向横移；焦段 32mm。
+
+    blocking: >
+      前景人群从右向左冲过镜头，中景砖屋被巨螯压碎，背景怪物头部追着人群转动。画面空间被逃跑动线撕开。
+
+    sound: >
+      冲击峰值是砖墙爆裂和木梁断裂；其后是沙尘吞没声音的闷响。加入密集脚步、哭喊和螯肢咔哒声。
+
+    dialogue: >
+      平民甲喊： “别回头！” 平民乙哭喊： “我的儿子！” 语气急促，几乎被倒塌声盖住。
+
+    duration_sec: 5
+    beat_type: "disaster"
+
+    style_notes: >
+      破坏要残酷但不血腥特写。重点表现“人像蚂蚁一样逃散”的无力比例。
+
+  - shot_id: "E1_S06"
+    scene_id: "SC02_DESERT_PLATEAU"
+    character: "太阳守卫军"
+    location: "EXT. DESERT PLATEAU - CONTINUOUS"
+
+    plot: >
+      从集市灾难切到战争规模，建立金字塔、太阳守卫军和即将被保护的圣地。
+
+    performance: >
+      数千名士兵列阵不动，压住恐惧，盾牌和长矛在胸前保持统一角度。军阵看似强大，但远处怪物的轮廓让他们显得脆弱。
+
+    lighting: >
+      高空硬光照亮半建成金字塔，白色亚麻和青铜胸甲强烈反光。远处灾区的沙尘形成阴影云。
+
+    camera: >
+      景别 extreme_wide；角度 high_angle_from_plateau；运镜 slow_crane_down；焦段 35mm。
+
+    blocking: >
+      金字塔占据背景中央，太阳守卫军从画面下方铺开，指挥亭位于右侧高地。怪物方向在远处左侧沙尘中。
+
+    sound: >
+      战鼓低沉、军旗拍打、士兵甲片轻碰。远处传来怪物吼声，延迟后回荡到高原。
+
+    dialogue: >
+      无对白。用军阵静默对比远处混乱。
+
+    duration_sec: 6
+    beat_type: "establishing"
+
+    style_notes: >
+      必须有史诗感。半建成金字塔要明确可见，暗示文明工程被混沌打断。
+
+  - shot_id: "E1_S07"
+    scene_id: "SC02_DESERT_PLATEAU"
+    character: "Ahmose"
+    location: "COMMAND PAVILION - DESERT PLATEAU"
+
+    plot: >
+      引入 Ahmose，太阳守卫军队长。他是秩序阵营的代表，也是观众进入战场指挥层的锚点。
+
+    performance: >
+      Ahmose 站得笔直，脸上太阳伤疤深刻，眼神稳但瞳孔微颤。他的恐惧被军人的克制压住，手指紧握长矛。
+
+    lighting: >
+      侧逆光从左后方打出豹皮披风边缘，脸部一半在阳光下，一半在帐篷阴影中，表现他在勇气与恐惧之间。
+
+    camera: >
+      景别 medium_close；角度 eye_level；运镜 slow_push_in；焦段 50mm。
+
+    blocking: >
+      Ahmose 居中偏右，前景有模糊的青铜太阳神徽，背景能看见士兵列阵。披风随热风轻动。
+
+    sound: >
+      环境声压低，突出 Ahmose 的呼吸和手掌摩擦矛杆的细声。远处惨叫像从另一个世界传来。
+
+    dialogue: >
+      TITLE CARD: “AHMOSE, CAPTAIN OF THE SUN-GUARD”
+
+    duration_sec: 4
+    beat_type: "character_intro"
+
+    style_notes: >
+      字卡可采用金砂浮雕质感，不要现代霓虹。Ahmose 的豹皮披风是荣誉符号，要清晰入镜。
+
+  - shot_id: "E1_S08"
+    scene_id: "SC02_DESERT_PLATEAU"
+    character: "Ahmose"
+    location: "COMMAND PAVILION - DESERT PLATEAU"
+
+    plot: >
+      Ahmose 认出怪物的神话身份，把战斗从普通兽袭提升为宇宙秩序与混沌之战。
+
+    performance: >
+      Ahmose 盯着远方，喉结滚动，表情第一次裂开恐惧。他不是软弱，而是知道这意味着世界规则被打破。
+
+    lighting: >
+      风吹开帐篷阴影，一道硬光扫过他的眼睛。远处沙尘反出暗红色，使他脸上的汗像血迹。
+
+    camera: >
+      景别 close；角度 eye_level；运镜 static_with_subtle_push；焦段 65mm。
+
+    blocking: >
+      Ahmose 的脸占画面大部分，身后士兵虚焦成白金色阵列。远处怪物只有模糊黑影。
+
+    sound: >
+      战鼓暂停半拍，只留低频风声。说出名字时，远处怪物恰好低吼回应。
+
+    dialogue: >
+      AHMOSE（低声，自语，恐惧压在喉咙里）：“The Isfet Spawn. Apep has declared war on all that is good.”
+
+    duration_sec: 5
+    beat_type: "mythic_context"
+
+    style_notes: >
+      “Apep”这一句要像古老禁忌被说出口，气氛瞬间降温。
+
+  - shot_id: "E1_S09"
+    scene_id: "SC02_DESERT_PLATEAU"
+    character: "Ahmose / 太阳守卫军"
+    location: "EXT. DESERT PLATEAU - CONTINUOUS"
+
+    plot: >
+      Ahmose 从恐惧转为指挥，命令军队守住圣地。观众获得第一波人类反击的希望。
+
+    performance: >
+      Ahmose 举起长矛，肩背重新挺直，声音从发颤变得坚决。士兵们回应命令，盾牌前压一步。
+
+    lighting: >
+      矛尖接住太阳高光，形成短暂耀斑。整体仍是硬暖光，但人物正面补入青铜反光。
+
+    camera: >
+      景别 medium_to_wide；角度 low_angle；运镜 push_in_then_tilt_to_spear；焦段 35mm。
+
+    blocking: >
+      Ahmose 位于前景高台，士兵阵列在下方呈扇形展开。长矛指向怪物方向，形成画面动线。
+
+    sound: >
+      长矛举起时有金属擦响；士兵齐步踏地形成低频鼓点。战鼓重新进入，节奏加快。
+
+    dialogue: >
+      AHMOSE（对士兵，高声命令）：“Hold the line! Protect the sacred shrine!”
+
+    duration_sec: 5
+    beat_type: "call_to_action"
+
+    style_notes: >
+      这一镜要有英雄战争片的鼓舞感，但观众仍能看见远处灾难压力。
+
+  - shot_id: "E1_S10"
+    scene_id: "SC03_FIRST_ASSAULT"
+    character: "太阳守卫军 / Isfet Spawn"
+    location: "EXT. DESERT PLATEAU - CONTINUOUS"
+
+    plot: >
+      太阳守卫军发动第一轮近战冲锋，但他们的武器无法伤害怪物，建立力量差距。
+
+    performance: >
+      士兵咬牙冲锋，动作整齐而勇敢；怪物几乎不躲，只以身体重量碾过防线。士兵的信心在长矛碎裂瞬间崩塌。
+
+    lighting: >
+      青铜长矛反光密集闪烁，撞上黑曜石甲壳后火星四溅。怪物阴影吞没前排士兵。
+
+    camera: >
+      景别 wide；角度 low_angle_near_ground；运镜 handheld_tracking_backward；焦段 30mm。
+
+    blocking: >
+      前景是冲锋士兵的腿和长矛，中景长矛密集刺向怪物腹甲，背景是被沙尘遮住的金字塔。
+
+    sound: >
+      冲锋喊声、脚步震动、矛杆折断。撞击峰值是数十支青铜矛同时碎裂的尖锐爆响。
+
+    dialogue: >
+      士兵群喊： “For Ra!” 随后被撞击和惨叫吞没。
+
+    duration_sec: 6
+    beat_type: "action_failure"
+
+    style_notes: >
+      黑曜石甲壳要表现出“不可穿透”，长矛碎片飞溅但甲壳只留下浅痕。
+
+  - shot_id: "E1_S11"
+    scene_id: "SC03_FIRST_ASSAULT"
+    character: "战车队 / Isfet Spawn"
+    location: "EXT. DESERT PLATEAU - CONTINUOUS"
+
+    plot: >
+      战车加入攻击却被轻易掀翻，进一步摧毁人类军力优势。
+
+    performance: >
+      战车御手拼命拉缰，弓手还试图稳住瞄准；怪物尾部横扫，像驱赶尘土一样把战车掀上半空。
+
+    lighting: >
+      阳光从战车底部穿过，车轮旋转时形成快速闪影。落地沙尘遮住一部分冲击，使画面更混乱。
+
+    camera: >
+      景别 wide；角度 dutch_low_angle；运镜 whip_pan 跟随战车被抛飞；焦段 35mm。
+
+    blocking: >
+      战车从左前冲向右后，怪物尾巴从右侧扫入画面。被掀翻的战车飞向画面上方，士兵散落到不同深度。
+
+    sound: >
+      马嘶、车轮高速转动、木轴断裂。战车落地时加入重低频和碎木滚动声。
+
+    dialogue: >
+      御手（惊恐）：“Hold! Hold!” 声音在尾巴扫来时中断。
+
+    duration_sec: 5
+    beat_type: "escalation"
+
+    style_notes: >
+      战车像玩具一样被抛飞，必须强化怪物尺寸。可使用短暂慢动作突出飞散的箭袋和缰绳。
+
+  - shot_id: "E1_S12"
+    scene_id: "SC03_FIRST_ASSAULT"
+    character: "Isfet Spawn / 平民 / 士兵"
+    location: "EXT. DESERT PLATEAU - CONTINUOUS"
+
+    plot: >
+      怪物释放毒雾并屠戮周边人群，战场从军事冲突变成全面灾难。
+
+    performance: >
+      怪物蝎尾抽动，毒雾像怒气一样喷出；士兵捂住喉咙后退，平民抱头逃跑。Ahmose 的防线开始失控。
+
+    lighting: >
+      紫绿色毒雾内部有冷光，污染原本金色沙漠。阳光穿过毒雾时呈病态绿色光束。
+
+    camera: >
+      景别 medium_wide；角度 eye_level；运镜 handheld_push_through_smoke；焦段 40mm。
+
+    blocking: >
+      前景士兵被毒雾逼退，中景怪物尾部横向甩动，背景平民从神庙方向逃散。毒雾把三层空间连成一片。
+
+    sound: >
+      毒雾喷发像蒸汽炉爆开，伴随腐蚀嘶声。人群咳嗽、铠甲摔落、螯肢夹碎木石。
+
+    dialogue: >
+      无清晰对白。只有咳嗽、惨叫和军官失控的短促命令。
+
+    duration_sec: 5
+    beat_type: "horror_action"
+
+    style_notes: >
+      毒雾可见但不要完全遮屏，保持怪物轮廓压迫。紫色能量只作为预示，真正爆发留给后文。
+
+  - shot_id: "E1_S13"
+    scene_id: "SC04_ROOFTOP"
+    character: "Khensu"
+    location: "EXT. ROOFTOP - CONTINUOUS"
+
+    plot: >
+      引入 Khensu：他在屋顶俯瞰屠杀，不在军阵中，而在平民空间之上，暗示他是未知变量。
+
+    performance: >
+      Khensu 身体紧绷，手臂带着多年采石劳作的力量。他的眼睛追着战场惨状，表情既痛苦又不敢相信自己能改变什么。
+
+    lighting: >
+      屋顶阳光强烈，Khensu 的皮肤有汗光。背后沙尘压暗天空，使他形成半剪影。
+
+    camera: >
+      景别 medium_close；角度 low_angle_from_roof_edge；运镜 slow_orbit_15_degrees；焦段 50mm。
+
+    blocking: >
+      Khensu 站在屋顶边缘，前景是破碎瓦片，背景下方是混乱战场。Tehuti 和 Seshet 先以虚焦影子站在他身后。
+
+    sound: >
+      战场声从下方传来，带明显距离感；屋顶上只有风吹亚麻布和 Khensu 的急促呼吸。
+
+    dialogue: >
+      TITLE CARD: “KHENSU, SON OF RA”
+
+    duration_sec: 5
+    beat_type: "character_intro"
+
+    style_notes: >
+      字卡应与太阳神血统有关，短暂金光掠过文字。Khensu 造型朴素，不要先把他拍成完全成熟的神。
+
+  - shot_id: "E1_S14"
+    scene_id: "SC04_ROOFTOP"
+    character: "Tehuti / Seshet / Khensu"
+    location: "EXT. ROOFTOP - CONTINUOUS"
+
+    plot: >
+      Tehuti 告诉 Khensu 使命开始。观众知道 Khensu 与这场灾难有特殊关系。
+
+    performance: >
+      Tehuti 虽老迈独眼，但语气没有请求，像宣布早已注定的事实。Seshet 安静站在旁边，目光温柔却坚定。Khensu 先回头，显出抗拒。
+
+    lighting: >
+      Tehuti 面部一半被破布阴影切开，独眼反光锐利；Seshet 的面纱被柔和金光透亮。三人周围沙尘形成淡金轮廓。
+
+    camera: >
+      景别 medium_three_shot；角度 eye_level；运镜 static；焦段 45mm。
+
+    blocking: >
+      Khensu 在画面左前方靠近屋檐，Tehuti 居中后方，Seshet 右侧稍退。三角站位表现压力从长者推向年轻人。
+
+    sound: >
+      战场声略降，屋顶风声变清晰。远处怪物吼声像催促他们做决定。
+
+    dialogue: >
+      TEHUTI（低沉，毫不迟疑）：“Khensu. It’s time. You must destroy it.”
+
+    duration_sec: 5
+    beat_type: "mission_call"
+
+    style_notes: >
+      Tehuti 不要像普通智者解说，他更像见证预言的人。Seshet 的面纱要有神秘但不夸张的仪式感。
+
+  - shot_id: "E1_S15"
+    scene_id: "SC04_ROOFTOP"
+    character: "Khensu / Tehuti / Seshet"
+    location: "EXT. ROOFTOP - CONTINUOUS"
+
+    plot: >
+      Khensu 拒绝使命，暴露他的自我认知：他只是石匠，不认为自己是英雄。
+
+    performance: >
+      Khensu 指向下方溃败的太阳守卫，眼神惊惧，声音压低又带怒意。他的抗拒不是怯懦，而是认为让他去等于送死。
+
+    lighting: >
+      Khensu 正面被反射沙光照亮，眼眶下有明显阴影。Tehuti 与 Seshet 稳定站在暗处，像不可动摇的命运。
+
+    camera: >
+      景别 shot_reverse_shot_close；角度 eye_level；运镜 subtle_handheld；焦段 65mm。
+
+    blocking: >
+      Khensu 向后退半步，和屋檐拉开距离。Tehuti 不动，Seshet 微微向前，封住他逃避的空间。
+
+    sound: >
+      远处长矛碎裂声在 Khensu 话后响起，替他证明“连太阳守卫都挡不住”。
+
+    dialogue: >
+      KHENSU（难以置信，压着恐惧）：“Me? If the Sun Guard can’t stop it, how can I?”
+
+    duration_sec: 5
+    beat_type: "refusal"
+
+    style_notes: >
+      表演核心是“力量很强的人仍然害怕承担使命”，不要演成软弱。
+
+  - shot_id: "E1_S16"
+    scene_id: "SC04_ROOFTOP"
+    character: "Tehuti / Seshet / Khensu"
+    location: "EXT. ROOFTOP - CONTINUOUS"
+
+    plot: >
+      Tehuti 和 Seshet 用“回家”与“第一缕光之力”推动 Khensu 接受使命，揭示他的隐藏身世和愿望。
+
+    performance: >
+      Tehuti 说“go home”时语气放软，戳中 Khensu 的核心渴望。Seshet 的提醒像母亲也像祭司，让 Khensu 从抗拒转向沉默接受。
+
+    lighting: >
+      一道金色阳光穿过破棚，落在 Khensu 手臂上，短暂显出皮下微弱金线。整体光比降低，给对白留出神圣感。
+
+    camera: >
+      景别 medium_close；角度 eye_level；运镜 slow_push_in_on_Khensu；焦段 70mm。
+
+    blocking: >
+      镜头从三人关系逐渐压到 Khensu 的脸和手臂。Seshet 在右后方轻微点头，Tehuti 在左后方保持注视。
+
+    sound: >
+      战场声被压成低频底噪，一声清亮的太阳共鸣在“first light”后出现。风声短暂停住。
+
+    dialogue: >
+      TEHUTI（稳重，带承诺）：“Defeat the Isfet Spawn, and you can finally go home.”
+      KHENSU（低声，挣扎）：“But I’m just a stonecutter. I’m not yet ready.”
+      SESHET（温柔但坚定）：“After all this time, have you forgotten? You have the power of the first light.”
+
+    duration_sec: 8
+    beat_type: "revelation"
+
+    style_notes: >
+      金线只做一闪，不要提前完全觉醒。对白里“home”是情感钩子，要让观众感到他被困在这个世界。
+
+  - shot_id: "E1_S17"
+    scene_id: "SC04_ROOFTOP"
+    character: "Khensu"
+    location: "EXT. ROOFTOP - CONTINUOUS"
+
+    plot: >
+      Khensu 接受使命并跃下屋顶，进入英雄行动线。
+
+    performance: >
+      Khensu 闭眼吸气，恐惧仍在，但决定已经压过恐惧。他睁眼后只说一句，随即纵身而下。
+
+    lighting: >
+      太阳从他背后打出强逆光，身体边缘有细金边。落下瞬间，屋顶阴影把他吞入战场方向。
+
+    camera: >
+      景别 medium_to_wide；角度 low_angle_then_over_edge；运镜 fast_tilt_down 跟随跃下；焦段 32mm。
+
+    blocking: >
+      Khensu 从画面中心向下消失，Tehuti 和 Seshet 留在屋顶上方，像把使命交出去后静止的见证者。
+
+    sound: >
+      一声布料破风，随后战场噪声猛然放大。心跳声在跃下前短促出现，落下后消失。
+
+    dialogue: >
+      KHENSU（平静，认命）：“As you wish.”
+
+    duration_sec: 4
+    beat_type: "commitment"
+
+    style_notes: >
+      这不是炫技起跳，而是从普通人身份跳进神话战场的门槛。
+
+  - shot_id: "E1_S18"
+    scene_id: "SC05_KHENSU_RUN"
+    character: "Khensu"
+    location: "EXT. BAZAAR TO PYRAMID ROUTE - CONTINUOUS"
+
+    plot: >
+      用连续动作展示 Khensu 的身体能力：他虽自称石匠，但已具备非凡身手。
+
+    performance: >
+      Khensu 从屋顶落地后没有停顿，翻过倒塌果车，脚掌精准踩上石灰墙，动作来自劳动者的实用力量而非舞蹈式优雅。
+
+    lighting: >
+      沙尘与阳光高速交替，身体在明暗间切换。每次经过金色阳光，手臂金线都轻微闪一下。
+
+    camera: >
+      景别 wide_to_medium；角度 handheld_eye_level；运镜 running_tracking_shot；焦段 28mm。
+
+    blocking: >
+      前景倒塌果车被他越过，中景石灰墙成为弹跳点，背景人群逆向逃跑。Khensu 运动方向与逃亡人群相反。
+
+    sound: >
+      脚掌踩石、果篮滚动、水果被踩碎、急促呼吸。背景是越来越近的战场冲击声。
+
+    dialogue: >
+      无对白。Khensu 的呼吸和动作节奏代替台词。
+
+    duration_sec: 5
+    beat_type: "hero_motion"
+
+    style_notes: >
+      动作要清晰可读，体现“逆人流而上”。不要过度慢动作，速度感重要。
+
+  - shot_id: "E1_S19"
+    scene_id: "SC05_KHENSU_RUN"
+    character: "Khensu"
+    location: "EXT. BAZAAR BALCONIES - CONTINUOUS"
+
+    plot: >
+      延续跑酷动作，把 Khensu 从集市推向金字塔战场，同时升级视觉刺激。
+
+    performance: >
+      Khensu 在空中收紧身体，完成紧密螺旋躲开摆动陶棚；落到木阳台栏杆后侧身滑行，眼睛始终锁定怪物方向。
+
+    lighting: >
+      陶棚阴影快速扫过他的脸，栏杆滑行时木屑在阳光中飞散。远处毒雾给边缘染上紫绿冷色。
+
+    camera: >
+      景别 medium_full_body；角度 dynamic_high_to_low；运镜 crane_follow_then_whip_pan；焦段 35mm。
+
+    blocking: >
+      陶棚从右侧摆入前景，Khensu 在中景穿过，阳台栏杆斜向连接到画面左下方，最后他越过下方慌乱商人。
+
+    sound: >
+      陶棚绳索绷紧声、木栏杆摩擦声、人群惊呼、远处蝎尾爆响。滑行声尾部接战鼓节拍。
+
+    dialogue: >
+      商人（惊呼）：“Watch out!” Khensu 不回应。
+
+    duration_sec: 5
+    beat_type: "hero_motion"
+
+    style_notes: >
+      这一镜可以略带电子游戏式流畅感，但质感仍要尘土、木刺、汗水真实。
+
+  - shot_id: "E1_S20"
+    scene_id: "SC06_ARCHER_LINE"
+    character: "Ahmose / 弓箭战车队"
+    location: "EXT. GREAT PYRAMID - CONTINUOUS"
+
+    plot: >
+      回到主战场，Ahmose 组织弓箭手进行集中火力，准备第二轮反击。
+
+    performance: >
+      Ahmose 强迫自己冷静，抬手压住全军节奏。弓箭手们坐在战车上拉满重弓，恐惧藏在咬紧的牙关里。
+
+    lighting: >
+      太阳从弓阵正上方照下，箭头尚未点燃时反出冷青铜光。沙尘让远处怪物半隐半现。
+
+    camera: >
+      景别 wide；角度 eye_level_along_archer_line；运镜 lateral_dolly；焦段 45mm。
+
+    blocking: >
+      弓箭手在前景形成一条斜线，Ahmose 站在画面左侧指挥，怪物在背景右侧逼近。弓弦方向把视线引向怪物。
+
+    sound: >
+      弓弦被拉满的紧绷声密集叠加，马匹喘息，轮轴轻响。战鼓停在等待命令的空拍。
+
+    dialogue: >
+      AHMOSE（压低后提高，指挥节奏）：“On my orders! Ready...”
+
+    duration_sec: 5
+    beat_type: "setup"
+
+    style_notes: >
+      弓阵要有仪式性和纪律感，和前面溃败的近战形成区别。
+
+  - shot_id: "E1_S21"
+    scene_id: "SC06_ARCHER_LINE"
+    character: "Ahmose / 弓箭战车队"
+    location: "EXT. GREAT PYRAMID - CONTINUOUS"
+
+    plot: >
+      火箭齐发，短暂制造人类可能伤到怪物的希望。
+
+    performance: >
+      Ahmose 的手猛然落下，弓箭手同时释放。所有人眼中出现一瞬希望。
+
+    lighting: >
+      箭头在离弦瞬间点燃魔法火，金红火光掠过士兵脸部。天空被一片流星般火线划开。
+
+    camera: >
+      景别 wide_to_extreme_wide；角度 low_angle_up_to_sky；运镜 tilt_up_follow_arrows；焦段 30mm。
+
+    blocking: >
+      箭雨从画面下方密集升起，越过金字塔边缘，飞向远处怪物背甲。人类军阵留在底部成为发射源。
+
+    sound: >
+      “FIRE”后是弓弦齐鸣，随后箭雨破空形成呼啸。魔法火焰有轻微太阳铃音。
+
+    dialogue: >
+      AHMOSE（爆发命令）：“FIRE!”
+
+    duration_sec: 5
+    beat_type: "counterattack"
+
+    style_notes: >
+      箭雨像流星雨，火焰颜色应偏太阳金而不是普通橙火。
+
+  - shot_id: "E1_S22"
+    scene_id: "SC06_ARCHER_LINE"
+    character: "Isfet Spawn"
+    location: "EXT. GREAT PYRAMID - CONTINUOUS"
+
+    plot: >
+      火箭命中并打裂怪物甲壳，制造胜利错觉，同时埋下更恐怖的反转。
+
+    performance: >
+      怪物第一次发出痛吼，身体后仰，甲壳缝隙裂开。它的痛苦不让它变弱，反而像释放内部灾害。
+
+    lighting: >
+      火箭爆点在黑甲上形成金红裂纹；裂缝里不是正常血液，而是暗红波动光。周围沙尘被爆光照亮。
+
+    camera: >
+      景别 close_on_shell_to_wide；角度 low_angle；运镜 crash_zoom_to_crack_then_pull_back；焦段 70mm 转 35mm。
+
+    blocking: >
+      前景是甲壳裂缝，火光在裂纹内跳动；拉开后看见怪物庞大身体和下方欢呼未起的士兵。
+
+    sound: >
+      箭头爆燃、甲壳裂开像黑曜石断裂，怪物痛吼。随后裂缝内部传出细密爬行声。
+
+    dialogue: >
+      无对白。用士兵短促吸气表现“打中了”的希望。
+
+    duration_sec: 5
+    beat_type: "false_victory"
+
+    style_notes: >
+      暗红“血”不是液体，要像有生命的波纹，预示内部藏着虫群。
+
+  - shot_id: "E1_S23"
+    scene_id: "SC07_SCORPION_SWARM"
+    character: "小蝎群 / 太阳守卫军"
+    location: "EXT. GREAT PYRAMID - CONTINUOUS"
+
+    plot: >
+      怪物裂口喷出成千上万小蝎子，胜利错觉反转成恐怖灾难。
+
+    performance: >
+      士兵先僵住，然后拼命拍打身体。小蝎子没有普通动物犹豫，像被一个意志控制，精准钻向耳朵、嘴和盔甲缝隙。
+
+    lighting: >
+      火光熄灭后，黑色小蝎子在沙地上形成移动阴影。它们甲壳边缘有冷紫反光，与太阳金形成污染感。
+
+    camera: >
+      景别 extreme_close_to_medium；角度 ground_level；运镜 macro_tracking_with_swarm；焦段 90mm macro 转 50mm。
+
+    blocking: >
+      前景小蝎子从裂缝倾泻到沙地，中景爬上士兵腿部，背景更多士兵后退撞成一团。
+
+    sound: >
+      成千上万甲足点击沙地的声音像急雨，叠加士兵窒息惨叫和骨骼干裂声。环境声被虫群声占领。
+
+    dialogue: >
+      士兵（崩溃尖叫）：“Get them off! Get them off!” 随后声音被吞没。
+
+    duration_sec: 6
+    beat_type: "horror_reversal"
+
+    style_notes: >
+      恐怖感来自数量和侵入性，避免过度血腥特写。可用士兵倒下后白骨露出的剪影完成残酷结果。
+
+  - shot_id: "E1_S24"
+    scene_id: "SC07_SCORPION_SWARM"
+    character: "Ahmose"
+    location: "EXT. GREAT PYRAMID - CONTINUOUS"
+
+    plot: >
+      Ahmose 目睹军队被虫群吞噬，意识到常规力量已经失败。
+
+    performance: >
+      Ahmose 的脸被沙和血弄脏，眼神从指挥者的专注坍缩为无力。他仍站着，但精神上第一次接近崩溃。
+
+    lighting: >
+      阳光被沙尘遮住，脸部变暗；只有甲胄反射的零碎金光照亮眼睛。周围冷紫毒雾压低色温。
+
+    camera: >
+      景别 close；角度 slight_high_angle；运镜 slow_push_in；焦段 75mm。
+
+    blocking: >
+      Ahmose 位于画面中心，背景虚焦中士兵倒下。几只小蝎子从画面边缘爬过，提醒危险逼近。
+
+    sound: >
+      战场惨叫逐渐远去，变成耳鸣。Ahmose 说话后，远处怪物吼声低沉回应。
+
+    dialogue: >
+      AHMOSE（绝望，几乎是祈祷）：“Only the gods can help us now!”
+
+    duration_sec: 5
+    beat_type: "despair"
+
+    style_notes: >
+      这一镜是 Ahmose 的信念裂缝，不是胆怯。镜头要贴近，让观众看见他仍想撑住。
+
+  - shot_id: "E1_S25"
+    scene_id: "SC08_SOLAR_WHIP_AWAKENING"
+    character: "Khensu"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Khensu 抵达战场并取得牛皮鞭，为太阳神力具象化做准备。
+
+    performance: >
+      Khensu 落地翻滚卸力，眼神迅速扫过战场，抓起沉重牛皮鞭。他的动作不花哨，像在工地抓起熟悉工具。
+
+    lighting: >
+      他从沙尘阴影滚入阳光，身体轮廓由暗转亮。牛皮鞭原本是暗褐色，沾满尘土，没有神性。
+
+    camera: >
+      景别 medium_full_body；角度 low_ground_level；运镜 follow_roll_then_snap_to_whip；焦段 35mm。
+
+    blocking: >
+      前景是沙地和废弃武器，Khensu 从左侧滚入中景，右手抓住画面右下角的牛皮鞭。背景怪物巨大但虚焦。
+
+    sound: >
+      身体擦过沙地、手掌抓皮革、远处虫群点击声。抓住鞭子时，所有声音短暂收紧。
+
+    dialogue: >
+      无对白。Khensu 用一次深呼吸稳定自己。
+
+    duration_sec: 4
+    beat_type: "arrival"
+
+    style_notes: >
+      牛皮鞭要先像普通工具，这样后续转化才有奇迹感。
+
+  - shot_id: "E1_S26"
+    scene_id: "SC08_SOLAR_WHIP_AWAKENING"
+    character: "Khensu"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Khensu 调动第一缕光的力量，把普通皮鞭转化为太阳火焰长鞭。
+
+    performance: >
+      Khensu 单膝跪地，把手掌重重按进沙土，表情从恐惧转为痛苦承受。金色光脉沿手臂爬升，他咬牙不退。
+
+    lighting: >
+      地面裂开细密金线，从沙下向上照亮他的手臂和下颌。太阳光与地底金光相连，形成上下夹击的神圣光源。
+
+    camera: >
+      景别 close_to_medium；角度 high_angle_on_hand_then_rise；运镜 push_in_on_golden_veins；焦段 60mm。
+
+    blocking: >
+      前景是按入沙土的手，金线从手掌向手臂蔓延；中景皮鞭被光缠绕；背景战场在热浪中扭曲。
+
+    sound: >
+      低频太阳共鸣从地下升起，皮革纤维被烧亮的滋滋声，随后鞭身展开时发出火焰破空声。
+
+    dialogue: >
+      无对白。Khensu 只发出压抑的痛哼。
+
+    duration_sec: 6
+    beat_type: "power_activation"
+
+    style_notes: >
+      太阳火不是普通火焰，应像编织的光束和火舌。金线沿血管走，但不可显得科技化。
+
+  - shot_id: "E1_S27"
+    scene_id: "SC09_AHMOSE_LAST_STAND"
+    character: "Isfet Spawn / Ahmose"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      怪物抬起巨大毒刺遮蔽太阳，Ahmose 被迫独自面对它，进入最后防线。
+
+    performance: >
+      怪物像山一样后仰，毒刺升起；Ahmose 明知不敌仍向前一步，握剑的手在抖，眼神却没有离开怪物。
+
+    lighting: >
+      毒刺遮住太阳，巨大的死亡阴影扫过金字塔和 Ahmose。画面从金色骤降为暗褐，只有毒刺边缘有紫光。
+
+    camera: >
+      景别 extreme_wide_to_medium；角度 low_angle；运镜 tilt_up_to_stinger_then_drop_to_Ahmose；焦段 28mm 转 50mm。
+
+    blocking: >
+      毒刺占据画面上方，Ahmose 独自站在下方中心，周围倒下的士兵形成空场。金字塔被阴影覆盖。
+
+    sound: >
+      随着阴影落下，战场声被低频压住。毒刺关节发出巨木弯折般的咯吱声。
+
+    dialogue: >
+      无对白。Ahmose 的呼吸在阴影中变得清晰。
+
+    duration_sec: 6
+    beat_type: "last_stand_setup"
+
+    style_notes: >
+      “blots out the sun”必须直观，太阳被毒刺遮住的瞬间是视觉重锤。
+
+  - shot_id: "E1_S28"
+    scene_id: "SC09_AHMOSE_LAST_STAND"
+    character: "Ahmose / Isfet Spawn / Advisor"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Ahmose 尝试用 Ma'at 的秩序法术束缚混沌，但法术被轻易击溃。
+
+    performance: >
+      Ahmose 抬手施法，声音带着破碎的坚定。Advisor 冲向他，想把他拉离死亡范围。怪物带着蔑视般的暴力扫碎沙墙。
+
+    lighting: >
+      沙墙升起时有暖金光从沙粒内部闪烁；被击碎后光迅速熄灭，紫黑阴影重新压回画面。
+
+    camera: >
+      景别 medium_wide；角度 eye_level_to_low_angle；运镜 circular_dolly_around_sand_wall；焦段 40mm。
+
+    blocking: >
+      Ahmose 在沙墙圆心，沙墙环绕怪物下半身；Advisor 从右后方冲入。怪物巨螯从左上方扫下，破坏圆形构图。
+
+    sound: >
+      咒语声带轻微混响，沙墙轰然升起；怪物击碎沙墙时声场炸开，沙粒像暴雨砸向盾牌。
+
+    dialogue: >
+      AHMOSE（咒语，急促但庄严）：“Ma'at, bring justice and order, bind the chaos!”
+      ADVISOR（惊恐，冲近）：“Master! You must find safety.”
+
+    duration_sec: 7
+    beat_type: "failed_magic"
+
+    style_notes: >
+      Ma'at 法术是秩序圆环，怪物的破坏要把几何秩序打散成混乱沙暴。
+
+  - shot_id: "E1_S29"
+    scene_id: "SC09_AHMOSE_LAST_STAND"
+    character: "Ahmose / 太阳守卫军 / Isfet Spawn"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      怪物再次屠戮士兵，Ahmose 被迫下令撤退，承认防线崩溃。
+
+    performance: >
+      怪物像战马般跃起落下，士兵被毒刺和螯肢击飞。血溅到 Ahmose 脸上，他短暂无法接受，随后用尽力气喊出撤退。
+
+    lighting: >
+      沙尘中有断续红色血雾，阳光被遮挡成昏黄。Ahmose 脸上的血在暗处显黑，转头时才闪红。
+
+    camera: >
+      景别 medium_close_on_Ahmose_then_wide_impact；角度 handheld_eye_level；运镜 shaky_pull_back；焦段 45mm。
+
+    blocking: >
+      前景 Ahmose 被冲击震退，中景士兵倒下，背景怪物落地形成巨坑。撤退方向从画面右侧打开。
+
+    sound: >
+      士兵尖叫在 Ahmose 耳中变成高频耳鸣，随后怪物落地低频震回真实声场。撤退命令撕破混乱。
+
+    dialogue: >
+      AHMOSE（不甘，嘶喊）：“Retreat!”
+
+    duration_sec: 6
+    beat_type: "retreat"
+
+    style_notes: >
+      Ahmose 的撤退不是懦弱，是指挥官在无望时保护残兵的痛苦选择。
+
+  - shot_id: "E1_S30"
+    scene_id: "SC10_KHENSU_FIRST_STRIKE"
+    character: "Khensu / Isfet Spawn"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Khensu 看到太阳守卫撤退，选择正面冲向怪物，第一次以光鞭介入战斗。
+
+    performance: >
+      Khensu 的恐惧还在脸上，但脚步越来越快。他甩动太阳鞭时，身体像石匠挥重锤，力量从腰背爆发。
+
+    lighting: >
+      光鞭在沙尘中画出金色弧线，短暂照亮怪物脸部和 Khensu 的眼睛。周围冷紫毒雾被金光劈开。
+
+    camera: >
+      景别 wide_to_medium；角度 low_angle_tracking；运镜 dolly_with_Khensu_then_whip_pan_to_impact；焦段 32mm。
+
+    blocking: >
+      Khensu 从画面左下角冲入，撤退士兵从右侧后退，怪物脸部占据背景。光鞭横向切过画面，连接英雄与怪物。
+
+    sound: >
+      光鞭蓄力时有火焰拉伸声，击中怪物脸部时爆出雷鸣般鞭响。怪物痛吼盖过战鼓。
+
+    dialogue: >
+      无对白。Khensu 以怒吼和鞭击宣告登场。
+
+    duration_sec: 5
+    beat_type: "hero_intervention"
+
+    style_notes: >
+      第一鞭要让观众真正相信 Khensu 能伤到怪物。金光轨迹可以保留半秒残影。
+
+  - shot_id: "E1_S31"
+    scene_id: "SC10_KHENSU_FIRST_STRIKE"
+    character: "Isfet Spawn / Khensu"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      怪物用紫色能量反击，把 Khensu 击飞，打破英雄初登场的优势。
+
+    performance: >
+      怪物后仰后迅速暴怒，毒刺脉冲紫光。Khensu 在空中来不及防御，被能量击中时表情从坚定变成痛苦震惊。
+
+    lighting: >
+      紫色能量从毒刺一节节点亮，像毒液中的闪电。击中 Khensu 时，金光与紫光激烈冲撞，随后金光熄弱。
+
+    camera: >
+      景别 medium_to_wide；角度 dutch_low_angle；运镜 crash_zoom_on_stinger_then_fast_pan_with_Khensu；焦段 50mm。
+
+    blocking: >
+      毒刺在画面右上方蓄能，Khensu 位于左中景跃起；紫光斜线击穿画面，把他抛向金字塔墙。
+
+    sound: >
+      毒刺蓄能是高频电弧加低频心跳；命中时声音瞬间抽空，再以巨响恢复。
+
+    dialogue: >
+      Khensu（痛吼）：“Ah!”
+
+    duration_sec: 5
+    beat_type: "reversal"
+
+    style_notes: >
+      紫光是混沌能量，与太阳金形成明确敌对色。冲击要短促凶狠。
+
+  - shot_id: "E1_S32"
+    scene_id: "SC10_KHENSU_FIRST_STRIKE"
+    character: "Khensu"
+    location: "EXT. PYRAMID WALL - CONTINUOUS"
+
+    plot: >
+      Khensu 被砸入金字塔墙，太阳力量熄灭，英雄似乎失败。
+
+    performance: >
+      Khensu 身体嵌进石墙形成裂坑，咳出沙尘，视线模糊。他试图抬手，但金色光脉闪烁几下后黯淡。
+
+    lighting: >
+      坑内阴影深，只有残余金线微弱照亮他的手臂。外部沙尘遮住太阳，让画面短暂失去希望。
+
+    camera: >
+      景别 close；角度 high_angle_into_crater；运镜 slow_push_in；焦段 65mm。
+
+    blocking: >
+      Khensu 位于石坑中央，碎石环绕成放射裂纹。光鞭掉在坑外远处，处于他伸手够不到的位置。
+
+    sound: >
+      石壁碎裂后的碎石滚落声，Khensu 咳嗽，耳鸣，远处虫群点击声逐渐重新占据声场。
+
+    dialogue: >
+      无对白。Khensu 只咳嗽，呼吸断续。
+
+    duration_sec: 5
+    beat_type: "hero_down"
+
+    style_notes: >
+      墙上裂坑可有漫画式“人形撞击”夸张感，但材质仍是石灰岩真实破裂。
+
+  - shot_id: "E1_S33"
+    scene_id: "SC11_SWARM_EXECUTION"
+    character: "Ahmose / 幸存太阳守卫军 / 小蝎群"
+    location: "EXT. PYRAMID RUBBLE - CONTINUOUS"
+
+    plot: >
+      Ahmose 和残兵被逼到碎石堆前，弹尽粮绝，进入处决前的绝境。
+
+    performance: >
+      幸存士兵背靠背举着空弓和断矛，眼神已经失去战意。Ahmose 仍挡在最前面，但膝盖发软。
+
+    lighting: >
+      沙尘让阳光变成暗黄，碎石堆投下硬阴影。小蝎子反射冷黑光，像一张移动的地毯。
+
+    camera: >
+      景别 wide_then_medium；角度 high_angle_slight；运镜 slow_push_toward_trapped_group；焦段 40mm。
+
+    blocking: >
+      残兵被压在画面中央偏后，前景整片小蝎群从下方涌入，左右两侧都是不可攀爬的碎石和死角。
+
+    sound: >
+      小蝎群点击声由远到近，像潮水。士兵箭袋空响，断矛落地，呼吸声越来越密。
+
+    dialogue: >
+      无主对白。士兵低声祈祷，内容混杂不可辨。
+
+    duration_sec: 5
+    beat_type: "crisis"
+
+    style_notes: >
+      小蝎群“地毯感”要强，密度足以让观众产生无路可逃的生理不适。
+
+  - shot_id: "E1_S34"
+    scene_id: "SC11_SWARM_EXECUTION"
+    character: "太阳守卫士兵 / 小蝎群 / Ahmose"
+    location: "EXT. PYRAMID RUBBLE - CONTINUOUS"
+
+    plot: >
+      一名士兵绊倒并被虫群吞噬，逼 Ahmose 面对自己下一秒的命运。
+
+    performance: >
+      士兵摔倒后疯狂抓沙，眼里全是求救；其他士兵本能想拉他，却被虫群逼退。Ahmose 想伸手但慢了一瞬，痛苦写在脸上。
+
+    lighting: >
+      士兵倒地处被沙尘遮蔽，阳光只照到他伸出的手。虫群涌上时，手的高光被黑色吞没。
+
+    camera: >
+      景别 medium_close_to_close；角度 ground_level；运镜 handheld_lurch_forward_then_stop；焦段 55mm。
+
+    blocking: >
+      摔倒士兵在前景，Ahmose 和残兵在中景后退，虫群从画面两侧包围前景身体。
+
+    sound: >
+      摔倒闷响、盔甲刮沙、小蝎子钻入盔甲缝隙的细密湿声。士兵惨叫逐渐变成窒息。
+
+    dialogue: >
+      摔倒士兵（恐惧，断续）：“Help me! Please!” 声音迅速被虫群声盖住。
+
+    duration_sec: 5
+    beat_type: "horror_peak"
+
+    style_notes: >
+      镜头不要停留过久在身体破坏上，用被黑色虫群覆盖和声音完成恐怖。
+
+  - shot_id: "E1_S35"
+    scene_id: "SC11_SWARM_EXECUTION"
+    character: "Ahmose"
+    location: "EXT. PYRAMID RUBBLE - CONTINUOUS"
+
+    plot: >
+      Ahmose 跪下，剑颤抖，彻底落入无助。他从指挥者变成等待死亡的人。
+
+    performance: >
+      Ahmose 单膝跪地，剑尖插进沙中却仍在抖。他的脸上有羞耻、恐惧和不甘，声音几乎碎掉。
+
+    lighting: >
+      顶光被沙尘遮成灰金色，Ahmose 眼中没有高光。小蝎子的冷反光从画面下方慢慢逼近他的脸。
+
+    camera: >
+      景别 close；角度 slight_high_angle；运镜 slow_push_in_until_sword_tremor_visible；焦段 75mm。
+
+    blocking: >
+      Ahmose 居中跪地，剑在画面下方前景颤动。背景幸存士兵退到模糊边缘，已经无法帮他。
+
+    sound: >
+      虫群点击声越来越近，战场其他声音几乎消失。剑刃微颤发出细小金属声。
+
+    dialogue: >
+      AHMOSE（崩溃，低声祈求）：“Not like this... gods, not like this...”
+
+    duration_sec: 5
+    beat_type: "lowest_point"
+
+    style_notes: >
+      这是全集情感最低点，要让观众相信救援可能已经来不及。
+
+  - shot_id: "E1_S36"
+    scene_id: "SC11_SWARM_EXECUTION"
+    character: "小蝎群 / Ahmose"
+    location: "EXT. PYRAMID RUBBLE - CONTINUOUS"
+
+    plot: >
+      十二只小蝎子同时跃向 Ahmose 咽喉，把死亡悬在最后一寸。
+
+    performance: >
+      Ahmose 瞳孔放大，却已经没有力量躲避。小蝎子像箭矢一样弹起，毒刺全部对准他的喉咙。
+
+    lighting: >
+      时间感变慢，太阳光在每只小蝎子的黑壳上形成锋利小高光。背景被压暗，突出飞跃轨迹。
+
+    camera: >
+      景别 extreme_close_to_slow_motion_medium；角度 profile_eye_level；运镜 bullet_time_arc；焦段 85mm。
+
+    blocking: >
+      Ahmose 的喉咙在画面右侧，小蝎子从左下方跃起，停在半空的不同深度，最近一只离皮肤只有几英寸。
+
+    sound: >
+      声音进入慢动作：虫群点击被拉长，Ahmose 心跳放大，远处传来极微弱的 Khensu 怒吼前奏。
+
+    dialogue: >
+      无对白。只剩心跳和拉长的空气声。
+
+    duration_sec: 4
+    beat_type: "death_suspended"
+
+    style_notes: >
+      这是救援前的时间冻结点，必须清楚表现“差一点点就死”。
+
+  - shot_id: "E1_S37"
+    scene_id: "SC12_CRATER_REAWAKENING"
+    character: "Khensu"
+    location: "INT. CRATER / PYRAMID WALL - CONTINUOUS"
+
+    plot: >
+      切回石坑中的 Khensu，他看到虫群飞向 Ahmose，靠意志重新点燃太阳力量。
+
+    performance: >
+      Khensu 视线模糊但捕捉到 Ahmose 将死的一刻。他从痛苦中爆发怒吼，手臂向光鞭伸出，表情从濒败转为纯粹决心。
+
+    lighting: >
+      坑内原本暗淡，怒吼时金色光脉突然爆亮，照亮裂纹。光从皮下和沙尘中同时喷出，像小太阳重燃。
+
+    camera: >
+      景别 close_to_medium；角度 low_inside_crater；运镜 rapid_push_in_then_snap_to_hand；焦段 50mm。
+
+    blocking: >
+      Khensu 半嵌在石壁，手向画面外伸；远处光鞭在坑口边缘，先暗后亮，回应他的召唤。
+
+    sound: >
+      耳鸣被 Khensu 的怒吼撕开，太阳共鸣猛然扩张。碎石震动，光鞭发出被拉回生命的火焰声。
+
+    dialogue: >
+      KHENSU（怒吼，无词，来自劳作与痛苦的爆发）：“AAAAH!”
+
+    duration_sec: 5
+    beat_type: "reawakening"
+
+    style_notes: >
+      怒吼不是超英姿态，而是工人般咬碎痛苦的蛮力。金光爆发要有情绪冲击。
+
+  - shot_id: "E1_S38"
+    scene_id: "SC13_STINGER_SNAP"
+    character: "Khensu / Isfet Spawn"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Khensu 的太阳鞭缠住巨型毒刺，阻止怪物的致命攻击，并扭转战局。
+
+    performance: >
+      Khensu 从石坑边缘猛然发力，双臂和背部肌肉绷紧。他不是优雅施法，而是在和一座山拔河。
+
+    lighting: >
+      光鞭像太阳绳索横贯战场，照亮沙尘中的所有幸存者。怪物毒刺紫光被金光压制，边缘冒出黑烟。
+
+    camera: >
+      景别 extreme_wide；角度 low_angle_between_Khensu_and_spawn；运镜 fast_dolly_back_revealing_scale；焦段 24mm。
+
+    blocking: >
+      Khensu 在画面左下，怪物毒刺在右上，光鞭形成强对角线。Ahmose 和飞跃小蝎子位于画面中下方，说明救援同步发生。
+
+    sound: >
+      光鞭缠绕毒刺发出灼烧嘶声，怪物痛吼，Khensu 脚下石块被拖裂。声场从慢动作恢复真实速度。
+
+    dialogue: >
+      无对白。Khensu 以咬牙的喘息和拉扯声完成动作。
+
+    duration_sec: 6
+    beat_type: "climax_turn"
+
+    style_notes: >
+      画面要一眼看懂三件事：毒刺被抓住、Ahmose 被救、Khensu 在用全身力量拉。
+
+  - shot_id: "E1_S39"
+    scene_id: "SC13_STINGER_SNAP"
+    character: "Khensu / Isfet Spawn"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Khensu 把巨型毒刺向下撕断，完成物理和神力上的胜利一击。
+
+    performance: >
+      Khensu 全身下沉，像拉倒巨石一样猛拽。怪物身体失衡，螯肢疯狂刨沙，痛苦转为惊恐。
+
+    lighting: >
+      毒刺断裂处爆出紫黑能量和金色火花，金光占上风。断裂瞬间短暂白闪，随后沙尘被照成金色。
+
+    camera: >
+      景别 wide_to_close_on_break；角度 low_angle；运镜 whip_down_with_stinger_then_impact_shake；焦段 35mm。
+
+    blocking: >
+      毒刺从画面上方被硬拉向地面，断裂点落在画面中心。Khensu 在远处仍被光鞭连接，形成清晰因果。
+
+    sound: >
+      拉扯声达到极限后出现巨大的 CRACK，像山体裂开。随后怪物尖叫和能量泄漏声同时爆开。
+
+    dialogue: >
+      无对白。
+
+    duration_sec: 5
+    beat_type: "climax"
+
+    style_notes: >
+      CRACK 是全集最大声音冲击点。断裂不是切断，而是被硬生生撕断。
+
+  - shot_id: "E1_S40"
+    scene_id: "SC14_GLASS_SCORPIONS"
+    character: "小蝎群 / Ahmose"
+    location: "EXT. PYRAMID RUBBLE - CONTINUOUS"
+
+    plot: >
+      毒刺断裂导致小蝎子在半空凝固成黑玻璃，Ahmose 在最后一寸获救。
+
+    performance: >
+      Ahmose 下意识闭眼等待死亡；小蝎子在他皮肤前冻结、变硬、碎裂。他睁眼时仍不敢相信自己活着。
+
+    lighting: >
+      金光扫过小蝎子，黑壳从内到外玻璃化，边缘结出冷白霜光。碎裂时每片玻璃反射太阳。
+
+    camera: >
+      景别 extreme_close；角度 profile_eye_level；运镜 slow_motion_static_then_tiny_push_in；焦段 100mm macro。
+
+    blocking: >
+      Ahmose 的喉咙和下颌在画面右侧，黑玻璃蝎子悬在左侧半空，碎片向下落到他的胸甲上。
+
+    sound: >
+      慢动作中先是高频结晶声，然后一连串细碎玻璃破裂。Ahmose 的抽气声在碎片落下后回到真实速度。
+
+    dialogue: >
+      无对白。Ahmose 发出一口破碎、近乎哭泣的喘息。
+
+    duration_sec: 5
+    beat_type: "rescue"
+
+    style_notes: >
+      黑玻璃碎裂要美丽又恐怖，像混沌被太阳秩序瞬间封存。
+
+  - shot_id: "E1_S41"
+    scene_id: "SC15_MONSTER_DISSOLUTION"
+    character: "Ahmose / Isfet Spawn"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Ahmose 站在尘埃中，看见 Isfet Spawn 失去力量并化成沙，确认胜利但保留神秘。
+
+    performance: >
+      Ahmose 缓慢站起，剑仍在颤抖。他看向怪物时没有胜利狂喜，只有震惊和劫后余生。
+
+    lighting: >
+      沙尘逐渐变薄，太阳重新照到金字塔。怪物化沙时，黑壳被金光剥落成灰黑砂粒。
+
+    camera: >
+      景别 medium_on_Ahmose_to_wide_reveal；角度 eye_level；运镜 slow_pull_back；焦段 50mm。
+
+    blocking: >
+      Ahmose 站在前景偏左，背景怪物庞大身躯开始塌陷。幸存士兵散落在更远处，不敢靠近。
+
+    sound: >
+      怪物身体崩解像干砂从巨型陶罐中倾泻，战场声逐渐空旷。风声重新成为主声源。
+
+    dialogue: >
+      无对白。只保留 Ahmose 颤抖的呼吸。
+
+    duration_sec: 6
+    beat_type: "aftermath"
+
+    style_notes: >
+      怪物不是爆炸死亡，而是被太阳秩序抽走形体，像混沌重新散成无名沙。
+
+  - shot_id: "E1_S42"
+    scene_id: "SC15_MONSTER_DISSOLUTION"
+    character: "Ahmose"
+    location: "EXT. PYRAMID - CONTINUOUS"
+
+    plot: >
+      Ahmose 意识到救他们的不是普通士兵，提出全集核心悬念：Khensu 究竟是谁。
+
+    performance: >
+      Ahmose 望向尘云中的石坑方向，眼中有敬畏、困惑和本能的追寻。他迈出一步，像被答案牵引。
+
+    lighting: >
+      夕近感的暖金光穿过尘埃，照出 Ahmose 眼中重新出现的高光。背景尘云内有微弱太阳涡旋光。
+
+    camera: >
+      景别 close；角度 eye_level；运镜 slow_push_in_on_Ahmose_then_rack_focus_to_crater；焦段 70mm。
+
+    blocking: >
+      Ahmose 在前景，身后怪物沙粒落尽；焦点从他的眼睛转到远处尘雾中的 Khensu 方向。
+
+    sound: >
+      战场静下来，只剩风穿过碎石。远处传来光鞭落地的轻响，引导 Ahmose 转头。
+
+    dialogue: >
+      AHMOSE（低声，自言自语，敬畏）：“Who... what are you?”
+
+    duration_sec: 5
+    beat_type: "mystery"
+
+    style_notes: >
+      台词里的停顿很重要：“Who”是人，“what”是神性疑问。
+
+  - shot_id: "E1_S43"
+    scene_id: "SC16_CLIFFHANGER"
+    character: "Khensu"
+    location: "EXT. PYRAMID CRATER - CONTINUOUS"
+
+    plot: >
+      Ahmose 奔向救命恩人，观众第一次看到战斗后的 Khensu：他放下光鞭，背后太阳形成盲目漩涡，开启下一集悬念。
+
+    performance: >
+      Khensu 站在尘云中，疲惫到几乎站不稳。他松开手，光鞭落下，脸上不是胜利，而是被某种力量召回前的恍惚。
+
+    lighting: >
+      太阳在他背后爆成强烈逆光，金色光环旋转成漩涡。人物正面几乎成剪影，只保留手臂金线和汗光。
+
+    camera: >
+      景别 close_up_on_whip_drop_then_medium_silhouette；角度 low_angle；运镜 tilt_up_from_falling_whip_to_Khensu；焦段 50mm。
+
+    blocking: >
+      前景是太阳鞭落到沙地，光芒慢慢熄灭；中景 Khensu 背对太阳；背景金色漩涡扩大，Ahmose 的奔跑身影在远处虚焦。
+
+    sound: >
+      光鞭落地发出沉重但柔和的金属火焰声，随后所有战场声被漩涡的高频太阳共鸣吸走。最后留下强烈风压。
+
+    dialogue: >
+      无对白。让 Ahmose 的远处脚步声和即将出口的呼喊被漩涡声吞没。
+
+    duration_sec: 7
+    beat_type: "cliffhanger"
+
+    style_notes: >
+      结尾必须是强视觉钩子：Khensu 像被太阳本身选中或带走。不要在本集解释漩涡，只留下敬畏和疑问。

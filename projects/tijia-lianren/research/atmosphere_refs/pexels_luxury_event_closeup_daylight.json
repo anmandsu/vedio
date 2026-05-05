@@ -1,0 +1,184 @@
+﻿{
+  "page": 1,
+  "per_page": 8,
+  "photos": [
+    {
+      "id": 9685882,
+      "width": 8192,
+      "height": 5464,
+      "url": "https://www.pexels.com/photo/clear-glass-bottle-beside-silver-fork-and-knife-on-white-table-9685882/",
+      "photographer": "Engin Akyurt",
+      "photographer_url": "https://www.pexels.com/@enginakyurt",
+      "photographer_id": 631997,
+      "avg_color": "#BAB3A3",
+      "src": {
+        "original": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg",
+        "large2x": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/9685882/pexels-photo-9685882.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A stylish outdoor table setting with glassware, cutlery, and napkins on a sunny day."
+    },
+    {
+      "id": 14183029,
+      "width": 6016,
+      "height": 4016,
+      "url": "https://www.pexels.com/photo/wine-glasses-on-table-14183029/",
+      "photographer": "Rene Terp",
+      "photographer_url": "https://www.pexels.com/@reneterp",
+      "photographer_id": 2421,
+      "avg_color": "#827F78",
+      "src": {
+        "original": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg",
+        "large2x": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/14183029/pexels-photo-14183029.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A classy table setup with fine cutlery, napkins, and elegant wine glasses ideal for formal dining."
+    },
+    {
+      "id": 18573171,
+      "width": 5464,
+      "height": 8192,
+      "url": "https://www.pexels.com/photo/empty-glasses-on-table-at-wedding-reception-venue-18573171/",
+      "photographer": "Valeria Boltneva",
+      "photographer_url": "https://www.pexels.com/@valeriya",
+      "photographer_id": 665,
+      "avg_color": "#D0BAAF",
+      "src": {
+        "original": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg",
+        "large2x": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/18573171/pexels-photo-18573171.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Beautiful array of champagne glasses set up for a wedding reception under a floral-decorated tent."
+    },
+    {
+      "id": 1545348,
+      "width": 7952,
+      "height": 5304,
+      "url": "https://www.pexels.com/photo/man-wearing-suit-in-close-up-photography-1545348/",
+      "photographer": "Rene Terp",
+      "photographer_url": "https://www.pexels.com/@reneterp",
+      "photographer_id": 2421,
+      "avg_color": "#585E55",
+      "src": {
+        "original": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg",
+        "large2x": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/1545348/pexels-photo-1545348.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Close-up of groom's suit and tie with white rose boutonniere, symbolizing wedding elegance."
+    },
+    {
+      "id": 4717549,
+      "width": 6000,
+      "height": 4000,
+      "url": "https://www.pexels.com/photo/a-beautiful-dining-set-up-4717549/",
+      "photographer": "Denys Gromov",
+      "photographer_url": "https://www.pexels.com/@jdgromov",
+      "photographer_id": 2781965,
+      "avg_color": "#8A4A60",
+      "src": {
+        "original": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg",
+        "large2x": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/4717549/pexels-photo-4717549.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Top view of a luxurious wedding dining setup with elegant decor and lighting."
+    },
+    {
+      "id": 29093818,
+      "width": 4000,
+      "height": 6000,
+      "url": "https://www.pexels.com/photo/elegant-fine-dining-table-setting-with-glassware-29093818/",
+      "photographer": "Ken Mwaura",
+      "photographer_url": "https://www.pexels.com/@mwauraken",
+      "photographer_id": 2961357,
+      "avg_color": "#BAB5B1",
+      "src": {
+        "original": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg",
+        "large2x": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/29093818/pexels-photo-29093818.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Beautifully arranged table setting with crystal glassware and pink linens, perfect for weddings or events."
+    },
+    {
+      "id": 14312931,
+      "width": 3715,
+      "height": 5573,
+      "url": "https://www.pexels.com/photo/dining-table-beside-the-wooden-chair-14312931/",
+      "photographer": "cemre kırlangıç",
+      "photographer_url": "https://www.pexels.com/@cemre-kirlangic-201795807",
+      "photographer_id": 201795807,
+      "avg_color": "#8E8D88",
+      "src": {
+        "original": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg",
+        "large2x": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/14312931/pexels-photo-14312931.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Beautifully arranged outdoor wedding reception table with a sea view."
+    },
+    {
+      "id": 18281726,
+      "width": 2666,
+      "height": 4000,
+      "url": "https://www.pexels.com/photo/close-up-of-a-glass-and-plate-on-the-banquet-table-18281726/",
+      "photographer": "Alejandra Montenegro",
+      "photographer_url": "https://www.pexels.com/@alejandra-montenegro-1146787",
+      "photographer_id": 1146787,
+      "avg_color": "#7E7E7E",
+      "src": {
+        "original": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg",
+        "large2x": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/18281726/pexels-photo-18281726.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Close-up of ornate glassware and elegant table setting in an outdoor dining atmosphere."
+    }
+  ],
+  "total_results": 8000,
+  "next_page": "https://api.pexels.com/v1/v1/search?page=2&per_page=8&query=luxury+event+close+up+daylight"
+}

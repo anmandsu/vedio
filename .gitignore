@@ -1,0 +1,37 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary/generated cache folders
+tmp/
+temp/
+cache/
+*.log
+
+# Large video exports; use Git LFS if these need versioning
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.m4a
+*.flac
+projects/**/research/videos/
+projects/**/renders/videos/

@@ -1,0 +1,33 @@
+{
+  "asset_id": "shen-wanqiu_v0",
+  "character_name": "沈婉秋",
+  "source_image": "C:\\Users\\123\\Videos\\vedio V3\\projects\\tijia-lianren\\renders\\images\\_MASTER_shen_wanqiu_candidate_v0.png",
+  "review_date": "2026-05-05",
+  "status": "identity_anchor_candidate",
+  "stable_facts": {
+    "face_structure": "Chinese woman, mid-20s; refined narrow oval face, delicate cheekbones, slim jaw tapering to a small natural chin, elegant long-necked bridal silhouette.",
+    "eyes": "Clear almond eyes with cold controlled focus; gaze is sharp and direct even under veil; no naive softness.",
+    "brows": "Natural dark brows, softly arched but not overly drawn, clean Korean-drama grooming.",
+    "nose": "Straight delicate nose bridge, narrow realistic nose shape, no exaggerated doll-like profile.",
+    "mouth": "Small to medium muted-rose lips, controlled closed expression, no sweet smile.",
+    "hair": "Dark hair pulled into a restrained bridal updo/low bun, clean hairline, minimal loose strands, veil visible over hair.",
+    "body_type": "Slender body, long neck, narrow shoulders, poised stillness.",
+    "costume_silhouette": "White or ivory bridal dress with translucent veil, pearl strand details, beaded bodice, cool high-end Korean bridal editorial finish.",
+    "skin_texture": "Natural fair skin with subtle pores and dewy finish; polished but not airbrushed.",
+    "lighting_direction": "Cool daylight filtered through car window and veil; soft fill keeps eye detail visible.",
+    "scene_anchor": "Wedding car interior, black car window frame, translucent veil between camera and face."
+  },
+  "allowed_variation": {
+    "expression": "Cold, controlled, quietly threatening, restrained grief; tears only when script earns it.",
+    "costume": "EP01 bridal look with veil; later revenge/investigation states can shift to white blouse, black suit, cool tailored clothing while preserving face identity.",
+    "pose": "Sitting in wedding car, lifting veil, standing in bridal dress, holding phone/evidence file, composed walking posture."
+  },
+  "known_drift_risks": [
+    "Generating multiple states in one image changes her face between panels.",
+    "Face can become too sweet, naive, idol-like, rounder, or anime-eyed.",
+    "Veil can hide eye identity; eyes must remain readable.",
+    "Makeup can become heavy idol glam instead of clean Korean premium restraint.",
+    "Later non-bridal states can become a different woman unless anchored by the bridal close-up."
+  ],
+  "generation_rule": "Use the source image as the identity reference before every new Shen Wanqiu character image. Generate one state per image, then assemble boards locally only after visual review passes."
+}

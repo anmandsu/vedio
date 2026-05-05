@@ -1,0 +1,33 @@
+{
+  "asset_id": "lu-zhichen_v0",
+  "character_name": "陆之琛",
+  "source_image": "C:\\Users\\123\\Videos\\vedio V3\\projects\\tijia-lianren\\renders\\images\\_MASTER_lu_zhichen_candidate_v0.png",
+  "review_date": "2026-05-05",
+  "status": "identity_anchor_candidate",
+  "stable_facts": {
+    "face_structure": "Chinese male, late 20s to early 30s; long oval-rectangular face, defined cheekbones, straight severe jawline, squared but not bulky chin, balanced mature proportions.",
+    "eyes": "Medium narrow almond eyes, slightly hooded upper lids, direct restrained gaze, no smile, no idol softness.",
+    "brows": "Thick dark straight brows with mild inward tension; brows sit relatively low and create a controlled CEO severity.",
+    "nose": "Straight medium-high bridge, narrow clean nose line, realistic nostril shape, no exaggerated sculpting.",
+    "mouth": "Medium lips held in a flat restrained line; corners neutral or slightly downturned.",
+    "hair": "Dense black short hair, swept back and slightly to one side, controlled volume on top, neat sides and temples, no long fringe.",
+    "body_type": "Tall lean athletic body, broad but not oversized shoulders, slim tailored waist, upright posture.",
+    "costume_silhouette": "Black tailored suit, crisp white shirt, slim black tie, minimal silver watch detail, polished black leather shoes.",
+    "skin_texture": "Natural light skin tone with subtle real skin texture and pores; polished Korean-drama grooming without plastic skin.",
+    "lighting_direction": "Cool daylight from upper front-left with soft fill; visible detail in shadow areas; avoid high-contrast noir lighting.",
+    "scene_anchor": "Luxury wedding/red-carpet entrance with bodyguards in black suits behind him."
+  },
+  "allowed_variation": {
+    "expression": "Neutral, cold, mildly suspicious, injured restraint; no broad smile.",
+    "costume": "Black suit, charcoal suit, black overcoat only for later public/business states; white shirt may become open-collar only after plot allows emotional or injury shift.",
+    "pose": "Standing still, walking forward, adjusting cuff/watch, one hand in pocket, guarded injury posture."
+  },
+  "known_drift_risks": [
+    "Generating four states in one image changes his face between panels.",
+    "Text-only Liu Xiaoxu direction can drift into a different actor; use temperament only, never exact likeness.",
+    "Face can become too young, idol-like, smiling, rounder, or greasy霸总.",
+    "Hair can become messy idol fringe instead of controlled short CEO styling.",
+    "Lighting can become too contrasty; keep Korean premium daylight with transparent shadows."
+  ],
+  "generation_rule": "Use the source image as the identity reference before every new Lu Zhichen character image. Generate one state per image, then assemble boards locally only after visual review passes."
+}

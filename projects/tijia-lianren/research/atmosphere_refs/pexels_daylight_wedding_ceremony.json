@@ -1,0 +1,184 @@
+﻿{
+  "page": 1,
+  "per_page": 8,
+  "photos": [
+    {
+      "id": 36723065,
+      "width": 4000,
+      "height": 6000,
+      "url": "https://www.pexels.com/photo/outdoor-wedding-ceremony-with-bride-and-groom-36723065/",
+      "photographer": "Alexander Mass",
+      "photographer_url": "https://www.pexels.com/@alexander-mass-748453803",
+      "photographer_id": 748453803,
+      "avg_color": "#989282",
+      "src": {
+        "original": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg",
+        "large2x": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/36723065/pexels-photo-36723065.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A beautiful outdoor wedding ceremony under a decorated tree with guests in attendance."
+    },
+    {
+      "id": 169211,
+      "width": 2800,
+      "height": 1869,
+      "url": "https://www.pexels.com/photo/beach-wedding-event-under-white-clouds-and-clear-sky-during-daytime-169211/",
+      "photographer": "Asad Photo Maldives",
+      "photographer_url": "https://www.pexels.com/@asadphoto",
+      "photographer_id": 45786,
+      "avg_color": "#BAB6B7",
+      "src": {
+        "original": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg",
+        "large2x": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/169211/pexels-photo-169211.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A scenic tropical beach wedding setup with a red carpet aisle and ocean views, perfect for destination weddings."
+    },
+    {
+      "id": 8815294,
+      "width": 5473,
+      "height": 3654,
+      "url": "https://www.pexels.com/photo/visitors-sitting-on-wooden-chairs-while-looking-at-the-bride-and-groom-standing-on-the-altar-8815294/",
+      "photographer": "Pavel Danilyuk",
+      "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+      "photographer_id": 2297095,
+      "avg_color": "#A09790",
+      "src": {
+        "original": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg",
+        "large2x": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/8815294/pexels-photo-8815294.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A small gathering witnesses a beautiful wedding ceremony indoors with wooden chairs and floral decor."
+    },
+    {
+      "id": 169189,
+      "width": 2799,
+      "height": 2008,
+      "url": "https://www.pexels.com/photo/white-and-pink-floral-wedding-decoration-169189/",
+      "photographer": "Asad Photo Maldives",
+      "photographer_url": "https://www.pexels.com/@asadphoto",
+      "photographer_id": 45786,
+      "avg_color": "#B7CBDB",
+      "src": {
+        "original": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg",
+        "large2x": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/169189/pexels-photo-169189.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Elegant beach wedding setup in Maldives with floral decor and ocean view."
+    },
+    {
+      "id": 37058536,
+      "width": 4000,
+      "height": 6000,
+      "url": "https://www.pexels.com/photo/scenic-outdoor-lakeside-wedding-ceremony-37058536/",
+      "photographer": "Alexander Mass",
+      "photographer_url": "https://www.pexels.com/@alexander-mass-748453803",
+      "photographer_id": 748453803,
+      "avg_color": "#767570",
+      "src": {
+        "original": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg",
+        "large2x": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/37058536/pexels-photo-37058536.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Beautiful outdoor wedding ceremony by a tranquil lakeside with guests seated."
+    },
+    {
+      "id": 37242195,
+      "width": 6240,
+      "height": 4160,
+      "url": "https://www.pexels.com/photo/elegant-indoor-wedding-venue-with-floral-decor-37242195/",
+      "photographer": "Dika Sanusi",
+      "photographer_url": "https://www.pexels.com/@dikasan",
+      "photographer_id": 2161001900,
+      "avg_color": "#68615B",
+      "src": {
+        "original": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg",
+        "large2x": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/37242195/pexels-photo-37242195.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Stylish indoor wedding venue with floral arrangements and wooden chairs, perfect for elegant ceremonies."
+    },
+    {
+      "id": 9721886,
+      "width": 3304,
+      "height": 4405,
+      "url": "https://www.pexels.com/photo/a-couple-having-a-garden-wedding-9721886/",
+      "photographer": "Евгений Шухман",
+      "photographer_url": "https://www.pexels.com/@zh-ru",
+      "photographer_id": 70198808,
+      "avg_color": "#807444",
+      "src": {
+        "original": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg",
+        "large2x": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/9721886/pexels-photo-9721886.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Bride and groom share a tender moment in a scenic outdoor wedding ceremony."
+    },
+    {
+      "id": 169192,
+      "width": 2800,
+      "height": 1868,
+      "url": "https://www.pexels.com/photo/pink-yellow-and-purple-flowers-decor-on-pathway-169192/",
+      "photographer": "Asad Photo Maldives",
+      "photographer_url": "https://www.pexels.com/@asadphoto",
+      "photographer_id": 45786,
+      "avg_color": "#C0C5CF",
+      "src": {
+        "original": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg",
+        "large2x": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Beautifully decorated beach wedding setup with vibrant flower arrangements by the sea."
+    }
+  ],
+  "total_results": 8000,
+  "next_page": "https://api.pexels.com/v1/v1/search?page=2&per_page=8&query=daylight+wedding+ceremony"
+}
