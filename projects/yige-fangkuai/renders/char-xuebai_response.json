@@ -1,0 +1,23 @@
+{
+  "created": 1778192866,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Xuebai / snow white, female. Kind, pure, almost too righteous. Costume: luminous warm white layered costume, soft matte fabric, clean square snow-like paneling, very subtle pearl-white texture, gentle upright expression, small pale jade card holder.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/bae1263e-918b-4459-a249-394fbca7279f/3134b9e3-8dd6-44cd-954e-8fd373679ea7.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2969,
+    "input_tokens": 1556,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1556,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "created": 1778193357,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone Guochao Chinese opera styling character. Strict 16:9 horizontal image, full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right on a clean light warm background. No environment scene, no group, no extra characters, no cropped body. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist, pants/skirt-shorts, shoes, back details. Keep the opera headwear shape but makeup is simplified modern beauty makeup, not heavy stage makeup: natural translucent skin, fine eyeliner, soft blush, clean red or peach lip, no white painted face. Young Chinese Guochao for ages 16-35, wearable and photogenic. Preserve xiqu headwear DNA: black forehead hair patches, pearl tassels, bead flowers, pom-poms, cloud motifs, lingzi arcs where specified. Modern clothing: short jacket, small cloud collar, pankou buttons, embroidered gauze, detachable water-sleeve panels, wide-leg trousers, culotte shorts, short boots or clean sneakers. Do NOT use mamian skirt, do NOT use stereotypical long new-Chinese robe, no gothic, no cyberpunk, no samurai, no kimono, no text labels, no watermark.\n\nDesign 01: Blue-white pearl phoenix-crown light Guochao. Same young female character in all three views. Headwear: blue-white bead-flower phoenix crown, black forehead hair patches, pearl tassels hanging to chest, small red pom-pom accents, elegant but not huge stage crown. Outfit: lake-blue cropped jacket with ivory mini cloud collar, small pankou buttons, translucent detachable water-sleeve panels, pearl-beaded short capelet, ivory high-waist wide-leg trousers, embroidered short boots. Front view shows cropped jacket and tassels; side view shows crown depth and sleeve panel; back view shows hair bun support, tassels, capelet and jacket back embroidery. Clean design sheet, full body, fashion concept art photorealistic.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/73b525a9-6b80-417d-9a87-d94826270de4/fbe61804-0c49-4e37-b42b-46067cb6a499.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10614,
+    "input_tokens": 4964,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3844,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

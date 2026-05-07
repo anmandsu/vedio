@@ -1,0 +1,23 @@
+{
+  "created": 1778184927,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a small wooden block on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/cfb3515c-537f-4087-b717-2119aecc9ba6/94138439-29eb-4b7c-a586-ef464d8fe468.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1053,
+    "input_tokens": 288,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 288,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

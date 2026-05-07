@@ -1,0 +1,23 @@
+{
+  "created": 1778184926,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a green apple on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/71aabd79-5ece-4516-9b91-20d73cd95261/f8320673-bce3-448d-9648-e75d880995c0.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1039,
+    "input_tokens": 274,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 274,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

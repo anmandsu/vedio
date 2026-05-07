@@ -1,0 +1,23 @@
+{
+  "created": 1778189471,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal design concept image for a Chengdu Eastern Suburb Memory Guochao Chinese opera styling experience pavilion. Use the reference images for structural inspiration only: preserve Chinese opera headwear logic, transform it into contemporary hairstyle and wearable styling design. High-end fashion editorial, photorealistic, design-forward, not a literal copy, not cosplay, not museum restoration. Primary design language: Chinese opera kuitou structure, phoenix crown, marshal helmet, female marshal helmet, hard-frame silhouette, pearl tassels, red pom-poms, red tassel plume, gold wire, kingfisher-blue accents, silk, light armor, industrial red brick and black steel. No text, no watermark, no logo, no Japanese elements, no samurai, no kimono, no fantasy game armor, no cheap plastic, no bridal studio.Create a design-led photorealistic concept rendering of a modern Chinese opera phoenix-crown hairstyle. The subject is a young Chinese woman in three-quarter view, waist-up, inside an industrial red-brick styling studio. Transform the traditional phoenix crown references into a contemporary hair design: high hidden hair base, fan-shaped gold wire crown structure rising from the hairstyle, side bobin wing panels expanding left and right, central phoenix motif, kingfisher-blue enamel accents, pearl tassels suspended from both temples, small red bead clusters, delicate gold filigree, visible hand-made structure. The hair itself is sculpted into a sleek black high coil integrated with the crown frame, not covered by a normal wig. Costume is modern Guochao opera styling: black satin base, cinnabar red silk collar, brushed-gold waist/shoulder ornament, no bridal veil.\n\nComposition: 16:9 horizontal, fashion design effect board feeling, the headwear fills the center third, include one side detail inset-like arrangement through shallow depth of field reflections but no text labels. Background: Eastern Suburb Memory inspired old red brick, black pipes, steel beam, warm bulbs.\n\nLighting: warm white key light 4000K, high-key soft fill, gold rim light through tassels, transparent shadows with all crown details visible, 2:1 to 2.5:1 contrast maximum. Photoreal details: individual pearls, blue enamel, worn gold patina, hair strands, silk weave, skin pores, natural film grain. Avoid wedding crown, avoid generic hanfu, avoid theatrical heavy face paint, avoid symmetrical flat product photo.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/033b42fd-7b17-47e1-88df-2e8241d03279/ff9994bf-893c-4bc0-9ad4-a40f12bef922.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 12178,
+    "input_tokens": 6528,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4848,
+      "audio_tokens": 0,
+      "image_tokens": 1680
+    }
+  }
+}

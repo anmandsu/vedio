@@ -1,0 +1,23 @@
+{
+  "created": 1778192739,
+  "data": [
+    {
+      "revised_prompt": "Use the reference image as the base composition and style. Keep the premium young Guochao storefront/studio, red-brick wall, mirror bulbs, display shelves, opera headpiece display, and the overall youthful Chinese national-trend fashion feeling. IMPORTANT CHANGE: simplify the makeup so it is no longer heavy stage opera makeup. Preserve the hairstyle/headwear feeling: black forehead hair patches, blue-white-pink bead flowers, pearl tassels, red pom-poms, xiqu-inspired headwear silhouette. But make the face beauty-friendly and wearable for ages 16-35: natural translucent skin, no white painted opera base, soft pink blush, refined red lip but not theatrical, thin lifted eyeliner, very light pink eye shadow only, eyebrows natural, no exaggerated black eye blocks, no face-paint dots except maybe one tiny decorative beauty mark if subtle. Clothing remains young Guochao: jade-white cropped jacket, lake-blue embroidery, small cloud collar, pankou buttons, soft pink sash, detachable translucent sleeves, ivory wide-leg trousers. Bright elegant lighting, premium boutique experience space, commercial fashion photography. No text, no watermark, no gothic, no heavy opera face, no stage restoration.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/cb41c056-25d4-4cce-96e3-6aa76cce62ca/648e0fbd-0351-4603-a98d-8014d5b4e99e.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 8616,
+    "input_tokens": 2966,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 2406,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

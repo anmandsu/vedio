@@ -1,0 +1,752 @@
+episode: 3
+title: "一针新生"
+style: "从冷灰到温暖，固定机位，情感升华，色彩饱和度提升"
+
+shots:
+  # ========== 场9：内景·清晨 ==========
+
+  - shot_id: "E3_S01"
+    scene_id: "SC09_MORNING_PREPARATION"
+    character: "小伟"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      清晨，小伟在电脑前工作，准备新的AIGC方案。
+
+    performance: >
+      小伟表情专注、温和，手操作电脑，眼神坚定。
+
+    lighting: >
+      清晨自然光，色温4500K，柔光，开始向温暖过渡。
+
+    camera: >
+      固定机位，小伟中景特写，标准镜头，平视角度。
+
+    blocking: >
+      小伟占据画面中心，电脑屏幕在前景，背景是绣坊空间。
+
+    sound: >
+      键盘敲击声，鼠标点击声，清晨鸟鸣。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "preparation"
+
+    style_notes: >
+      色温开始提升，光线变暖，预示情感转向。
+
+    visual_anchors:
+      - "小伟：24岁，专注表情"
+      - "电脑：工作状态"
+      - "清晨光：温暖色调"
+
+    continuity_to: "为绣儿准备做准备"
+
+  - shot_id: "E3_S02"
+    scene_id: "SC09_MORNING_PREPARATION"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      绣儿布置拍摄设备，准备记录过程。
+
+    performance: >
+      绣儿表情认真、温柔，手调整相机角度，动作轻柔。
+
+    lighting: >
+      清晨自然光，色温4500K，柔光。
+
+    camera: >
+      固定机位，绣儿中景特写，标准镜头，平视角度。
+
+    blocking: >
+      绣儿占据画面中心，相机在前景，背景是绣坊空间。
+
+    sound: >
+      相机调整的轻微声音，清晨环境音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "preparation"
+
+    style_notes: >
+      绣儿的认真态度展现她对传承的新理解。
+
+    visual_anchors:
+      - "绣儿：26岁，认真表情"
+      - "相机：拍摄设备"
+
+    continuity_from: "接续小伟工作"
+    continuity_to: "为小伟台词做准备"
+
+  - shot_id: "E3_S03"
+    scene_id: "SC09_MORNING_PREPARATION"
+    character: "小伟"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      小伟说出核心理念，明确AI的辅助定位。
+
+    performance: >
+      小伟表情温和、坚定，眼神看向母亲，声音清晰有力。
+
+    lighting: >
+      清晨自然光，色温4500K，柔光打在面部。
+
+    camera: >
+      固定机位，小伟面部特写，标准镜头，平视角度。
+
+    blocking: >
+      小伟占据画面中心，背景虚化。
+
+    sound: >
+      小伟的声音温和坚定，环境音低。
+
+    dialogue: >
+      "AI只做呈现，灵魂在您手上。"
+
+    duration_sec: 6
+    beat_type: "thematic"
+
+    style_notes: >
+      核心理念台词，明确技术与传统的关系。
+
+    visual_anchors:
+      - "小伟：24岁，温和坚定表情"
+
+    continuity_from: "接续绣儿布置"
+    continuity_to: "为绣儿台词做准备"
+
+  - shot_id: "E3_S04"
+    scene_id: "SC09_MORNING_PREPARATION"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      绣儿说出对短视频的新理解，不是流量而是生命。
+
+    performance: >
+      绣儿表情真诚、温柔，眼神坚定，声音轻柔但有力。
+
+    lighting: >
+      清晨自然光，色温4500K，柔光打在面部。
+
+    camera: >
+      固定机位，绣儿面部特写，标准镜头，平视角度。
+
+    blocking: >
+      绣儿占据画面中心，背景虚化。
+
+    sound: >
+      绣儿的声音真诚，环境音低。
+
+    dialogue: >
+      "我拍的不是流量，是它的命。"
+
+    duration_sec: 6
+    beat_type: "thematic"
+
+    style_notes: >
+      绣儿的成长台词，展现她对传承的新认知。
+
+    visual_anchors:
+      - "绣儿：26岁，真诚表情"
+
+    continuity_from: "接续小伟台词"
+    continuity_to: "场9结束，为场10做准备"
+
+  # ========== 场10：内景·绣架前 ==========
+
+  - shot_id: "E3_S05"
+    scene_id: "SC10_DECISION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴看着墙上的蜀绣木牌，内心做出决定。
+
+    performance: >
+      面部表情平静、坚定，眼神看向木牌，微微点头。
+
+    lighting: >
+      清晨自然光，色温5000K，柔光，温暖色调。
+
+    camera: >
+      固定机位，林素琴中景特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，木牌在背景清晰可见。
+
+    sound: >
+      清晨环境音，鸟鸣，林素琴的轻微呼吸声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "decision"
+
+    style_notes: >
+      平静的决定时刻，色温提升到5000K，标志情感转向温暖。
+
+    visual_anchors:
+      - "林素琴：56岁，平静坚定表情"
+      - "木牌：传承象征"
+      - "温暖光线：情感转折"
+
+    continuity_from: "场9结束"
+    continuity_to: "为看福袋做准备"
+
+  - shot_id: "E3_S06"
+    scene_id: "SC10_DECISION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴看着福袋，回忆外婆的话。
+
+    performance: >
+      面部表情温柔，眼神看向福袋，嘴角微微上扬。
+
+    lighting: >
+      清晨自然光，色温5000K，柔光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，福袋在前景虚化。
+
+    sound: >
+      清晨环境音，林素琴的轻微呼吸声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reflection"
+
+    style_notes: >
+      温柔的回忆时刻，嘴角微笑是情感转变的信号。
+
+    visual_anchors:
+      - "林素琴：56岁，温柔表情，微笑"
+      - "福袋：情感触发器"
+
+    continuity_from: "接续看木牌"
+    continuity_to: "为看儿女做准备"
+
+  - shot_id: "E3_S07"
+    scene_id: "SC10_DECISION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴看向小伟和绣儿，眼神温柔。
+
+    performance: >
+      面部表情温柔、释然，眼神看向儿女，微微点头。
+
+    lighting: >
+      清晨自然光，色温5000K，柔光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景虚化的儿女身影。
+
+    sound: >
+      清晨环境音，林素琴的轻微呼吸声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reconciliation"
+
+    style_notes: >
+      和解的眼神，温柔释然，家庭关系修复。
+
+    visual_anchors:
+      - "林素琴：56岁，温柔释然表情"
+
+    continuity_from: "接续看福袋"
+    continuity_to: "为坐下刺绣做准备"
+
+  - shot_id: "E3_S08"
+    scene_id: "SC10_DECISION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴坐在绣架前，闭眼深呼吸，准备落针。
+
+    performance: >
+      林素琴坐下，身体放松，闭眼，深呼吸，表情平静。
+
+    lighting: >
+      清晨自然光，色温5000K，柔光，侧光打在面部。
+
+    camera: >
+      固定机位，林素琴中景特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，绣架在前景，背景虚化。
+
+    sound: >
+      林素琴的深呼吸声，清晨环境音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "preparation"
+
+    style_notes: >
+      仪式感的准备时刻，闭眼深呼吸展现内心平静。
+
+    visual_anchors:
+      - "林素琴：56岁，平静表情，闭眼"
+      - "绣架：传承载体"
+
+    continuity_from: "接续看儿女"
+    continuity_to: "为落针做准备"
+
+  - shot_id: "E3_S09"
+    scene_id: "SC10_DECISION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴落针，这一针——稳，人物完成转变。
+
+    performance: >
+      手部动作稳定、精准，针刺入绣布，没有颤抖。
+
+    lighting: >
+      清晨自然光，色温5000K，柔光，针尖反光。
+
+    camera: >
+      固定机位，手部极近特写，微距镜头，捕捉落针瞬间。
+
+    blocking: >
+      手部占据画面中心，针稳定刺入绣布，丝线流畅。
+
+    sound: >
+      针刺入布的清脆声音，丝线摩擦声，清晨鸟鸣。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "resolution"
+
+    style_notes: >
+      关键转折镜头，稳定的落针象征人物完成转变，与场1失手形成对比。
+
+    visual_anchors:
+      - "林素琴的手：稳定，不颤抖"
+      - "针：精准刺入"
+      - "丝线：流畅"
+
+    continuity_from: "接续闭眼准备"
+    continuity_to: "场10结束，为场11蒙太奇做准备"
+
+  # ========== 场11：蒙太奇·传播 ==========
+
+  - shot_id: "E3_S10"
+    scene_id: "SC11_MONTAGE"
+    character: "手机屏幕"
+    location: "蒙太奇空间"
+
+    plot: >
+      短视频发布，点击发布按钮。
+
+    performance: >
+      无人物，手机屏幕展示发布界面。
+
+    lighting: >
+      屏幕光，色温6000K，明亮。
+
+    camera: >
+      固定机位，手机屏幕特写，标准镜头。
+
+    blocking: >
+      手机屏幕占据画面中心，发布按钮被点击。
+
+    sound: >
+      手机点击声，发布音效。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 3
+    beat_type: "montage"
+
+    style_notes: >
+      快速剪辑蒙太奇开始，节奏加快。
+
+    visual_anchors:
+      - "手机屏幕：短视频发布界面"
+
+    continuity_from: "场10结束"
+    continuity_to: "为点赞增长做准备"
+
+  - shot_id: "E3_S11"
+    scene_id: "SC11_MONTAGE"
+    character: "手机屏幕"
+    location: "蒙太奇空间"
+
+    plot: >
+      点赞数快速增长。
+
+    performance: >
+      无人物，屏幕展示点赞数跳动增长。
+
+    lighting: >
+      屏幕光，色温6000K，明亮。
+
+    camera: >
+      固定机位，屏幕特写，标准镜头。
+
+    blocking: >
+      点赞数字占据画面中心，快速跳动。
+
+    sound: >
+      点赞音效，数字跳动声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 3
+    beat_type: "montage"
+
+    style_notes: >
+      快速剪辑，展现传播效果。
+
+    visual_anchors:
+      - "点赞数：快速增长"
+
+    continuity_from: "接续发布"
+    continuity_to: "为评论做准备"
+
+  - shot_id: "E3_S12"
+    scene_id: "SC11_MONTAGE"
+    character: "手机屏幕"
+    location: "蒙太奇空间"
+
+    plot: >
+      评论区出现正面反馈。
+
+    performance: >
+      无人物，屏幕展示评论滚动。
+
+    lighting: >
+      屏幕光，色温6000K，明亮。
+
+    camera: >
+      固定机位，屏幕特写，标准镜头。
+
+    blocking: >
+      评论文字占据画面，滚动显示。
+
+    sound: >
+      评论提示音，滚动声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 3
+    beat_type: "montage"
+
+    style_notes: >
+      快速剪辑，展现社会反响。
+
+    visual_anchors:
+      - "评论：正面反馈"
+
+    continuity_from: "接续点赞"
+    continuity_to: "为小女孩来访做准备"
+
+  - shot_id: "E3_S13"
+    scene_id: "SC11_MONTAGE"
+    character: "小女孩"
+    location: "INT. 老绣坊 - 白天"
+
+    plot: >
+      18岁小女孩来到绣坊门口，传承延续的希望。
+
+    performance: >
+      小女孩表情期待、紧张，站在门口，手握着背包带。
+
+    lighting: >
+      白天自然光，色温5500K，柔光，明亮温暖。
+
+    camera: >
+      固定机位，小女孩中景特写，标准镜头，平视角度。
+
+    blocking: >
+      小女孩占据画面中心，绣坊门口背景。
+
+    sound: >
+      脚步声，门铃声，环境音。
+
+    dialogue: >
+      "阿姨……我能学吗？"
+
+    duration_sec: 5
+    beat_type: "hope"
+
+    style_notes: >
+      传承延续的希望时刻，小女孩的期待眼神是关键。
+
+    visual_anchors:
+      - "小女孩：18岁，现代衣服，期待表情"
+      - "绣坊门口：传承空间"
+
+    continuity_from: "接续评论"
+    continuity_to: "场11结束，为场12做准备"
+
+  # ========== 场12：内景·夕阳 ==========
+
+  - shot_id: "E3_S14"
+    scene_id: "SC12_SUNSET_RECONCILIATION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夕阳"
+
+    plot: >
+      夕阳时分，林素琴抱着孩子，家庭和解。
+
+    performance: >
+      林素琴表情温柔、慈祥，抱着孩子，微笑。
+
+    lighting: >
+      夕阳暖光，色温5500K，柔光，高饱和度，温暖氛围。
+
+    camera: >
+      固定机位，林素琴中景特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，孩子在怀中，背景是温暖的绣坊空间。
+
+    sound: >
+      孩子的轻微声音，夕阳环境音，温暖氛围。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reconciliation"
+
+    style_notes: >
+      温暖的和解时刻，色温和饱和度达到全片最高，情感升华。
+
+    visual_anchors:
+      - "林素琴：56岁，温柔慈祥表情，微笑"
+      - "孩子：在怀中"
+      - "夕阳暖光：温暖氛围"
+
+    continuity_from: "场11结束"
+    continuity_to: "为小伟绣儿做准备"
+
+  - shot_id: "E3_S15"
+    scene_id: "SC12_SUNSET_RECONCILIATION"
+    character: "小伟+绣儿"
+    location: "INT. 老绣坊 - 夕阳"
+
+    plot: >
+      小伟和绣儿在旁边，家庭和解完整。
+
+    performance: >
+      小伟和绣儿表情温柔、微笑，看向母亲和孩子。
+
+    lighting: >
+      夕阳暖光，色温5500K，柔光，高饱和度。
+
+    camera: >
+      固定机位，小伟绣儿中景，标准镜头，平视角度。
+
+    blocking: >
+      小伟绣儿占据画面，林素琴和孩子在背景虚化。
+
+    sound: >
+      夕阳环境音，温暖氛围。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reconciliation"
+
+    style_notes: >
+      家庭和解的完整画面，温暖氛围。
+
+    visual_anchors:
+      - "小伟：24岁，温柔微笑"
+      - "绣儿：26岁，温柔微笑"
+
+    continuity_from: "接续林素琴抱孩子"
+    continuity_to: "为核心台词做准备"
+
+  - shot_id: "E3_S16"
+    scene_id: "SC12_SUNSET_RECONCILIATION"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夕阳"
+
+    plot: >
+      林素琴说出主题升华台词，全片核心主题。
+
+    performance: >
+      面部表情温柔、坚定，眼神看向儿女，声音温和有力。
+
+    lighting: >
+      夕阳暖光，色温5500K，柔光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景虚化。
+
+    sound: >
+      林素琴的声音温和坚定，夕阳环境音。
+
+    dialogue: >
+      "针会老，人会老，但只要有人接——线就不会断。"
+
+    duration_sec: 8
+    beat_type: "thematic"
+
+    style_notes: >
+      全片主题升华台词，传承的核心理念。
+
+    visual_anchors:
+      - "林素琴：56岁，温柔坚定表情"
+
+    continuity_from: "接续家庭和解"
+    continuity_to: "场12结束，为场13结尾做准备"
+
+  # ========== 场13：结尾 ==========
+
+  - shot_id: "E3_S17"
+    scene_id: "SC13_ENDING"
+    character: "绣坊全景"
+    location: "INT. 老绣坊 - 夕阳"
+
+    plot: >
+      镜头拉远，绣坊亮灯，人来人往，传承延续。
+
+    performance: >
+      无特定人物，展现绣坊空间和人群活动。
+
+    lighting: >
+      夕阳暖光混合室内灯光，色温5500K，温暖明亮。
+
+    camera: >
+      镜头缓慢拉远，从中景到全景，展现空间。
+
+    blocking: >
+      绣坊空间占据画面，林素琴、小伟、绣儿、小女孩等人在空间中。
+
+    sound: >
+      人声、刺绣声、环境音，温暖氛围。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "resolution"
+
+    style_notes: >
+      镜头拉远展现空间，人来人往象征传承延续。
+
+    visual_anchors:
+      - "绣坊：温暖明亮空间"
+      - "人群：传承延续"
+
+    continuity_from: "场12结束"
+    continuity_to: "为木牌特写做准备"
+
+  - shot_id: "E3_S18"
+    scene_id: "SC13_ENDING"
+    character: "木牌"
+    location: "INT. 老绣坊 - 夕阳"
+
+    plot: >
+      蜀绣木牌特写，象征传承延续。
+
+    performance: >
+      无人物，木牌在夕阳光中。
+
+    lighting: >
+      夕阳暖光，色温5500K，木牌发光质感。
+
+    camera: >
+      固定机位，木牌特写，标准镜头。
+
+    blocking: >
+      木牌占据画面中心，背景虚化的绣坊空间。
+
+    sound: >
+      环境音渐弱，音乐渐起。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "symbolic"
+
+    style_notes: >
+      象征性镜头，木牌是传承的视觉象征。
+
+    visual_anchors:
+      - "木牌：蜀绣传承象征"
+      - "夕阳光：温暖希望"
+
+    continuity_from: "接续绣坊全景"
+    continuity_to: "为字幕做准备"
+
+  - shot_id: "E3_S19"
+    scene_id: "SC13_ENDING"
+    character: "字幕"
+    location: "黑屏"
+
+    plot: >
+      字幕出现，点题，开放式结尾。
+
+    performance: >
+      无人物，黑屏字幕。
+
+    lighting: >
+      黑屏。
+
+    camera: >
+      固定机位，字幕居中。
+
+    blocking: >
+      字幕占据画面中心。
+
+    sound: >
+      音乐持续，环境音消失。
+
+    dialogue: >
+      字幕："她守了一辈子针，差点断了线。"
+
+    duration_sec: 6
+    beat_type: "epilogue"
+
+    style_notes: >
+      开放式结尾，字幕点题，留下思考空间。
+
+    visual_anchors:
+      - "字幕：白色文字"
+      - "黑屏：结束"
+
+    continuity_from: "接续木牌特写"
+    continuity_to: "全片结束"
+

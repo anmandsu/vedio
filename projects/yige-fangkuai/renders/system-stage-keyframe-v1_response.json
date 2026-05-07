@@ -1,0 +1,23 @@
+{
+  "created": 1778189993,
+  "data": [
+    {
+      "revised_prompt": "Wide 16:9 proscenium stage design render for a contemporary Chinese stage sketch, bright high-key lighting, advanced simple clean visual style. The stage is an abstract interior of a Chinese dictionary revision system, built entirely from physical modular cubes and rectangular blocks on the floor, no hanging props, no projection, no LED screen. Warm paper-white and pale gray matte surfaces, ink-gray edge lines, pale jade archive accents, small cinnabar warning marks, restrained bronze/gold details. Actor-operated modular blocks with intentional handholds and low clean wheels, arranged like a Rubik's cube being dismantled and recombined. Some block faces become large identity cards, archive slots, sorting gates, and pictographic character fragments inspired by oracle bone and seal-script structure. The composition suggests Chinese pictographic characters being split, rotated, sliced, and recombined into a final square-character form, connected to Han Chinese dictionary culture and square Chinese characters. Clean open floor, clear traffic lanes for performers pushing props, full stage width visible, elegant museum-like Chinese writing atmosphere, modern theatrical minimalism, tactile physical set design, no clutter, no dark cyberpunk, no antique-heavy brown decor.\n\nNegative requirements: no projection mapping, no LED wall, no hologram UI, no suspended calligraphy, no hanging scrolls, no flying props, no ceiling rigging, no dark cyberpunk room, no cluttered library, no antique market, no excessive calligraphy wallpaper, no messy paper confetti, no ornate palace set, no low-quality rehearsal boxes, no plastic toy cubes, no unreadable chaotic text, no cramped crop, no portrait aspect ratio.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/8b843630-4ac3-4ca6-8169-6a198c45c721/5c474dd8-bf0e-480d-877a-66e3d708c96b.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4843,
+    "input_tokens": 3430,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3430,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

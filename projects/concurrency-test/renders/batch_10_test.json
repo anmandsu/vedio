@@ -1,0 +1,62 @@
+[
+  {
+    "id": "concurrency_test_01",
+    "prompt": "A simple studio test image of a single red ceramic mug on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_02",
+    "prompt": "A simple studio test image of a blue notebook and pencil on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_03",
+    "prompt": "A simple studio test image of a small glass vase with one white flower on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_04",
+    "prompt": "A simple studio test image of a folded linen cloth on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_05",
+    "prompt": "A simple studio test image of a brass key on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_06",
+    "prompt": "A simple studio test image of a green apple on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_07",
+    "prompt": "A simple studio test image of a white candle in a clear holder on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_08",
+    "prompt": "A simple studio test image of a pair of round eyeglasses on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_09",
+    "prompt": "A simple studio test image of a small wooden block on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  },
+  {
+    "id": "concurrency_test_10",
+    "prompt": "A simple studio test image of a silver spoon on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+    "aspect_ratio": "1:1",
+    "quality": "high"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "created": 1778194327,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone young Chinese Guochao xiqu / Chinese opera inspired styling character. Strict 16:9 horizontal image. Full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist construction, skirt or pants structure, shoes, and back details. This is a fashion costume concept sheet, not a stage photo and not a scene.\n\nStyle direction: modern Chinese Guochao for ages 16-35, wearable, photogenic, boutique styling experience, refined fashion illustration / photorealistic concept art. Keep the traditional opera headwear silhouette as the foundation: fengguan, shuai helmet, huadan bead flowers, wudan lingzi, pearl tassels, black forehead hair patches, red pom-poms, enamel side ornaments, cloud motifs. Makeup is simplified modern beauty makeup: natural translucent skin, fine eyeliner, soft blush, clean red/peach lip, no white painted opera face.\n\nFashion background: clean contemporary fashion studio background, cool white and very light gray, subtle editorial gradient, soft floor shadow, faint modern display-panel feeling. Do NOT use yellow, beige, warm parchment, palace background, stage set, industrial scene, text labels, captions, watermark, logo, or extra people.\n\nClothing rules: modern short jacket, cropped top, small cloud collar, pankou buttons, embroidered gauze, detachable water-sleeve panels, pearl waist chains, clean boots or fashion sneakers. Do NOT use mamian skirt. Do NOT use stereotypical long new-Chinese robe. No gothic, no cyberpunk, no techwear armor, no samurai, no kimono, no bridal gown.\n\nDesign 16: Skirt line. Ivory pearl fengguan with delicate phoenix side pieces, red bead accents. Outfit: ivory brocade cropped jacket, blue-grey cloud shoulder, pankou buttons, short structured skirt-shorts with embroidered side panels, detachable water sleeves, ivory boots.\n\nImportant consistency: the three views must show the SAME character and SAME outfit, front/side/back only, full body, no labels or text. Background must feel cool, clean, modern fashion studio; avoid yellow or beige background.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/df0eb884-cd2f-40e0-8355-bf5b1a83a615/222e3dd6-eb9e-4828-88b2-43bba11ecd51.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 11156,
+    "input_tokens": 5506,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4386,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

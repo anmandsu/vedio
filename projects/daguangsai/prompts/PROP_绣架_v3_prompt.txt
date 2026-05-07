@@ -1,0 +1,81 @@
+A cinematic product photograph of a traditional Sichuan embroidery frame (蜀绣绣架) from 1980s-90s, shot in editorial style with dramatic side lighting and shallow depth of field. Based on real vintage Shu embroidery frames from Xiaohongshu research.
+
+CRITICAL: This is a SHU EMBROIDERY (蜀绣) frame from Sichuan, NOT Su embroidery (苏绣) from Jiangsu.
+
+SUBJECT - Traditional Shu Embroidery TABLE-MOUNTED Frame:
+- CRITICAL: TABLE-MOUNTED frame (NOT floor-standing), sits ON a table surface
+- Frame rests HORIZONTALLY on table, fabric surface is HORIZONTAL/FLAT or slightly tilted
+- RECTANGULAR fabric frame: 60cm WIDTH × 40cm HEIGHT (landscape format)
+- Fabric stretched in LANDSCAPE orientation: WIDER than it is TALL
+- ROBUST construction: thick dark wood (elm or catalpa), deep reddish-brown color
+- Frame structure: rectangular wooden frame with fabric stretched across
+- Four corner joints with traditional mortise and tenon construction
+- Support legs or base that rests on table surface
+- Adjustment mechanism for tilting angle (optional)
+- Fabric stretched tight showing fine weave texture in HORIZONTAL/LANDSCAPE format
+- SICHUAN STYLE: practical, robust, designed for larger embroidery works
+- Frame lies FLAT or at slight angle on table, NOT standing upright
+- Working surface is HORIZONTAL, embroiderer works from above or front
+
+REAL-WORLD DETAILS (from research):
+- Hand-polished wood surface with decades of oil patina
+- Darker coloring where hands grip (horizontal bars, adjustment areas)
+- Rounded edges and corners from years of handling
+- Fine cracks along wood grain, natural aging
+- Brass or wooden hardware with oxidation/wear
+- Floor contact points show compression and wear marks
+- Fabric edges show slight fraying from repeated mounting
+- Simple, functional design without decoration
+
+COMPOSITION & CAMERA:
+- 21:9 cinematic aspect ratio (CRITICAL)
+- Shot from 30-degree angle above, looking DOWN at table-mounted frame
+- Frame positioned center-right, showing table surface beneath
+- Shot with 50mm lens equivalent, f/2.8 aperture
+- Horizontal composition showcasing frame lying flat/tilted on table
+- Camera angle emphasizes HORIZONTAL working surface
+
+LIGHTING - Dramatic but Restrained:
+- Primary: Soft window light from upper left, 3500K warm afternoon
+- Raking light reveals wood grain texture and wear patterns
+- Creates gentle highlights on polished surfaces
+- Soft directional shadows, 2.5:1 lighting ratio
+- Transparent shadows with full detail visible
+- Wood glows with warm amber tone
+
+ENVIRONMENT - Blurred Traditional Workshop:
+- Background: Soft-focus traditional Chinese workshop interior
+- Blurred wooden furniture, fabric rolls barely visible
+- Warm cream plaster walls, slightly mottled, out of focus
+- Foreground: Edge of dark wooden table, slightly soft
+- A piece of embroidered silk fabric in background, soft bokeh
+- Creates authentic workshop atmosphere without distraction
+
+MATERIAL AUTHENTICITY:
+- Wood surface: smooth patina, not glossy or new
+- Hand-worn areas: darker, shinier, oil-polished appearance
+- Edges: rounded from decades of handling
+- Natural wood grain flowing through structure
+- Fine age cracks along grain direction
+- Hardware: brass with green oxidation or worn wood
+- Fabric: authentic period weave, slight wear at mounting points
+- Floor contact: visible compression and darkening
+
+MOOD & AESTHETIC:
+- Documentary realism meets editorial art direction
+- Warm nostalgic atmosphere, gentle and dignified
+- Emphasizes craftsmanship and functional beauty
+- Quiet elegance, not dramatic or theatrical
+- Restrained warmth, authentic period feel
+
+TECHNICAL SPECS:
+- 21:9 aspect ratio (2.35:1 cinematic format) - MANDATORY
+- 4K resolution, sharp focus on frame with gradual falloff
+- Natural film grain, Kodak Portra 400 aesthetic
+- Realistic wood and fabric texture rendering
+- Soft bokeh in background, atmospheric depth
+- Color palette: deep reddish-browns, warm creams, muted ambers
+- High detail on subject, gentle blur on environment
+
+NEGATIVE PROMPT:
+NO floor-standing frame, NO vertical standing frame, NO tall frame with legs touching floor, NO portrait orientation, NO vertical fabric orientation, NO fabric taller than wide, NO Su embroidery style (苏绣风格), NO small handheld frame, NO delicate thin posts, NO circular frame, NO Jiangsu style, NO fine delicate construction, NO small portable frame, NO ornate decoration, NO pure white background, NO studio seamless backdrop, NO flat even lighting, NO centered symmetrical composition, NO plastic appearance, NO oversaturated colors, NO dramatic high-contrast shadows, NO artificial spotlights, NO people or hands, NO text or labels, NO modern furniture, NO clean pristine surfaces, NO AI artifacts, NO cartoon style, NO excessive bokeh blur, NO lens flare effects, NO 1:1 square format, NO 4:5 portrait format (MUST be 21:9 cinematic)

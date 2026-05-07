@@ -1,0 +1,37 @@
+CRITICAL: Same interior space as first reference image. ONLY lighting changes.
+
+SPATIAL ANCHORS (MUST preserve exactly from first reference):
+- Embroidery frame: center-left position, exact size and angle
+- Window: right side, exact position and size
+- Wooden cabinet: background right, exact placement
+- Floor: dark wood planks, same pattern and direction
+- Ceiling beams: same arrangement and spacing
+- Wall texture: same material and color
+- All furniture positions: identical to first reference
+- Camera angle: same viewpoint as first reference
+
+LIGHTING CHANGE (only difference):
+- Time: Deep night (深夜), indoor warm lamps on
+- Primary light: Clean warm white table lamp (3800-4000K, NOT yellow)
+- Secondary light: Soft neutral ceiling/wall light (4200K)
+- Fill light: Window reflecting distant light (subtle cool 5000K)
+- Color quality: Clean neutral warm, NOT orange/yellow tint
+- Saturation: Low to medium, desaturated warm tones
+- Quality: Soft diffused lighting, transparent shadows with full detail
+- Shadows: Gentle and luminous, 2:1 to 2.5:1 ratio maximum
+- Atmosphere: Match second reference - clean cozy warmth, NOT dirty yellow
+- NOT flat lighting - gentle directionality with soft modeling
+
+SCENE DETAILS:
+- Traditional wooden embroidery frame with fabric work in progress
+- Thread spools, needle box, embroidery tools on work surface
+- Traditional wooden furniture with natural aging
+- Fabric rolls and embroidery materials
+- Workshop tools and equipment
+- Warm indoor lighting creating cozy atmosphere
+
+MOOD: Restrained warmth, gentle reconciliation scene. Soft warm lighting without excessive drama. Not cinematic or overly romantic - natural indoor lamp quality with restrained emotional warmth.
+
+Technical: 21:9 aspect ratio, sharp focus, high detail, photorealistic, natural film grain, authentic traditional Chinese interior materials and textures.
+
+Negative prompt: people, characters, figures, cartoon, anime, oversaturated colors, dramatic high contrast lighting, harsh shadows, cold tones, excessive orange/yellow saturation, AI artifacts, modern furniture, industrial style

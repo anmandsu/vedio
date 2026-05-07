@@ -1,0 +1,23 @@
+{
+  "created": 1778187606,
+  "data": [
+    {
+      "revised_prompt": "Photorealistic Chinese Guochao fashion editorial image for a couples styling package called Phoenix Crown and Marshal Helmet. Two young Chinese adults stand side by side in an industrial opera studio. Left: woman wearing a red-gold Chinese opera phoenix crown with pearl tassels, central phoenix, modern red satin opera cape and gold waist piece. Right: man wearing a black-gold Chinese opera shuai-kui marshal helmet with red tassel crest, light black armor, red cape detail. Their costumes are coordinated but not identical, both clearly Chinese opera inspired, modern Guochao styling. Pose: they stand shoulder to shoulder, slightly turned toward each other, calm intimate confidence, one shared red silk water sleeve crossing the lower foreground, bead tassels and helmet tassel catching motion. Setting: Eastern Suburb Memory inspired industrial neon alley, old red brick wall, exposed black pipes, riveted steel, warm gold bulbs, small cyan neon accent far in background, no readable signage. Camera and composition: horizontal 16:9 cinematic campaign image, 35mm lens, medium full-body composition, both headpieces fully visible, strong symmetry but natural posture, foreground water sleeve creates depth. Lighting: warm white key light 4000K, gold rim light on both headpieces, soft cyan back accent, multi-source fill from wall bounce and overhead practicals, transparent shadows with full detail, maximum 2:1 to 2.5:1 lighting ratio. Photorealism details: individual pearl tassels, red silk weave, metal patina, realistic skin texture, old brick texture, real floor contact shadows, subtle film grain. Negative prompt: no text, no watermark, no logo, no Japanese elements, no wedding photography look, no cheap cosplay, no plastic crown, no samurai armor, no cyberpunk overload, no extra people, no malformed hands, no extra limbs, no AI gibberish.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/49345f20-7289-441a-9939-7753b643bc92/fe6bd486-8189-4a48-a4c9-0ba2b39c835b.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9366,
+    "input_tokens": 3716,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3716,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "created": 1778192875,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Duibai / dialogue, female. Talkative, lively, happy-puppy energy. Costume: off-white base with light movable square tabs near sleeves, small warm cinnabar accents like speech rhythm marks, playful open gesture, still minimalist and premium.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/2f450b3e-77c2-407a-9f98-27bb2f1d93d5/5b5703ef-133f-43a9-836a-c00e0c83093a.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2951,
+    "input_tokens": 1538,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1538,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

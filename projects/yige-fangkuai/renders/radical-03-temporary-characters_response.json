@@ -1,0 +1,23 @@
+{
+  "created": 1778193878,
+  "data": [
+    {
+      "revised_prompt": "Wide 16:9 avant-garde minimalist Chinese stage design, pure warm paper-white seamless proscenium stage, bright high-key low-contrast lighting, abundant negative space, premium clean physical set. The stage is covered with scattered Chinese radical/stroke components made as refined physical objects: lightweight matte-white ribs, translucent pale-jade acrylic edges, ink-gray seams, small caster bases, precise joinery, elegant internal voids. Strong Rubik-like assembly feeling but not colorful, not toy-like. Actors physically push, rotate, slide, sort, and combine radical components. No projection, no LED screen, no hanging props, no suspended objects, no readable printed text, no brush backdrop, no dense museum wall.\nScene: components combine into several temporary abstract Chinese-character structures across the stage, each made from the same radical pieces. One structure is being split apart while another is forming. The audience can sense that different words can be assembled from shared parts. Keep it stageable, floor-based, no hanging.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/f61c8c92-3c28-4b55-bb7e-657777be75a9/ad9983e2-2e3a-43b3-89a3-14387d43036a.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 3521,
+    "input_tokens": 2108,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 2108,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

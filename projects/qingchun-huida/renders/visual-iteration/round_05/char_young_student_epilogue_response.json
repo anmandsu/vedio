@@ -1,0 +1,23 @@
+{
+  "created": 1778187584,
+  "data": [
+    {
+      "revised_prompt": "Round 5 final polish: premium theatrical production design, most elegant version, crisp costume details, refined composition, museum-quality concept art presentation.\n\nAsset ID: char_young_student_epilogue\nAsset type: character\nPrimary request: Epilogue freshman student, full-body symbolic stage costume design, simple neutral campus jacket, dark trousers, sneakers, small warm light held in hand, backpack strap, clean youthful silhouette, standing in followspot with uncertainty turning into direction\nPrompt pattern: 16:9 theatrical costume concept frame for film and stage production. Full-body figure or ensemble centered in a wide stage design board, with costume/prop detail insets arranged on the side inside the same 16:9 frame, consistent black-box background and colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n\nUnified round tone: final polished 16:9 production-design board, museum-quality theatrical concept art, harmonious tri-color palette, consistent lens, lighting, haze, stage texture, and restrained Chinese contemporary design.\nAspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/7661732a-61f9-4c49-aa96-4349e1c96eea/3d909023-9461-445f-a9d8-3049b12384e3.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9962,
+    "input_tokens": 4312,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4312,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

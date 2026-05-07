@@ -1,0 +1,23 @@
+{
+  "created": 1778184931,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a brass key on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/340e6215-9e62-4e6a-b3a2-5fc084bddde9/a8dbb0d1-01d9-4124-85a2-b6eab6f112a6.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1035,
+    "input_tokens": 270,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 270,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

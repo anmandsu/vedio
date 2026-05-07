@@ -1,0 +1,23 @@
+{
+  "created": 1778189471,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal design concept image for a Chengdu Eastern Suburb Memory Guochao Chinese opera styling experience pavilion. Use the reference images for structural inspiration only: preserve Chinese opera headwear logic, transform it into contemporary hairstyle and wearable styling design. High-end fashion editorial, photorealistic, design-forward, not a literal copy, not cosplay, not museum restoration. Primary design language: Chinese opera kuitou structure, phoenix crown, marshal helmet, female marshal helmet, hard-frame silhouette, pearl tassels, red pom-poms, red tassel plume, gold wire, kingfisher-blue accents, silk, light armor, industrial red brick and black steel. No text, no watermark, no logo, no Japanese elements, no samurai, no kimono, no fantasy game armor, no cheap plastic, no bridal studio.Create the master brand visual for a Guochao Chinese opera styling experience pavilion in Chengdu Eastern Suburb Memory. Three models form a curated design tableau in an industrial alley: center female model with modern phoenix-crown hairstyle, left female marshal with silver female marshal helmet hairstyle, right male or androgynous model with black-gold shuai-kui hairstyle. The headwear designs are visibly based on traditional Chinese opera kuitou references but transformed into high-fashion hair design: hard-frame silhouettes integrated with hair, pearl tassels, red pom-poms, red tassel plume, gold filigree, blue-green enamel accents.\n\nSetting: Eastern Suburb Memory style red-brick factory alley, black steel beams, exposed pipes, warm shop lights, wet stone floor reflection, no readable signage. The image should look like a premium concept rendering for an experience? proposal, suitable for a pitch deck hero page.\n\nComposition: strict 16:9 horizontal cinematic fashion campaign, 35mm lens, models arranged in a shallow V, headwear silhouettes do not overlap, enough negative space around crowns and plumes, red sleeve fabric creates foreground motion. Lighting: blue-hour ambient, warm gold practicals, soft fill to keep all costume details visible, gold rim light on tassels and metal edges, maximum 2.5:1 contrast. Avoid literal old opera stage, avoid wedding photo, avoid generic hanfu, avoid cyberpunk overload, avoid tourist crowd.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/b92f9553-a735-4dbd-af2d-c391ffa67d15/d467cfd1-5176-4579-b773-49e020c75e6f.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 11884,
+    "input_tokens": 6234,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4554,
+      "audio_tokens": 0,
+      "image_tokens": 1680
+    }
+  }
+}

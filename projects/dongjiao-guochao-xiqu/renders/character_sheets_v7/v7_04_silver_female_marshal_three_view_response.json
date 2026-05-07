@@ -1,0 +1,23 @@
+{
+  "created": 1778193244,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone Guochao Chinese opera styling character. Strict 16:9 horizontal image, full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right on a clean light warm background. No environment scene, no group, no extra characters, no cropped body. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist, pants/skirt-shorts, shoes, back details. Keep the opera headwear shape but makeup is simplified modern beauty makeup, not heavy stage makeup: natural translucent skin, fine eyeliner, soft blush, clean red or peach lip, no white painted face. Young Chinese Guochao for ages 16-35, wearable and photogenic. Preserve xiqu headwear DNA: black forehead hair patches, pearl tassels, bead flowers, pom-poms, cloud motifs, lingzi arcs where specified. Modern clothing: short jacket, small cloud collar, pankou buttons, embroidered gauze, detachable water-sleeve panels, wide-leg trousers, culotte shorts, short boots or clean sneakers. Do NOT use mamian skirt, do NOT use stereotypical long new-Chinese robe, no gothic, no cyberpunk, no samurai, no kimono, no text labels, no watermark.\n\nDesign 04: Silver-white female marshal / girl-general Guochao. Same young female character in all three views. Headwear: silver-white female marshal helmet frame, black forehead hair patches, high ponytail or hair plume, small red pom-poms, blue enamel accents, short pearl tassels, two compact side wing ornaments; not samurai, not fantasy armor. Outfit: jade-white cropped structured jacket with silver embroidery, tiny cloud collar, pankou closure, short translucent sleeve streamers, silver waist piece, pale blue straight-leg trousers with side slits, embroidered short boots. Front view shows heroic clean silhouette; side view shows helmet depth and ponytail/plume; back view shows helmet frame, ponytail anchor, jacket back embroidery. Full body three-view design sheet.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/89696606-25ef-413b-aebb-00873a0f65f7/43a3b934-ec6c-428b-8577-b86deb6ef529.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 6475,
+    "input_tokens": 5062,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3942,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

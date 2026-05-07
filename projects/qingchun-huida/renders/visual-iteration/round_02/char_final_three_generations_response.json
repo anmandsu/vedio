@@ -1,0 +1,23 @@
+{
+  "created": 1778186462,
+  "data": [
+    {
+      "revised_prompt": "Round 2 costume and accessory upgrade: add clearer fabric texture, profession-specific accessories, shoe/hat/glove details, practical stage construction.\n\nAsset ID: char_final_three_generations\nAsset type: character\nPrimary request: Final convergence group costume concept, archaeology, medical rescue, engineering and GRID lanes meeting center stage, gold ring, white rescue bag, blueprint tube and glowing cube held forward, unified ceremonial posture, coherent three-color costume system\nPrompt pattern: Character reference sheet for film and stage production. Full body standing pose, front dominant view plus small detail insets for costume/props, clean dark gray studio-stage background, even key light plus colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/a4607288-8296-425d-9d9f-a535c92b26ef/900bfbf5-7b03-4541-b903-ad1b39e59f3a.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4245,
+    "input_tokens": 3480,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3480,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

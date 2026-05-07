@@ -1,0 +1,23 @@
+{
+  "created": 1778192751,
+  "data": [
+    {
+      "revised_prompt": "Create a more customer-friendly version of the reference for a real Guochao opera styling experience store. Keep the same 16:9 storefront/studio composition and xiqu headwear silhouette, but reduce theatricality: the main model should look like a stylish young customer after professional Guochao styling, not a stage performer. Headwear remains inspired by traditional opera: blue-white floral bead crown, pearl tassels, black sculpted hair patches, small red pom-poms. Makeup is simplified modern beauty makeup: clear natural base, soft peach-pink eye makeup, fine eyeliner, clean red lip, no white mask, no thick black theatrical paint, no exaggerated contour. Outfit: short youthful Chinese jacket with cloud-collar edge and pankou, sheer sleeve panels, straight pants or culotte shorts, light and wearable. Background boutique: red brick, warm wood, brass shelves, headwear display, mirror lights. Bright, fresh, Chinese Guochao, 16-35 friendly.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/935eac0d-a5da-48d8-b151-32f218da42c4/27ae5dc7-981c-495e-b646-a5c1d4c01913.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 8110,
+    "input_tokens": 2460,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1900,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

@@ -1,0 +1,79 @@
+A cinematic macro photograph of a traditional Chinese needle box (针盒) from 1980s-90s, shot in intimate close-up with warm lighting and shallow depth of field. Based on real vintage needle boxes from Xiaohongshu research.
+
+SUBJECT - Traditional Needle Box:
+- Small wooden box, 8-12cm length × 5-8cm width × 2-3cm height
+- Dark wood or bamboo, deep brown to reddish-brown color
+- Box shown OPEN at 45-degree angle, revealing interior
+- Interior: fabric pin cushion (worn beige/cream cloth) with needles
+- Small compartments for different needle types
+- Sliding or flip lid design, lid partially open showing mechanism
+
+REAL-WORLD DETAILS (from research):
+- Hand-polished exterior, smooth from decades of handling
+- Rounded edges and corners from years of use
+- Opening mechanism shows wear from repeated use
+- Pin cushion fabric: faded, multiple needle holes, slight compression
+- Interior wood lighter than exterior (less exposure)
+- Fine scratches and marks from daily use
+- Simple functional design, no elaborate decoration
+- May have small brass or wooden closure, oxidized/worn
+
+COMPOSITION & CAMERA:
+- 21:9 cinematic aspect ratio (CRITICAL)
+- Close-up macro shot, box fills 60-70% of frame width
+- Box positioned at slight diagonal, creating dynamic composition
+- Shot from 30-degree angle above, looking down into open box
+- 85mm macro lens equivalent, f/2.0 aperture
+- Horizontal composition showcasing open box and contents
+
+LIGHTING - Intimate and Warm:
+- Primary: Soft directional light from upper right, 3200K warm tungsten
+- Creates gentle highlight on box edge and needle tips
+- Soft graduated shadows across interior, 2:1 lighting ratio
+- Needles catch light with tiny specular highlights
+- Wood grain texture revealed by raking light
+- Warm amber glow, nostalgic and tender mood
+
+ENVIRONMENT - Minimal Atmospheric Context:
+- Background: Soft-focus dark wooden surface (old table)
+- A piece of embroidered silk fabric partially visible, blurred bokeh
+- Few loose thread spools in far background, barely visible
+- Warm cream tones in out-of-focus areas
+- Creates intimate workspace atmosphere without distraction
+
+MATERIAL AUTHENTICITY:
+- Box exterior: smooth patina, hand-polished from use
+- Edges: rounded, worn smooth, darker from oil and handling
+- Pin cushion: faded fabric, multiple needle holes, compression marks
+- Needles: mix of sizes, some with thread still attached
+- Interior compartment: simple wood divider, functional design
+- Lid mechanism: visible wear from repeated opening
+- Thread fragments on cushion surface
+- Small brass or wooden closure, oxidized/worn
+
+SPECIFIC DETAILS:
+- 5-7 needles visible, inserted at various angles in cushion
+- 1-2 needles lying flat in compartment
+- Tiny thread fragments visible on cushion surface
+- Box lid shows finger-worn area where it's opened
+- Interior compartment divider visible
+- Simple traditional construction
+
+MOOD & AESTHETIC:
+- Intimate and personal, grandmother's sewing box
+- Warm nostalgic atmosphere, tender memory
+- Quiet dignity of everyday tools
+- Documentary intimacy meets editorial art direction
+- Restrained elegance, not overly dramatic
+
+TECHNICAL SPECS:
+- 21:9 aspect ratio (2.35:1 cinematic format) - MANDATORY
+- 4K resolution, razor-sharp focus on pin cushion center
+- Shallow depth of field, creamy bokeh
+- Natural film grain, Kodak Portra 160 aesthetic
+- Realistic wood and fabric texture rendering
+- Color palette: deep browns, warm beiges, amber highlights
+- High detail on needles and fabric, atmospheric blur elsewhere
+
+NEGATIVE PROMPT:
+NO pure white background, NO studio seamless backdrop, NO flat even lighting, NO centered symmetrical composition, NO plastic appearance, NO oversaturated colors, NO dramatic high-contrast shadows, NO closed box, NO people or hands, NO text or labels, NO modern materials, NO clean pristine surfaces, NO AI artifacts, NO cartoon style, NO excessive bokeh blur, NO lens flare effects, NO metal box (must be wood/bamboo), NO 1:1 square format, NO 4:5 portrait format (MUST be 21:9 cinematic)

@@ -1,0 +1,23 @@
+{
+  "created": 1778192880,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Datian Bailiang / daylight brightness, male. Rough, loud, sunny, impulsive. Costume: off-white and warm sun-gold accent, broad shoulders, angular square sunburst panel motif but still clean, robust physical stance, identity card visible.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/b4fb3d8b-2138-4f48-a8a2-e0e9e62b8642/e8b9889f-0eff-4c25-bc4f-a5e595fb0371.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2945,
+    "input_tokens": 1532,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1532,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

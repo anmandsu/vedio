@@ -1,0 +1,60 @@
+A cinematic product photograph of a traditional Chinese embroidery frame (绣架) from 1980s-90s, shot in a moody editorial style with dramatic side lighting and shallow depth of field.
+
+SUBJECT - Traditional Shu Embroidery Frame:
+- Standing floor frame, 120-140cm height, dark wood (elm or catalpa)
+- Rectangular fabric frame 60×80cm, horizontal orientation
+- Deep brown wood with natural aging patina, time-worn surface
+- Hand-polished areas darker and shinier where hands touch
+- Stable H-base or cross-base, floor contact wear visible
+- Fabric stretched tight with visible texture
+- Traditional mortise and tenon joints visible
+- Adjustment knobs showing brass oxidation
+
+COMPOSITION & CAMERA:
+- 3/4 angle view from slightly below, emphasizing the frame's presence
+- Frame positioned right of center, creating negative space on left
+- Shot with 50mm lens equivalent, f/2.8 aperture for shallow depth of field
+- Vertical 4:5 composition, editorial product photography aesthetic
+
+LIGHTING - Dramatic but Restrained:
+- Primary: Soft window light from upper left, 3500K warm afternoon light
+- Creates gentle highlights on worn wood surfaces
+- Soft directional shadows, 2.5:1 lighting ratio
+- Wood grain and hand-worn areas catch light naturally
+- Transparent shadows with full detail visible
+- No harsh contrast, documentary realism
+
+ENVIRONMENT - Blurred Traditional Interior:
+- Background: Soft-focus traditional Chinese workshop interior
+- Blurred wooden furniture, fabric rolls barely visible
+- Warm cream walls with subtle texture, out of focus
+- Foreground: Edge of dark wooden table, slightly out of focus
+- A piece of draped silk fabric in warm amber tone, soft bokeh
+- Creates depth and context without competing with subject
+
+MATERIAL DETAILS - Time-Worn Authenticity:
+- Wood surface: smooth patina from decades of use
+- Hand contact areas: darker, shinier, oil-polished appearance
+- Edges: rounded from years of handling
+- Fine cracks along wood grain, natural aging
+- Brass hardware: subtle green oxidation patina
+- Fabric: slight wear at edges, authentic period texture
+- Floor contact points: visible wear marks
+
+MOOD & AESTHETIC:
+- Restrained elegance, not dramatic or cinematic excess
+- Documentary product photography meets editorial art direction
+- Warm nostalgic atmosphere, gentle and tender
+- Emphasizes craftsmanship and time-honored tradition
+- Quiet dignity, not staged or artificial
+
+TECHNICAL SPECS:
+- 4K resolution, sharp focus on frame with gradual falloff
+- Natural film grain texture, Kodak Portra 400 aesthetic
+- Realistic material rendering, authentic wood and fabric textures
+- Soft bokeh in background, creamy smooth out-of-focus areas
+- Color palette: deep browns, warm creams, muted ambers
+- High detail on subject, atmospheric blur on environment
+
+NEGATIVE PROMPT:
+NO pure white background, NO studio seamless backdrop, NO flat even lighting, NO centered symmetrical composition, NO plastic appearance, NO oversaturated colors, NO dramatic high-contrast shadows, NO artificial spotlights, NO people or hands, NO text or labels, NO modern furniture, NO clean pristine surfaces, NO AI artifacts, NO cartoon style, NO excessive bokeh blur, NO lens flare effects

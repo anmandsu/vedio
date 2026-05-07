@@ -1,0 +1,23 @@
+{
+  "created": 1778187597,
+  "data": [
+    {
+      "revised_prompt": "Photorealistic Chinese Guochao fashion editorial portrait of a young Chinese man as a modern opera marshal, wearing a black-and-antique-gold Chinese opera shuai-kui marshal helmet, strong helmet body, gold forehead plate, red tassel crest and short plume, bead ornaments and matte aged-metal texture. Costume: black modernized light armor inspired by Chinese opera military costume, brushed gold shoulder plates, red inner cape, leather wrist guards, structured waist belt, subtle embroidered cloud pattern, not fantasy armor. Pose: standing in a calm heroic stance, body angled slightly, gaze toward camera, one hand holding a red command flag lowered at his side, controlled energy rather than aggressive cosplay. Setting: black-gold martial field inside an old Chengdu industrial factory studio, textured dark wall, red brick floor, black steel pipes, warm theatrical bulbs, small red rim light, faint haze. Camera and composition: vertical 9:16 hero poster, full body to three-quarter crop, 35mm lens at chest height, helmet and red tassel fully readable, strong triangular silhouette. Lighting: warm key light 4000K from front left, soft ambient fill from brick wall bounce, red-gold rim light from rear right, full detail visible in shadows, maximum 2:1 to 2.5:1 lighting ratio. Photorealism details: fabric weave, armor patina, red tassel fibers, leather grain, real contact shadows, natural film grain, cinematic editorial finish. Negative prompt: no text, no watermark, no logo, no Japanese samurai, no katana, no kimono, no game armor, no sci-fi helmet, no plastic surfaces, no theatrical grimace, no extra limbs, no malformed hands, no AI gibberish, no over-dark crushed shadows.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/4f1d77d5-f163-4a92-8c11-71c29205e91e/48892f36-4a01-48b3-af28-bacd7164b625.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9030,
+    "input_tokens": 3380,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3380,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

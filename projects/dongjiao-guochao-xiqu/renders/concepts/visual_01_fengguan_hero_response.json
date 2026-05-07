@@ -1,0 +1,23 @@
+{
+  "created": 1778187603,
+  "data": [
+    {
+      "revised_prompt": "Photorealistic Chinese Guochao fashion editorial portrait, a young Chinese woman wearing a dramatic red-and-antique-gold Chinese opera phoenix crown, high fan-shaped crown silhouette, central phoenix ornament, layered metal filigree, red beads, pearl tassels falling beside the cheeks, subtle Sichuan hibiscus motif worked into the crown. She wears a modernized Chinese opera costume: cinnabar red satin short cape, embroidered shoulder panels, delicate water-sleeve fabric, brushed gold metal waist piece, layered silk textures. Confident calm expression, chin slightly lifted, one hand gently touching a bead tassel, no exaggerated theatrical face paint, beauty makeup inspired by opera eye line, real skin texture. Setting: indoor red-gold opera stage inside an industrial heritage space, old brick wall partially visible behind red velvet curtains, black steel beam overhead, warm practical bulbs, small hints of Chengdu Eastern Suburb Memory factory texture. Camera and composition: vertical 9:16 hero poster, 50mm lens, waist-up three-quarter portrait, crown fully visible with generous headroom, shallow depth of field but headwear details sharp. Lighting: warm white key light 4000K from front left, soft fill from right, antique gold rim light on crown edges, transparent luminous shadows with full detail visible, maximum 2:1 to 2.5:1 lighting ratio. Photorealism details: visible pearl reflections, worn metal patina, satin weave, embroidered thread, realistic skin pores, natural film grain, editorial color grading. Negative prompt: no text, no watermark, no logo, no Japanese elements, no kimono, no samurai, no fantasy armor, no cheap plastic crown, no bridal studio, no mannequin, no plastic skin, no airbrushing, no AI gibberish, no extra fingers, no deformed hands, no over-saturated neon.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/6097c055-40c7-43e3-b92a-2184df1a37aa/44d9104b-912b-4d87-b4a0-fc8505659aac.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9264,
+    "input_tokens": 3614,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3614,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

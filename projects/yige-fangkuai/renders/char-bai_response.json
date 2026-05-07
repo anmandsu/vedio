@@ -1,0 +1,23 @@
+{
+  "created": 1778192868,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Bai, male. Sensitive, persistent, brave, confused but upright. Costume: simplest off-white long vest and soft trousers, asymmetrical empty square motif at chest, one missing-card pocket, pale gray seams, no identity card in hand, fragile but dignified.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/aa807005-36d8-455d-b277-102d1838d97f/c7db5ad7-bfa4-4829-9fb8-6f0bfa61e3e7.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2975,
+    "input_tokens": 1562,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1562,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Round 1 visual exploration: clear symbolic stage concept, simple readable silhouettes, establish the three-color system, not overdesigned yet.
+
+Asset ID: scene_epilogue_followspot
+Asset type: scene
+Primary request: Epilogue followspot stage concept, one young student alone in a narrow warm spotlight, deep black stage behind, fading path of light toward upstage, subtle traces of the three color lanes on the floor, quiet hopeful ending
+Prompt pattern: Theatrical stage concept art, wide establishing view from audience eye level, full stage spatial layout, foreground/midground/background layers, visible lighting design and practical props, no audience, no readable signage.
+Research anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.
+Style: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.
+Lighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.
+Composition: professional art department board, elegant negative space, clear silhouette, no text overlays.
+Quality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.
+Negative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.

@@ -1,0 +1,23 @@
+{
+  "created": 1778193317,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone Guochao Chinese opera styling character. Strict 16:9 horizontal image, full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right on a clean light warm background. No environment scene, no group, no extra characters, no cropped body. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist, pants/skirt-shorts, shoes, back details. Keep the opera headwear shape but makeup is simplified modern beauty makeup, not heavy stage makeup: natural translucent skin, fine eyeliner, soft blush, clean red or peach lip, no white painted face. Young Chinese Guochao for ages 16-35, wearable and photogenic. Preserve xiqu headwear DNA: black forehead hair patches, pearl tassels, bead flowers, pom-poms, cloud motifs, lingzi arcs where specified. Modern clothing: short jacket, small cloud collar, pankou buttons, embroidered gauze, detachable water-sleeve panels, wide-leg trousers, culotte shorts, short boots or clean sneakers. Do NOT use mamian skirt, do NOT use stereotypical long new-Chinese robe, no gothic, no cyberpunk, no samurai, no kimono, no text labels, no watermark.\n\nDesign 02: Red-blue martial dan with lingzi arcs, young energetic Guochao. Same female character in all three views. Headwear: red pom-pom crown ridge, blue enamel floral side pieces, black forehead patches, two long curved lingzi arcs rising from the back and looping outward, pearl drops. Outfit: cinnabar cropped embroidered jacket, blue mini cloud collar, gold tassel sash, detachable red-blue water sleeves, ivory wide-leg pants with blue side embroidery, light embroidered boots. Front view shows martial color blocking; side view shows the lingzi arc curve and waist sash; back view shows feather anchor, jacket back motif and sleeve attachment. Full body three-view sheet, no stage scene.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/77ccdde3-3c59-497a-afee-d8fbdc86b82b/22ccca4c-5d62-48f7-8567-f3fee4391866.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10548,
+    "input_tokens": 4898,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3778,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

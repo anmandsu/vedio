@@ -1,0 +1,23 @@
+{
+  "created": 1778190122,
+  "data": [
+    {
+      "revised_prompt": "Probe only. Create a simple 16:9 image inspired by the reference, Chinese opera headwear, no text.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/f51b0cb1-250c-4bb6-8fb9-c5af07d1ad62/2c01c8f6-4622-4a07-88e7-0e1014b3d55f.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2169,
+    "input_tokens": 756,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 196,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

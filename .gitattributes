@@ -1,0 +1,11 @@
+projects/dongjiao-guochao-xiqu/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+projects/dongjiao-guochao-xiqu/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+projects/dongjiao-guochao-xiqu/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+projects/dongjiao-guochao-xiqu/**/*.png filter=lfs diff=lfs merge=lfs -text
+handoff/*.zip filter=lfs diff=lfs merge=lfs -text
+handoff/*.bundle filter=lfs diff=lfs merge=lfs -text
+projects/**/*.png filter=lfs diff=lfs merge=lfs -text
+projects/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+projects/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+projects/**/*.webp filter=lfs diff=lfs merge=lfs -text
+projects/**/*.docx filter=lfs diff=lfs merge=lfs -text

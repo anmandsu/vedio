@@ -1,0 +1,15 @@
+Round 4 design elevation: stronger silhouettes, bolder color blocking, more elegant composition, refined prop symbolism, remove generic publicity-photo feeling.
+
+Asset ID: scene_medical_rescue_plateau
+Asset type: scene
+Primary request: Medical rescue plateau stage concept, center-back cold white light, six medical figures moving into wind, white rescue bags, orange reflective accents, mobile CT silhouette, slanted snow-light beams, dark stage void with breath haze
+Prompt pattern: Theatrical stage concept art, wide establishing view from audience eye level, full stage spatial layout, foreground/midground/background layers, visible lighting design and practical props, no audience, no readable signage.
+Research anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.
+Style: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.
+Lighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.
+Composition: professional art department board, elegant negative space, clear silhouette, no text overlays.
+Quality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.
+Negative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.
+
+Unified round tone: elevated premium stage concept, bolder silhouettes and color blocks but balanced across the whole set, refined theatrical haze, consistent black stage floor, no poster chaos.
+Aspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.

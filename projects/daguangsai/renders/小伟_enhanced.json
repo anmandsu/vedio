@@ -1,0 +1,17 @@
+{
+  "created": 1777743890,
+  "data": [
+    {
+      "url": "https://oss.filenest.top/uploads/dbf32a35-e7f5-4e1a-8903-4b29f2d8d385.png"
+    }
+  ],
+  "usage": {
+    "total_tokens": 1705,
+    "input_tokens": 940,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "text_tokens": 380,
+      "image_tokens": 560
+    }
+  }
+}

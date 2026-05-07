@@ -1,0 +1,15 @@
+# System Stage Keyframe V4 Prompt
+
+## Direction
+
+Keep v3's overall composition and minimalist avant-garde stage language, but redesign the modules so they no longer feel like heavy solid boxes. Make them lighter, more refined, more high-end, and more intentionally designed.
+
+## Prompt
+
+Wide 16:9 avant-garde minimalist stage design concept for a contemporary Chinese stage sketch. Clean bright proscenium stage, warm paper-white floor and backdrop, abundant negative space, soft high-key lighting, low contrast, refined theatrical silence. Preserve the central almost-formed square Chinese character composition, subtly suggesting the structure of Bai / a square-character meaning being accepted. Replace heavy solid cubes with lightweight high-design modular stage objects: hollow rectangular frames, slim matte-white ribs, layered thin panels, translucent pale-jade acrylic edges, precise joinery, subtle ink-gray stroke lines, elegant negative spaces inside each module. The modules feel like premium architectural stage furniture and abstract glyph components, not crates, cabinets, or storage boxes. All modules are floor-based and actor-operated, with discreet casters, visible support seams, and subtle integrated handholds; nothing is hanging or floating. Three or four performers in simple neutral stage costumes gently push, hold, and align the modules with quiet precision. One small missing lightweight frame is being rotated into place, completing the square-character structure. One restrained identity card: warm white paper, tiny cinnabar seal mark, no readable text. The visual inspiration is Chinese pictographic writing, oracle-bone reconstruction, and Rubik's-cube-like decomposition, expressed through refined physical geometry and stage choreography. Minimal, high-end, avant-garde, imagistic, poetic, clean.
+
+Hard exclusions: no heavy solid box modules, no crate feeling, no cabinet blocks, no museum exhibition wall, no shelves, no dense labels, no readable Chinese text, no projection, no LED screen, no hologram UI, no hanging props, no suspended scrolls, no dark cyberpunk, no ornate antique decor, no clutter.
+
+## Negative Prompt
+
+solid storage boxes, heavy crates, cabinet wall, bulky cubes, toy blocks, busy museum exhibit, dense wall panels, readable Chinese labels, archive shelves, projection mapping, LED wall, hologram UI, hanging scrolls, suspended props, flying objects, dark stage ceiling rig, ornate antique decor, clutter, colorful plastic, poster layout, portrait aspect ratio.

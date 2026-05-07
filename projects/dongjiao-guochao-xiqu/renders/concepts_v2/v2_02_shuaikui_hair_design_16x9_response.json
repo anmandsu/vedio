@@ -1,0 +1,23 @@
+{
+  "created": 1778189470,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal design concept image for a Chengdu Eastern Suburb Memory Guochao Chinese opera styling experience pavilion. Use the reference images for structural inspiration only: preserve Chinese opera headwear logic, transform it into contemporary hairstyle and wearable styling design. High-end fashion editorial, photorealistic, design-forward, not a literal copy, not cosplay, not museum restoration. Primary design language: Chinese opera kuitou structure, phoenix crown, marshal helmet, female marshal helmet, hard-frame silhouette, pearl tassels, red pom-poms, red tassel plume, gold wire, kingfisher-blue accents, silk, light armor, industrial red brick and black steel. No text, no watermark, no logo, no Japanese elements, no samurai, no kimono, no fantasy game armor, no cheap plastic, no bridal studio.Create a design-led photorealistic concept rendering of a modern Chinese opera shuai-kui marshal-helmet hairstyle for a young Chinese model. Use the marshal helmet references as structural inspiration: black-gold curved helmet silhouette integrated into the hairstyle, gold forehead plate, side ear guards, red pom-poms, a long red tassel plume sweeping backward, small bead ornaments and aged-metal trim. Translate the helmet into a wearable high-fashion hairpiece: slicked-back black hair locked under a sculptural black headband/helmet frame, low ponytail hidden under the plume, no full military cosplay helmet.\n\nCostume: black modern opera-inspired jacket with light armor shoulder pieces, red inner silk layer, gold embroidered cloud lines, leather waist band. Pose: model seated or standing in a design studio, calm, sharp, one hand near the red command flag but not dominating the image.\n\nComposition: strict horizontal 16:9, three-quarter full-body fashion concept, large negative space showing red brick industrial wall and black steel pipe, helmet profile readable from 10 meters. Lighting: warm 4000K key, red-gold rim on plume, soft fill from brick wall bounce, shadows transparent, no crushed blacks. Materials: matte black lacquer, aged gold, red silk tassel fibers, real hair texture, hand-made paper/metal craft feeling. Avoid samurai helmet, avoid fantasy armor, avoid sci-fi helmet, avoid cheap cosplay store product photo.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/e53c99d3-4ba4-4c9f-b305-9ae7fe8ca6f2/bc865dd6-a68d-45f3-96da-2adf3a7c3817.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 11862,
+    "input_tokens": 6212,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4532,
+      "audio_tokens": 0,
+      "image_tokens": 1680
+    }
+  }
+}

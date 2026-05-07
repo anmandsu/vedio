@@ -1,0 +1,23 @@
+{
+  "created": 1778187586,
+  "data": [
+    {
+      "revised_prompt": "Round 5 final polish: premium theatrical production design, most elegant version, crisp costume details, refined composition, museum-quality concept art presentation.\n\nAsset ID: scene_final_convergence\nAsset type: scene\nPrimary request: Final convergence stage concept, full stage bright but still theatrical, archaeology warm gold from left, medical cold white from center, technology blue from right, groups meet center, gold ring rescue bag blueprint tube glowing cube align like one shared answer\nPrompt pattern: Theatrical stage concept art, wide establishing view from audience eye level, full stage spatial layout, foreground/midground/background layers, visible lighting design and practical props, no audience, no readable signage.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n\nUnified round tone: final polished 16:9 production-design board, museum-quality theatrical concept art, harmonious tri-color palette, consistent lens, lighting, haze, stage texture, and restrained Chinese contemporary design.\nAspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/3408dd21-2b13-4b94-93fe-a376cf08b3d1/790f2135-5134-4f3f-9f2a-e54c51cfe359.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9856,
+    "input_tokens": 4206,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4206,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

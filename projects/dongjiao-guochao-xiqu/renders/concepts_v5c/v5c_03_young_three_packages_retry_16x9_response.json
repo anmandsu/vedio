@@ -1,0 +1,23 @@
+{
+  "created": 1778192293,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal image. Create a young Chinese Guochao campaign for an opera styling experience pavilion, based on the references. Keep traditional xiqu headwear shapes: black forehead hair patches, pearl tassels, blue-white-pink bead flowers, red pom-poms, curved lingzi arcs, water-sleeve gestures and precise opera makeup. Modernize the clothing for ages 16-35 without mamian skirts and without stereotypical new-Chinese long robes. Three models: left red martial dan wears cinnabar cropped embroidered jacket, blue mini cloud collar, gold tassel sash, ivory wide-leg pants; center wears jade-white and lake-blue short brocade top, pearl cloud-shoulder, soft straight trousers; right wears soft pink cropped jacket, floral embroidery, gauze sleeve panels, pleated skirt-shorts or culotte shorts. Bright fresh Chinese national-trend fashion, premium and wearable. East Suburb Memory red-brick courtyard/studio, warm daylight, greenery, refined commercial photography. No gothic, no cyberpunk, no black leather, no techwear, no Japanese elements, no text, no watermark.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/1465914c-4bcb-4e3e-b70e-af5dedeb97f6/e5ede88f-8095-424f-aca0-453893af193b.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 8922,
+    "input_tokens": 3272,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 2152,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

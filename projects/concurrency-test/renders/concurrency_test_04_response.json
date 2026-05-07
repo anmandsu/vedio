@@ -1,0 +1,23 @@
+{
+  "created": 1778184931,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a folded linen cloth on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/1c7f2d0e-9a99-437c-8727-86f0bce9ea2b/2d758e72-c011-4d1d-8b43-2ecceab5318c.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1053,
+    "input_tokens": 288,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 288,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "created": 1778186446,
+  "data": [
+    {
+      "revised_prompt": "Round 2 costume and accessory upgrade: add clearer fabric texture, profession-specific accessories, shoe/hat/glove details, practical stage construction.\n\nAsset ID: char_jiang_yaowen_mobile_ct\nAsset type: character\nPrimary request: Symbolic emergency doctor with mobile CT rescue equipment, full-body stage costume design, white medical rescue jacket with orange reflective edges, rugged boots, gloves, clear goggles, hand on compact mobile CT cart/device with wheels, cold plateau light\nPrompt pattern: Character reference sheet for film and stage production. Full body standing pose, front dominant view plus small detail insets for costume/props, clean dark gray studio-stage background, even key light plus colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/cbbea284-7c87-4bd5-a0a5-303b0366018a/dc854f38-ca0b-40d4-842a-8999092576d6.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4239,
+    "input_tokens": 3474,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3474,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

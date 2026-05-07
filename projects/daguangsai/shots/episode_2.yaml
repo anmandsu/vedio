@@ -1,0 +1,1098 @@
+episode: 2
+title: "福袋·崩裂"
+style: "克制写实主义，冷灰向温暖过渡，固定机位，情感递进"
+
+shots:
+  # ========== 场4：内景·绣坊·深夜 ==========
+
+  - shot_id: "E2_S01"
+    scene_id: "SC04_OLD_EMBROIDERY_SHOP"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      绣儿深夜回到绣坊，拿着旧福袋（外婆遗物），试图与母亲和解。
+
+    performance: >
+      绣儿表情柔软、克制，眼神温柔，手捧福袋，动作轻柔。
+
+    lighting: >
+      深夜，暖黄灯光，色温3800K，柔光，低反差，开始向温暖过渡。
+
+    camera: >
+      固定机位，绣儿中景特写，标准镜头，平视角度。
+
+    blocking: >
+      绣儿占据画面中心，福袋在手中，背景是绣坊空间。
+
+    sound: >
+      极度安静，绣儿的轻微脚步声，布料摩擦声。
+
+    dialogue: >
+      "妈……这是外婆留的福袋。"
+
+    duration_sec: 5
+    beat_type: "reconciliation"
+
+    style_notes: >
+      暖黄灯光标志着情感基调开始转变，从冷灰向温暖过渡。
+
+    visual_anchors:
+      - "绣儿：26岁，柔软表情"
+      - "福袋：旧布料，外婆遗物"
+      - "暖黄灯光：情感转折信号"
+
+    continuity_to: "为林素琴反应做准备"
+
+  - shot_id: "E2_S02"
+    scene_id: "SC04_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴看到福袋，情绪触动，但仍克制。
+
+    performance: >
+      面部表情从冷漠转为触动，眼神柔软，看着福袋，嘴唇微动。
+
+    lighting: >
+      深夜，暖黄灯光，色温3800K，侧光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，福袋在前景虚化。
+
+    sound: >
+      林素琴的呼吸声，环境音极低。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reaction"
+
+    style_notes: >
+      克制的情绪触动，通过眼神和微表情传达。
+
+    visual_anchors:
+      - "林素琴：56岁，触动表情"
+
+    continuity_from: "接续绣儿拿福袋"
+    continuity_to: "为福袋特写做准备"
+
+  - shot_id: "E2_S03"
+    scene_id: "SC04_OLD_EMBROIDERY_SHOP"
+    character: "福袋"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      福袋特写，展现外婆的刺绣工艺和情感载体。
+
+    performance: >
+      无人物，道具特写。
+
+    lighting: >
+      深夜，暖黄灯光，色温3800K，柔光，展现福袋细节。
+
+    camera: >
+      固定机位，福袋极近特写，微距镜头，展现刺绣细节。
+
+    blocking: >
+      福袋占据画面中心，刺绣纹理清晰可见。
+
+    sound: >
+      布料摩擦的细微声音，环境音极低。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "symbolic"
+
+    style_notes: >
+      福袋是情感触发器，需要展现蜀绣工艺细节。
+
+    visual_anchors:
+      - "福袋：旧布料，蜀绣纹理"
+      - "刺绣细节：1/16丝，精细工艺"
+
+    continuity_from: "接续林素琴看福袋"
+    continuity_to: "为绣儿台词做准备"
+
+  - shot_id: "E2_S04"
+    scene_id: "SC04_OLD_EMBROIDERY_SHOP"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      绣儿说出外婆的话，触发情感转折。
+
+    performance: >
+      绣儿表情温柔、克制，眼神坚定，声音轻柔但有力。
+
+    lighting: >
+      深夜，暖黄灯光，色温3800K，柔光打在面部。
+
+    camera: >
+      固定机位，绣儿面部特写，标准镜头，平视角度。
+
+    blocking: >
+      绣儿占据画面中心，背景虚化。
+
+    sound: >
+      绣儿的声音温柔，环境音极低。
+
+    dialogue: >
+      "外婆说过……别死守，要传下去。"
+
+    duration_sec: 6
+    beat_type: "turning_point"
+
+    style_notes: >
+      关键台词，是情感转折的触发点，需要克制但有力的表达。
+
+    visual_anchors:
+      - "绣儿：26岁，温柔坚定表情"
+
+    continuity_from: "接续福袋特写"
+    continuity_to: "场4结束，为场5闪回做准备"
+
+  # ========== 场5：内景·旧屋·夜（闪回） ==========
+
+  - shot_id: "E2_S05"
+    scene_id: "SC05_OLD_HOUSE_FLASHBACK"
+    character: "外婆"
+    location: "INT. 旧屋 - 夜（闪回）"
+
+    plot: >
+      闪回到过去，外婆在油灯下刺绣，建立传承主题。
+
+    performance: >
+      外婆坐在绣架前，专注刺绣，面部表情慈祥、沉稳。
+
+    lighting: >
+      油灯光，暖黄色调，色温2700K，柔光，低照度，怀旧氛围。
+
+    camera: >
+      固定机位，外婆中景特写，标准镜头，略微俯视角度。
+
+    blocking: >
+      外婆占据画面中心，油灯在前景，绣架在中景。
+
+    sound: >
+      丝线摩擦声，针刺入布的声音，油灯轻微噼啪声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "flashback"
+
+    style_notes: >
+      闪回场景用暖黄色调区分时空，油灯光营造怀旧氛围。
+
+    visual_anchors:
+      - "外婆：80岁，慈祥表情"
+      - "油灯：暖黄光源"
+      - "旧屋：简朴空间"
+
+    continuity_to: "为小绣儿出现做准备"
+
+  - shot_id: "E2_S06"
+    scene_id: "SC05_OLD_HOUSE_FLASHBACK"
+    character: "小绣儿"
+    location: "INT. 旧屋 - 夜（闪回）"
+
+    plot: >
+      小绣儿（童年林素琴）在旁边看外婆刺绣。
+
+    performance: >
+      小绣儿坐在外婆旁边，眼神专注，看着外婆的手，表情好奇。
+
+    lighting: >
+      油灯光，暖黄色调，色温2700K，侧光打在面部。
+
+    camera: >
+      固定机位，小绣儿面部特写，标准镜头，平视角度。
+
+    blocking: >
+      小绣儿占据画面中心，外婆的手在前景虚化。
+
+    sound: >
+      丝线摩擦声，针刺入布的声音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "flashback"
+
+    style_notes: >
+      小绣儿的专注眼神展现传承的起点。
+
+    visual_anchors:
+      - "小绣儿：约8岁，专注表情"
+      - "油灯光：暖黄氛围"
+
+    continuity_from: "接续外婆刺绣"
+    continuity_to: "为外婆台词做准备"
+
+  - shot_id: "E2_S07"
+    scene_id: "SC05_OLD_HOUSE_FLASHBACK"
+    character: "外婆"
+    location: "INT. 旧屋 - 夜（闪回）"
+
+    plot: >
+      外婆说出传承主题的核心台词。
+
+    performance: >
+      外婆面部表情慈祥、温柔，眼神看向小绣儿，嘴角微笑。
+
+    lighting: >
+      油灯光，暖黄色调，色温2700K，柔光打在面部。
+
+    camera: >
+      固定机位，外婆面部特写，标准镜头，平视角度。
+
+    blocking: >
+      外婆占据画面中心，背景虚化。
+
+    sound: >
+      外婆的声音温柔、沉稳，油灯轻微噼啪声。
+
+    dialogue: >
+      "蜀绣，是一代传一代的。"
+
+    duration_sec: 6
+    beat_type: "thematic"
+
+    style_notes: >
+      核心台词，建立传承主题，外婆的慈祥表情是情感锚点。
+
+    visual_anchors:
+      - "外婆：80岁，慈祥微笑"
+
+    continuity_from: "接续小绣儿看外婆"
+    continuity_to: "为手部特写做准备"
+
+  - shot_id: "E2_S08"
+    scene_id: "SC05_OLD_HOUSE_FLASHBACK"
+    character: "外婆+小绣儿"
+    location: "INT. 旧屋 - 夜（闪回）"
+
+    plot: >
+      外婆的手和小绣儿的手，象征传承的延续。
+
+    performance: >
+      外婆的手握着小绣儿的手，一起拿针，动作温柔。
+
+    lighting: >
+      油灯光，暖黄色调，色温2700K，柔光，手部清晰。
+
+    camera: >
+      固定机位，手部特写，标准镜头，俯视角度。
+
+    blocking: >
+      两只手占据画面中心，针在前景，绣布在背景。
+
+    sound: >
+      针刺入布的声音，丝线摩擦声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "symbolic"
+
+    style_notes: >
+      象征性镜头，两代人的手是传承的视觉隐喻。
+
+    visual_anchors:
+      - "外婆的手：老年女性，有岁月痕迹"
+      - "小绣儿的手：儿童手，稚嫩"
+      - "针：传承的载体"
+
+    continuity_from: "接续外婆台词"
+    continuity_to: "场5结束，为场6回到现实做准备"
+
+  # ========== 场6：回到现实 ==========
+
+  - shot_id: "E2_S09"
+    scene_id: "SC06_BACK_TO_REALITY"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      从闪回回到现实，林素琴眼神触动，情绪开始松动。
+
+    performance: >
+      面部表情从回忆中回神，眼神柔软，微微点头。
+
+    lighting: >
+      深夜，暖黄灯光，色温3800K，柔光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景虚化。
+
+    sound: >
+      林素琴的轻微呼吸声，环境音极低。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "transition"
+
+    style_notes: >
+      从闪回回到现实的过渡镜头，情绪开始松动。
+
+    visual_anchors:
+      - "林素琴：56岁，触动表情"
+
+    continuity_from: "场5闪回结束"
+    continuity_to: "为小伟连接电脑做准备"
+
+  - shot_id: "E2_S10"
+    scene_id: "SC06_BACK_TO_REALITY"
+    character: "小伟"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      小伟连接电脑到大屏幕，准备展示AIGC动画。
+
+    performance: >
+      小伟动作轻柔、克制，手连接线缆，表情专注。
+
+    lighting: >
+      深夜，暖黄灯光混合电脑屏幕光，色温4000K。
+
+    camera: >
+      固定机位，小伟手部特写，标准镜头，俯视角度。
+
+    blocking: >
+      手部占据画面中心，线缆和电脑在前景。
+
+    sound: >
+      线缆插入的轻微声音，电脑启动声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "preparation"
+
+    style_notes: >
+      过渡镜头，为AIGC动画段做准备。
+
+    visual_anchors:
+      - "小伟的手：24岁男性"
+      - "电脑设备：现代科技"
+
+    continuity_from: "接续林素琴回神"
+    continuity_to: "场6结束，为场7 AIGC动画做准备"
+
+  # ========== 场7：AIGC动画段（最高质量要求） ==========
+
+  - shot_id: "E2_S11"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      AIGC动画开始：商周时期，骨针穿布，蜀绣起源。
+
+    performance: >
+      无人物，动画展现骨针穿过粗布的过程。
+
+    lighting: >
+      古朴色调，低饱和度，色温2500K，硬光，历史感。
+
+    camera: >
+      横向移镜，从左至右，展现时间流动，微距镜头。
+
+    blocking: >
+      骨针占据画面中心，粗布纹理清晰，背景是抽象的历史空间。
+
+    sound: >
+      古朴的环境音，骨针穿布的声音，无音乐。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "historical"
+
+    style_notes: >
+      AIGC动画第一段，展现蜀绣起源，需要最高质量制作。横向移镜展现时间流动。
+
+    visual_anchors:
+      - "骨针：原始工具"
+      - "粗布：古代纹理"
+      - "色调：古朴低饱和"
+
+    generation_notes: >
+      此镜头不受AI视频技术限制，可用传统动画或特效制作。横向移镜通过后期合成实现。
+
+    continuity_to: "为汉代织锦做准备"
+
+  - shot_id: "E2_S12"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      汉代织锦，丝线技术进步，色彩丰富。
+
+    performance: >
+      无人物，动画展现汉代织锦的精细纹理和色彩。
+
+    lighting: >
+      色彩渐丰富，饱和度提升，色温3000K，柔光。
+
+    camera: >
+      横向移镜，从左至右，展现时间流动，微距镜头。
+
+    blocking: >
+      织锦纹理占据画面中心，丝线交织，色彩层次丰富。
+
+    sound: >
+      织机的节奏声，丝线摩擦声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "historical"
+
+    style_notes: >
+      汉代段落，色彩开始丰富，展现技术进步。
+
+    visual_anchors:
+      - "织锦：精细纹理"
+      - "色彩：红、黄、蓝层次"
+      - "丝线：交织质感"
+
+    generation_notes: >
+      横向移镜通过后期合成实现，展现历史流动感。
+
+    continuity_from: "接续商周骨针"
+    continuity_to: "为唐宫绣衣做准备"
+
+  - shot_id: "E2_S13"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      唐宫绣衣，蜀绣达到巅峰，华丽精致。
+
+    performance: >
+      无人物，动画展现唐代宫廷绣衣的华丽纹样。
+
+    lighting: >
+      华丽色调，高饱和度，色温3500K，柔光，金色光泽。
+
+    camera: >
+      横向移镜，从左至右，展现时间流动，中景镜头。
+
+    blocking: >
+      绣衣纹样占据画面中心，龙凤图案，金线反光。
+
+    sound: >
+      宫廷环境音，丝线摩擦声，轻微的金属质感。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "historical"
+
+    style_notes: >
+      唐代段落，蜀绣巅峰时期，华丽但不俗艳。
+
+    visual_anchors:
+      - "绣衣：龙凤纹样"
+      - "金线：反光质感"
+      - "色彩：华丽高饱和"
+
+    generation_notes: >
+      横向移镜通过后期合成实现，展现历史流动感。
+
+    continuity_from: "接续汉代织锦"
+    continuity_to: "为宋代写意做准备"
+
+  - shot_id: "E2_S14"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      宋代写意，蜀绣转向文人审美，简约雅致。
+
+    performance: >
+      无人物，动画展现宋代写意风格的蜀绣。
+
+    lighting: >
+      雅致色调，中饱和度，色温3800K，柔光，水墨质感。
+
+    camera: >
+      横向移镜，从左至右，展现时间流动，中景镜头。
+
+    blocking: >
+      写意花鸟占据画面中心，留白空间，简约构图。
+
+    sound: >
+      文人环境音，毛笔轻触纸张的声音，丝线摩擦声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "historical"
+
+    style_notes: >
+      宋代段落，文人审美，简约雅致，与唐代华丽形成对比。
+
+    visual_anchors:
+      - "写意花鸟：简约构图"
+      - "留白：空间美学"
+      - "色彩：雅致中饱和"
+
+    generation_notes: >
+      横向移镜通过后期合成实现，展现历史流动感。
+
+    continuity_from: "接续唐宫绣衣"
+    continuity_to: "为明清绣坊做准备"
+
+  - shot_id: "E2_S15"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      明清绣坊，蜀绣进入民间，工艺传承。
+
+    performance: >
+      无人物，动画展现明清绣坊场景，多人刺绣。
+
+    lighting: >
+      温暖色调，中饱和度，色温4000K，自然光感。
+
+    camera: >
+      横向移镜，从左至右，展现时间流动，中景镜头。
+
+    blocking: >
+      绣坊空间占据画面，多个绣架，工匠刺绣场景。
+
+    sound: >
+      绣坊环境音，多人刺绣的声音，丝线摩擦声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "historical"
+
+    style_notes: >
+      明清段落，蜀绣进入民间，展现工艺传承的社会化。
+
+    visual_anchors:
+      - "绣坊：民间工坊空间"
+      - "多人刺绣：传承场景"
+      - "色调：温暖自然"
+
+    generation_notes: >
+      横向移镜通过后期合成实现，展现历史流动感。
+
+    continuity_from: "接续宋代写意"
+    continuity_to: "为外婆的手做准备"
+
+  - shot_id: "E2_S16"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "外婆"
+    location: "动画空间"
+
+    plot: >
+      外婆的手刺绣，连接历史与现代。
+
+    performance: >
+      外婆的手刺绣，动作熟练，展现传承的延续。
+
+    lighting: >
+      温暖色调，色温4200K，柔光，怀旧质感。
+
+    camera: >
+      横向移镜，从左至右，手部特写，微距镜头。
+
+    blocking: >
+      外婆的手占据画面中心，针刺入绣布，丝线流动。
+
+    sound: >
+      丝线摩擦声，针刺入布的声音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "transition"
+
+    style_notes: >
+      从历史过渡到现代，外婆的手是关键连接点。
+
+    visual_anchors:
+      - "外婆的手：老年女性，岁月痕迹"
+      - "针：传承载体"
+      - "丝线：1/16丝"
+
+    generation_notes: >
+      横向移镜通过后期合成实现。
+
+    continuity_from: "接续明清绣坊"
+    continuity_to: "为林素琴的手做准备"
+
+  - shot_id: "E2_S17"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "林素琴"
+    location: "动画空间"
+
+    plot: >
+      林素琴的手刺绣，传承延续到当代。
+
+    performance: >
+      林素琴的手刺绣，动作熟练但略显疲惫。
+
+    lighting: >
+      现代色调，色温4500K，自然光感。
+
+    camera: >
+      横向移镜，从左至右，手部特写，微距镜头。
+
+    blocking: >
+      林素琴的手占据画面中心，针刺入绣布，丝线流动。
+
+    sound: >
+      丝线摩擦声，针刺入布的声音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "transition"
+
+    style_notes: >
+      从外婆到林素琴，展现代际传承。
+
+    visual_anchors:
+      - "林素琴的手：56岁女性，岁月痕迹"
+      - "针：传承载体"
+      - "丝线：1/16丝"
+
+    generation_notes: >
+      横向移镜通过后期合成实现。
+
+    continuity_from: "接续外婆的手"
+    continuity_to: "为数字重构做准备"
+
+  - shot_id: "E2_S18"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "无"
+    location: "动画空间"
+
+    plot: >
+      数字重构，AIGC技术介入，传统与未来对话。
+
+    performance: >
+      无人物，动画展现蜀绣图案的数字化重构过程。
+
+    lighting: >
+      科技色调，色温6000K，冷光，数字质感。
+
+    camera: >
+      横向移镜，从左至右，中景镜头，展现数字化过程。
+
+    blocking: >
+      蜀绣图案占据画面中心，从实物渐变为数字网格，再重构为新图案。
+
+    sound: >
+      数字化音效，轻微的电子音，丝线摩擦声渐弱。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "transformation"
+
+    style_notes: >
+      关键转折镜头，展现传统与技术的融合，需要创新视觉设计。
+
+    visual_anchors:
+      - "蜀绣图案：传统纹样"
+      - "数字网格：科技元素"
+      - "重构过程：融合视觉"
+
+    generation_notes: >
+      此镜头需要最高质量和创新视觉设计，展现传统与未来的对话。
+
+    continuity_from: "接续林素琴的手"
+    continuity_to: "为绣儿发布做准备"
+
+  - shot_id: "E2_S19"
+    scene_id: "SC07_AIGC_ANIMATION"
+    character: "绣儿"
+    location: "动画空间"
+
+    plot: >
+      绣儿发布短视频，传承延续到未来，AIGC动画段结束。
+
+    performance: >
+      绣儿的手拿着手机，点击发布按钮，动画展现短视频传播。
+
+    lighting: >
+      现代色调，色温5500K，屏幕光混合自然光。
+
+    camera: >
+      横向移镜，从左至右，手部特写到屏幕特写。
+
+    blocking: >
+      手机屏幕占据画面中心，短视频界面，点赞数上升。
+
+    sound: >
+      手机点击声，短视频传播的音效，环境音渐起。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "resolution"
+
+    style_notes: >
+      AIGC动画段结束镜头，展现传承延续到未来的可能性。
+
+    visual_anchors:
+      - "绣儿的手：26岁女性"
+      - "手机屏幕：短视频界面"
+      - "传播：点赞数上升"
+
+    generation_notes: >
+      横向移镜通过后期合成实现，展现传承的完整弧线。
+
+    continuity_from: "接续数字重构"
+    continuity_to: "场7结束，为场8情绪崩溃做准备"
+
+  # ========== 场8：灯亮·崩溃 ==========
+
+  - shot_id: "E2_S20"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      AIGC动画播放结束，林素琴看着屏幕，情绪复杂。
+
+    performance: >
+      面部表情复杂，眼神看着屏幕，从专注到迷茫。
+
+    lighting: >
+      深夜，屏幕光混合室内灯，色温4500K，冷暖混合。
+
+    camera: >
+      固定机位，林素琴中景特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，屏幕光打在面部，背景是绣坊空间。
+
+    sound: >
+      AIGC动画结束音效，环境音低，林素琴的呼吸声。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reaction"
+
+    style_notes: >
+      情绪转折的起点，林素琴的复杂表情需要克制表达。
+
+    visual_anchors:
+      - "林素琴：56岁，复杂表情"
+      - "屏幕光：冷暖混合"
+
+    continuity_from: "场7 AIGC动画结束"
+    continuity_to: "为屏幕特写做准备"
+
+  - shot_id: "E2_S21"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "屏幕"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      屏幕特写，展示AIGC重构的蜀绣图案。
+
+    performance: >
+      无人物，屏幕展示AIGC结果。
+
+    lighting: >
+      屏幕光，色温6000K，冷光。
+
+    camera: >
+      固定机位，屏幕特写，标准镜头，正面角度。
+
+    blocking: >
+      屏幕占据画面中心，AIGC蜀绣图案清晰可见。
+
+    sound: >
+      屏幕轻微电流声，环境音极低。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "symbolic"
+
+    style_notes: >
+      展示AIGC结果，为林素琴的抗拒反应做铺垫。
+
+    visual_anchors:
+      - "屏幕：AIGC蜀绣图案"
+      - "冷光：科技质感"
+
+    continuity_from: "接续林素琴看屏幕"
+    continuity_to: "为林素琴抗拒做准备"
+
+  - shot_id: "E2_S22"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴说出抗拒的话，但语气已不如之前坚定。
+
+    performance: >
+      面部表情抗拒但动摇，眼神复杂，声音略显无力。
+
+    lighting: >
+      深夜，屏幕光混合室内灯，色温4500K，侧光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景虚化。
+
+    sound: >
+      林素琴的声音略显无力，环境音低。
+
+    dialogue: >
+      "好看……但那不是蜀绣。"
+
+    duration_sec: 6
+    beat_type: "resistance"
+
+    style_notes: >
+      抗拒但已动摇，语气的无力感是关键。
+
+    visual_anchors:
+      - "林素琴：56岁，抗拒但动摇"
+
+    continuity_from: "接续屏幕特写"
+    continuity_to: "为针盒掉落做准备"
+
+  - shot_id: "E2_S23"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴手中的针盒掉落，象征技艺掌控的失去。
+
+    performance: >
+      手部动作失控，针盒从手中滑落。
+
+    lighting: >
+      深夜，室内灯光，色温4000K，柔光。
+
+    camera: >
+      固定机位，手部特写，标准镜头，俯视角度。
+
+    blocking: >
+      手部占据画面中心，针盒掉落的瞬间，背景虚化。
+
+    sound: >
+      针盒掉落的声音，针散落的清脆声响。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "disaster"
+
+    style_notes: >
+      针盒掉落是崩溃的物理化，声音设计很重要。
+
+    visual_anchors:
+      - "林素琴的手：失控状态"
+      - "针盒：掉落瞬间"
+
+    continuity_from: "接续抗拒台词"
+    continuity_to: "为捡针动作做准备"
+
+  - shot_id: "E2_S24"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴试图捡起针，但手颤抖无法完成，身体机能的衰退具象化。
+
+    performance: >
+      手部动作颤抖，多次尝试捡针但失败，手指无法精确控制。
+
+    lighting: >
+      深夜，室内灯光，色温4000K，柔光打在手部。
+
+    camera: >
+      固定机位，手部极近特写，微距镜头，捕捉颤抖细节。
+
+    blocking: >
+      手部占据画面中心，针在地面，手多次尝试但无法捡起。
+
+    sound: >
+      手指触碰地面的声音，针的轻微碰撞声，林素琴的沉重呼吸。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "collapse"
+
+    style_notes: >
+      捡不起针是全片情感最低点之一，手部颤抖需要真实展现。
+
+    visual_anchors:
+      - "林素琴的手：颤抖，无法控制"
+      - "针：散落地面"
+
+    continuity_from: "接续针盒掉落"
+    continuity_to: "为散落针特写做准备"
+
+  - shot_id: "E2_S25"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "针"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      散落的针特写，象征技艺传承的破碎。
+
+    performance: >
+      无人物，针散落在地面。
+
+    lighting: >
+      深夜，室内灯光，色温4000K，硬光，针尖反光。
+
+    camera: >
+      固定机位，针极近特写，微距镜头，俯视角度。
+
+    blocking: >
+      散落的针占据画面，地面纹理清晰，针尖反光。
+
+    sound: >
+      极度安静，只有远处的环境音。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "symbolic"
+
+    style_notes: >
+      象征性镜头，散落的针是技艺破碎的视觉隐喻。
+
+    visual_anchors:
+      - "针：散落状态"
+      - "地面：木质纹理"
+      - "针尖反光：金属质感"
+
+    continuity_from: "接续捡针失败"
+    continuity_to: "为林素琴崩溃做准备"
+
+  - shot_id: "E2_S26"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴情绪崩溃，全片情感最低点。
+
+    performance: >
+      面部表情从克制到崩溃，眼泪流下，身体微微颤抖，但仍保持克制。
+
+    lighting: >
+      深夜，室内灯光，色温4000K，侧光打在面部，泪光反射。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景完全虚化。
+
+    sound: >
+      林素琴的抽泣声克制，呼吸声沉重，环境音压抑。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 8
+    beat_type: "collapse"
+
+    style_notes: >
+      全片10%情感爆发点，但仍需克制表演，不过度煽情。
+
+    visual_anchors:
+      - "林素琴：56岁，崩溃表情，泪水"
+
+    continuity_from: "接续散落针"
+    continuity_to: "为最终台词做准备"
+
+  - shot_id: "E2_S27"
+    scene_id: "SC08_EMOTIONAL_COLLAPSE"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 深夜"
+
+    plot: >
+      林素琴说出灵魂拷问，人物弧光转折点，第二集结束。
+
+    performance: >
+      面部表情痛苦、迷茫，眼神空洞，声音颤抖但清晰。
+
+    lighting: >
+      深夜，室内灯光，色温4000K，柔光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景完全虚化。
+
+    sound: >
+      林素琴的声音颤抖，环境音极低，远处拆迁机械闷响渐弱。
+
+    dialogue: >
+      "我守了一辈子针……是不是守错了？"
+
+    duration_sec: 8
+    beat_type: "turning_point"
+
+    style_notes: >
+      全片核心台词，人物弧光转折点，第二集结束留下悬念。
+
+    visual_anchors:
+      - "林素琴：56岁，痛苦迷茫表情"
+
+    continuity_from: "接续崩溃镜头"
+    continuity_to: "第二集结束"
+

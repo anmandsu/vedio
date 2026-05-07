@@ -1,0 +1,23 @@
+{
+  "created": 1778187608,
+  "data": [
+    {
+      "revised_prompt": "Photorealistic wide cinematic fashion campaign still for a Chengdu Eastern Suburb Memory Guochao Chinese opera styling experience shop. A group of three styled Chinese models walk through an old industrial heritage alley: one red-gold phoenix crown woman in front, one black-gold marshal helmet model to the right, one silver-white female general helmet model to the left rear. Headwear silhouettes dominate the composition: phoenix crown fan shape, marshal helmet red tassel, silver general helmet plume. Costumes mix Chinese opera symbols with modern wearable fashion: water sleeves, light armor plates, silk capes, embroidered waist belts, leather and satin textures. Setting: industrial memory park exterior, old red brick factory walls, black steel beams, exposed pipes, metal staircase, warm shop lights, damp stone floor reflecting gold light, small controlled cyan neon accent, Chengdu urban night atmosphere without readable signs. Camera and composition: horizontal 16:9 cinematic establishing hero image, 35mm anamorphic lens feel, camera at waist height, group walking toward camera, foreground reflections, deep background layers of pipes and brick. Lighting: evening blue hour base, warm gold practical lights from storefront left, soft fill from overhead ambient sky, gold rim light catching bead tassels and helmet crests, shadows transparent with visible detail, maximum 2:1 to 2.5:1 lighting ratio. Photorealism details: wet floor reflections, worn brick, brushed metal, pearl tassels, red tassel fibers, satin weave, natural film grain, real skin texture, realistic motion in sleeves and tassels. Negative prompt: no text, no watermark, no logo, no readable signage, no Japanese elements, no kimono, no samurai, no fantasy armor, no cheap costume shop, no crowded tourists, no over-saturated cyberpunk, no plastic skin, no malformed hands, no extra limbs, no AI gibberish.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/653033c9-3fd4-4b60-ba4d-5c2f461ff97f/c3539e2f-bfef-4830-a6ab-6bc7175cba36.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9432,
+    "input_tokens": 3782,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3782,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

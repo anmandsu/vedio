@@ -1,0 +1,23 @@
+{
+  "created": 1778191827,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal image. Preserve the successful traditional Chinese opera silhouette from the reference: danjiao black forehead hair patches, pearl tassels, blue-white-pink bead flowers, red pom-poms, curved lingzi arcs, water sleeve gesture, precise xiqu makeup. Modernize it through YOUNG Chinese Guochao fashion for ages 16-35: bright breathable palette, brocade accents, embroidered gauze, small cloud-collar structure, pankou knot buttons, short cropped Chinese jacket, pearl embroidery, jade-white and lake-blue accents, cinnabar red details, soft gold ornaments, light sporty styling. Do NOT use mamian skirt. Do NOT use stereotypical new-Chinese long robe. Use youthful silhouettes: cropped jacket, short capelet, wide-leg trousers, culotte shorts, pleated short skirt-shorts, soft straight pants, detachable water-sleeve panels, clean sneakers or short boots. Keep it Chinese, fresh, festive, refined, commercial, and wearable. No gothic, no cyberpunk, no black leather dominance, no techwear, no tactical harness, no samurai, no kimono, no Japanese elements, no dark fantasy armor, no cheap cosplay, no text, no watermark.\n\nCreate a young bright Chinese Guochao design based on the danjiao phoenix-crown reference. Keep the blue-white-pink opera headwear, black forehead hair patches, pearl tassels, pink opera eye makeup and red lip. Outfit: lake-blue cropped embroidered jacket with ivory mini cloud collar, delicate pankou buttons, short pearl-beaded capelet, translucent detachable white water-sleeve panels, high-waist ivory wide-leg trousers with subtle blue embroidery, clean modern short boots. No skirt, no mamian, no long robe. Setting: East Suburb Memory red-brick studio with warm daylight and mirror lights, clean and bright. Mood: young national trend elegance, 16-35 consumer friendly, premium and wearable.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/0cb7f8f9-beb6-4750-bfe0-b79d9ddc1dbe/b9577a91-ecbd-4d04-9347-5c3f2526e2ac.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9886,
+    "input_tokens": 4236,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3676,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

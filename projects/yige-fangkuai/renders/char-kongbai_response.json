@@ -1,0 +1,23 @@
+{
+  "created": 1778192864,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Kongbai / blankness, male. Older-feeling, philosophical, concise, deep. Costume: pale gray-white long robe-like modern coat, large intentional empty square cutout motif, very quiet posture, minimal seams, almost no accent color.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/e6e9708c-a5b5-434d-ab5a-4221bccd66f8/f08f1619-472c-42a0-ac84-54bfd373cf28.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2927,
+    "input_tokens": 1514,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1514,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

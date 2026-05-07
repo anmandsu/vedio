@@ -1,0 +1,23 @@
+{
+  "created": 1778186448,
+  "data": [
+    {
+      "revised_prompt": "Round 2 costume and accessory upgrade: add clearer fabric texture, profession-specific accessories, shoe/hat/glove details, practical stage construction.\n\nAsset ID: detail_archaeology_costume\nAsset type: detail\nPrimary request: Costume detail sheet: archaeology utility vest fabric, gloves, knee pads, tool belt, brush pocket, measuring tape, dust marks, earth-brown canvas, bronze-green stitching accent, practical stage costume close-ups\nPrompt pattern: Prop and costume detail sheet for art department, close-up material study with 3-4 arranged views, matte neutral background, clear scale, texture and wear marks, no labels or readable text.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/45aa4fb1-ba75-41ac-9968-4aa15c5d8795/2d93ed4c-0a1a-4e43-95ab-b99addefa2c2.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4071,
+    "input_tokens": 3306,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3306,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

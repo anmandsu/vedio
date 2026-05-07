@@ -1,0 +1,23 @@
+{
+  "created": 1778190465,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal image. Use the user-provided traditional Chinese opera images as the primary visual base: preserve the authentic xiqu headwear logic, including black forehead hair patches, opera makeup structure, blue-white-pink bead flowers, red pom-poms, pearl ornaments, long curved pheasant-feather / lingzi arcs, tassels, water sleeves, and performance gesture. Transform these into a new high-design Guochao styling concept for an Eastern Suburb Memory Chinese opera styling experience pavilion. The result should be a fresh design effect image, not a copy of the reference photo. Photorealistic fashion editorial, premium concept rendering, Chinese opera heritage plus contemporary styling, industrial red-brick Chengdu setting. No text, no watermark, no logo, no Japanese elements, no kimono, no samurai, no generic hanfu, no cheap costume, no plastic skin.\n\nCreate a new design concept based on the first and fourth references: a modern danjiao phoenix-crown hairstyle. Keep the authentic opera facial language: black forehead hair patches, pink eye shadow, clean white-pink complexion, precise red lip, long black side hair strands. Transform the headwear into a contemporary blue-white-pink phoenix crown hair design: sculpted black hair base, silver-blue hard crown frame, pearl sprays, blue enamel flower clusters, pink silk flower pads, small red bead drops, long delicate tassels beside the cheeks. Costume: modern light-blue and white xiqu-inspired jacket with embroidered sleeve panels, not a sweater, not a wedding dress. Setting: East Suburb Memory industrial styling studio, red brick, black pipe, mirror lights softened in background. Composition: half-body portrait with headwear fully visible, enough negative space on left for pitch deck, 35mm lens, premium design effect image. Lighting: bright soft 4000K key, transparent shadows, all bead and hair details visible.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/9c59d54a-f8b9-4575-910c-8e6b8d37f9fa/31b51213-62e9-48a2-9888-7545da572f09.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10566,
+    "input_tokens": 4916,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3796,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

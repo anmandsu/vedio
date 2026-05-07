@@ -1,0 +1,23 @@
+{
+  "created": 1778186895,
+  "data": [
+    {
+      "revised_prompt": "Round 3 unified stage language: integrate black-box theater, shared light beams, floor marks, haze, recurring transferable prop motifs, coherent color lanes.\n\nAsset ID: char_archaeology_woman\nAsset type: character\nPrimary request: Young woman archaeologist, full-body stage costume design sheet, precise quiet presence, warm earth jacket, dust-gray scarf, gloves, cupped hands holding an invisible golden relic glow, small brush and measuring tape at waist, bronze-gold edge accents, grounded kneeling-to-standing posture\nPrompt pattern: 16:9 theatrical costume concept frame for film and stage production. Full-body figure or ensemble centered in a wide stage design board, with costume/prop detail insets arranged on the side inside the same 16:9 frame, consistent black-box background and colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n\nUnified round tone: elegant tri-color stage system, black velvet depth, soft haze, precise floor marks, warm gold left lane, cold white center lane, electric blue right lane, coordinated like one production bible.\nAspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/5908fd9b-a6f2-4c00-8bdb-2cb3dcfdd59f/70e048eb-7201-4c0c-a2ed-ed2998fca6c4.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9972,
+    "input_tokens": 4322,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4322,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

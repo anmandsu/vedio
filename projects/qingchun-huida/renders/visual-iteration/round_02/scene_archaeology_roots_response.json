@@ -1,0 +1,23 @@
+{
+  "created": 1778186479,
+  "data": [
+    {
+      "revised_prompt": "Round 2 costume and accessory upgrade: add clearer fabric texture, profession-specific accessories, shoe/hat/glove details, practical stage construction.\n\nAsset ID: scene_archaeology_roots\nAsset type: scene\nPrimary request: Archaeology roots stage concept, warm earth-gold light on left-front stage zone, hand shovel center prop, low sweeping movement marks, dust gray floor, bronze-green patina backdrop fragments, ghostly ancient ritual silhouettes implied in haze, no literal museum set\nPrompt pattern: Theatrical stage concept art, wide establishing view from audience eye level, full stage spatial layout, foreground/midground/background layers, visible lighting design and practical props, no audience, no readable signage.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/e52cff69-b5d0-434b-aa15-5561cb7515f9/0165ce47-7296-483a-a4c1-5a582b71c788.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4887,
+    "input_tokens": 3474,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3474,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

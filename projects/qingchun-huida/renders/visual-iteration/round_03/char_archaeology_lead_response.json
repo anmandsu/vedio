@@ -1,0 +1,23 @@
+{
+  "created": 1778186894,
+  "data": [
+    {
+      "revised_prompt": "Round 3 unified stage language: integrate black-box theater, shared light beams, floor marks, haze, recurring transferable prop motifs, coherent color lanes.\n\nAsset ID: char_archaeology_lead\nAsset type: character\nPrimary request: Archaeology lead reciter and young excavator, full-body stage costume design sheet, earth-brown utility vest over warm gray shirt, dusted trousers, soft knee pads, thin archaeology gloves, canvas tool belt, small hand shovel in one hand, muted gold ring charm clipped to belt, bronze green patina accent, calm ritual posture\nPrompt pattern: 16:9 theatrical costume concept frame for film and stage production. Full-body figure or ensemble centered in a wide stage design board, with costume/prop detail insets arranged on the side inside the same 16:9 frame, consistent black-box background and colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n\nUnified round tone: elegant tri-color stage system, black velvet depth, soft haze, precise floor marks, warm gold left lane, cold white center lane, electric blue right lane, coordinated like one production bible.\nAspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/5f2af3b7-a470-4294-8155-fc43b356ef3b/ec8754c2-c3db-45ff-bd70-16377b67b291.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10038,
+    "input_tokens": 4388,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4388,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

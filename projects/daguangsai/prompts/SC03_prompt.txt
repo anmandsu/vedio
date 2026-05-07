@@ -1,0 +1,33 @@
+CRITICAL: Same interior space as first reference image. ONLY lighting changes.
+
+SPATIAL ANCHORS (MUST preserve exactly from first reference):
+- Embroidery frame: center-left position, exact size and angle
+- Window: right side, exact position and size
+- Wooden cabinet: background right, exact placement
+- Floor: dark wood planks, same pattern and direction
+- Ceiling beams: same arrangement and spacing
+- Wall texture: same material and color
+- All furniture positions: identical to first reference
+- Camera angle: same viewpoint as first reference
+
+LIGHTING CHANGE (only difference):
+- Time: Night (深夜), no indoor lights
+- Primary light: Cold moonlight from window (blue-gray 4500K)
+- Secondary light: Subtle warm ambient glow from outside (distant street lamp or neighbor's light, 2800K)
+- Cold-warm contrast: Moonlight (cool) vs ambient warmth (subtle)
+- Quality: Low illumination but NOT pure black - transparent shadows with detail
+- Shadows: Deep but visible, blue-gray in moonlight areas, warm-gray in ambient areas
+- Atmosphere: Match second reference - isolated yet subtly warm, quiet night with gentle contrast
+
+SCENE DETAILS:
+- Traditional wooden embroidery frame with fabric work in progress
+- Thread spools, needle box, embroidery tools on work surface
+- Traditional wooden furniture with natural aging
+- Fabric rolls and embroidery materials
+- Workshop tools and equipment
+
+MOOD: Restrained melancholy, Lin Suqin alone in darkness contemplating her situation. Cold, isolated, minimal light. Not dramatic or cinematic - documentary natural darkness.
+
+Technical: 21:9 aspect ratio, sharp focus, high detail, photorealistic, natural film grain, authentic traditional Chinese interior materials and textures.
+
+Negative prompt: people, characters, figures, cartoon, anime, oversaturated colors, dramatic lighting, multiple indoor lamps, warm orange tones, golden hour, bright illumination, AI artifacts, modern furniture, industrial style, pure black darkness, dead black shadows

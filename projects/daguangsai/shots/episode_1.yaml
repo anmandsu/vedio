@@ -1,0 +1,561 @@
+episode: 1
+title: "拆牌倒计时"
+style: "克制写实主义，冷灰色调，固定机位，长镜头美学（通过短镜头组合实现）"
+
+shots:
+  # ========== 场1：内景·老绣坊·清晨 ==========
+
+  - shot_id: "E1_S01"
+    scene_id: "SC01_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      建立人物和空间，展现林素琴的日常刺绣工作，第一次失手预示危机。
+
+    performance: >
+      林素琴坐在绣架前，专注刺绣，手部动作熟练稳定，表情平静克制。
+
+    lighting: >
+      清晨自然光，冷灰色调，色温3200K，硬光，高反差，窗户侧光。
+
+    camera: >
+      固定机位，手部极近特写，微距镜头，针刺入绣布的瞬间。
+
+    blocking: >
+      手部占据画面中心，绣布和针为前景，背景虚化。
+
+    sound: >
+      无音乐，丝线摩擦的细微声音，针刺入布的轻微声响。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "establishing"
+
+    style_notes: >
+      极简构图，专注于手部动作细节，展现蜀绣工艺的精细。
+
+    visual_anchors:
+      - "林素琴的手：56岁女性，有岁月痕迹"
+      - "针：极细金属针"
+      - "丝线：1/16丝，光泽感"
+      - "绣布：浅色底，紧密纹理"
+
+    continuity_to: "手部动作连续，为下一镜头面部特写做准备"
+
+  - shot_id: "E1_S02"
+    scene_id: "SC01_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      展现林素琴的专注状态和匠人气质。
+
+    performance: >
+      面部表情专注、克制，眼神向下看绣布，微微皱眉，展现匠人的沉稳。
+
+    lighting: >
+      清晨自然光，冷灰色调，色温3200K，侧光打在面部，半明半暗。
+
+    camera: >
+      固定机位，面部特写，标准镜头，平视角度。
+
+    blocking: >
+      面部占据画面中心，背景虚化的绣坊空间。
+
+    sound: >
+      无音乐，环境音极低，远处传来拆迁机械的闷响（预示危机）。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "establishing"
+
+    style_notes: >
+      克制的面部表情，不过度表演，展现内敛的匠人气质。
+
+    visual_anchors:
+      - "林素琴：56岁，面部有岁月痕迹，严肃克制"
+      - "发型：中年女性传统发型，黑色带少许花白"
+      - "服装：深色传统中式服装"
+
+    continuity_from: "接续手部刺绣动作"
+    continuity_to: "为失手瞬间做情绪铺垫"
+
+  - shot_id: "E1_S03"
+    scene_id: "SC01_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      第一次失手，预示身体衰老和技艺传承的危机，叙事裂缝的起点。
+
+    performance: >
+      手部动作突然停顿，针偏离预定位置，手微微颤抖。
+
+    lighting: >
+      清晨自然光，冷灰色调，色温3200K，硬光，针尖反光。
+
+    camera: >
+      固定机位，手部极近特写，微距镜头，捕捉失手瞬间。
+
+    blocking: >
+      手部占据画面中心，针偏离绣布的瞬间，丝线松弛。
+
+    sound: >
+      针刺入布的声音略显不稳，远处拆迁机械闷响加强。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "inciting"
+
+    style_notes: >
+      失手瞬间是全片的叙事起点，需要清晰展现针的偏离。
+
+    visual_anchors:
+      - "林素琴的手：微微颤抖"
+      - "针：偏离预定位置"
+      - "丝线：松弛状态"
+
+    continuity_from: "接续专注状态"
+    continuity_to: "为面部反应做准备"
+
+  - shot_id: "E1_S04"
+    scene_id: "SC01_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 清晨"
+
+    plot: >
+      林素琴的习惯性动作（摸耳垂）外化内心不安，场1结束。
+
+    performance: >
+      面部表情从专注转为微微不安，手抬起摸耳垂（习惯性动作），眼神闪过一丝迷茫。
+
+    lighting: >
+      清晨自然光，冷灰色调，色温3200K，侧光打在面部。
+
+    camera: >
+      固定机位，面部特写，标准镜头，平视角度。
+
+    blocking: >
+      面部占据画面中心，手从画面下方进入，摸耳垂。
+
+    sound: >
+      远处拆迁机械闷响持续，环境音压抑。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "reaction"
+
+    style_notes: >
+      摸耳垂是林素琴内心不安的外化，习惯性动作需要自然不做作。
+
+    visual_anchors:
+      - "林素琴：面部表情从专注转为不安"
+      - "手：从画面下方进入，摸耳垂"
+
+    continuity_from: "接续失手瞬间"
+    continuity_to: "场1结束，为场2冲突做铺垫"
+
+  # ========== 场2：内景·老绣坊·傍晚 ==========
+
+  - shot_id: "E1_S05"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      绣儿展示短视频数据，希望用现代方式传播蜀绣，引发冲突。
+
+    performance: >
+      绣儿急切地拿着手机，表情期待又紧张，一手抱着孩子，一手举手机展示数据。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，室内灯光混合自然光。
+
+    camera: >
+      固定机位，绣儿中景特写，标准镜头，略微仰视角度。
+
+    blocking: >
+      绣儿占据画面中心，手机屏幕在前景，孩子在怀中。
+
+    sound: >
+      绣儿的声音急促，环境音低，孩子的轻微声响。
+
+    dialogue: >
+      "妈，你看这个数据，已经有三万多人看了..."
+
+    duration_sec: 5
+    beat_type: "inciting"
+
+    style_notes: >
+      绣儿的急切和期待需要通过表情和语气传达，不过度表演。
+
+    visual_anchors:
+      - "绣儿：26岁，现代女性，急切表情"
+      - "手机：短视频数据界面"
+      - "孩子：在怀中"
+
+    continuity_to: "为林素琴的抗拒反应做准备"
+
+  - shot_id: "E1_S06"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      林素琴抗拒现代传播方式，固守传统。
+
+    performance: >
+      面部表情抗拒、固执，眼神坚定，微微摇头，嘴角紧抿。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，侧光打在面部。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，背景虚化的绣坊空间。
+
+    sound: >
+      环境音低，林素琴的呼吸声略显沉重。
+
+    dialogue: >
+      "那不是蜀绣，那是流量。"
+
+    duration_sec: 5
+    beat_type: "escalation"
+
+    style_notes: >
+      林素琴的固执和抗拒需要通过克制的表情传达，不过度表演。
+
+    visual_anchors:
+      - "林素琴：56岁，抗拒表情，固执"
+
+    continuity_from: "接续绣儿的期待"
+    continuity_to: "为小伟的调和做准备"
+
+  - shot_id: "E1_S07"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "小伟"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      小伟展示AIGC技术，试图用技术连接传统与未来。
+
+    performance: >
+      小伟表情克制、理性，眼神温柔，手指向电脑屏幕。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，电脑屏幕光照亮面部。
+
+    camera: >
+      固定机位，小伟中景特写，标准镜头，平视角度。
+
+    blocking: >
+      小伟占据画面中心，电脑屏幕在前景，显示外婆照片。
+
+    sound: >
+      小伟的声音温和、克制，电脑键盘轻微声响。
+
+    dialogue: >
+      "妈，我用AI还原了外婆的绣样，您看..."
+
+    duration_sec: 5
+    beat_type: "escalation"
+
+    style_notes: >
+      小伟的理性和温柔需要通过克制的表情和语气传达。
+
+    visual_anchors:
+      - "小伟：24岁，理性表情，温和"
+      - "电脑屏幕：外婆照片"
+
+    continuity_from: "接续林素琴的抗拒"
+    continuity_to: "为林素琴的爆发做准备"
+
+  - shot_id: "E1_S08"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      林素琴情绪爆发，拍桌拒绝现代技术，冲突升级。
+
+    performance: >
+      面部表情从克制转为愤怒，手猛力拍桌，身体前倾，眼神激烈。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，侧光打在面部，阴影加深。
+
+    camera: >
+      固定机位，林素琴面部特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，手从画面下方进入拍桌。
+
+    sound: >
+      拍桌的重击声，环境音突然放大，孩子的惊吓声。
+
+    dialogue: >
+      "够了！这些都不是蜀绣！"
+
+    duration_sec: 5
+    beat_type: "escalation"
+
+    style_notes: >
+      林素琴的爆发是全片10%的情感释放点之一，但仍需克制表演，不过度夸张。
+
+    visual_anchors:
+      - "林素琴：56岁，愤怒表情，但克制"
+      - "手：猛力拍桌动作"
+
+    continuity_from: "接续小伟的温和劝说"
+    continuity_to: "为打绣儿做准备"
+
+  - shot_id: "E1_S09"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "绣儿"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      林素琴失控打了绣儿，冲突达到顶点，灾难性转折。
+
+    performance: >
+      绣儿面部表情从震惊转为痛苦，身体后仰，手护住孩子。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，侧光打在面部。
+
+    camera: >
+      固定机位，绣儿面部特写，标准镜头，平视角度。
+
+    blocking: >
+      绣儿占据画面中心，身体后仰，孩子在怀中。
+
+    sound: >
+      打耳光的声音，绣儿的轻微呼吸声，孩子开始哭泣。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "disaster"
+
+    style_notes: >
+      被打瞬间是灾难性转折，需要清晰展现绣儿的震惊和痛苦，但不过度表演。
+
+    visual_anchors:
+      - "绣儿：26岁，震惊痛苦表情"
+      - "孩子：在怀中，开始哭泣"
+
+    continuity_from: "接续林素琴拍桌"
+    continuity_to: "为孩子哭泣做准备"
+
+  - shot_id: "E1_S10"
+    scene_id: "SC02_OLD_EMBROIDERY_SHOP"
+    character: "孩子"
+    location: "INT. 老绣坊 - 傍晚"
+
+    plot: >
+      孩子哭泣，外化家庭冲突的伤害，场2结束。
+
+    performance: >
+      孩子面部表情哭泣，眼泪流下，嘴巴张开。
+
+    lighting: >
+      傍晚光线，低饱和度，色温3500K，柔光打在面部。
+
+    camera: >
+      固定机位，孩子面部特写，标准镜头，平视角度。
+
+    blocking: >
+      孩子面部占据画面中心，背景虚化。
+
+    sound: >
+      孩子的哭声，环境音压抑，远处拆迁机械闷响。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 3
+    beat_type: "aftermath"
+
+    style_notes: >
+      孩子哭泣是冲突伤害的外化，需要真实自然，不过度煽情。
+
+    visual_anchors:
+      - "孩子：3岁左右，哭泣表情"
+
+    continuity_from: "接续绣儿被打"
+    continuity_to: "场2结束，为场3做准备"
+
+  # ========== 场3：内景·绣坊·夜 ==========
+
+  - shot_id: "E1_S11"
+    scene_id: "SC03_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夜"
+
+    plot: >
+      林素琴独自在夜晚的绣坊，看着蜀绣木牌，陷入迷茫。
+
+    performance: >
+      面部表情孤独、迷茫，眼神空洞，看着木牌，微微皱眉。
+
+    lighting: >
+      夜晚，无室内灯光，只有窗外冷光透入，色温3000K，极低照度，高反差。
+
+    camera: >
+      固定机位，林素琴中景特写，标准镜头，平视角度。
+
+    blocking: >
+      林素琴占据画面中心，木牌在前景，背景是黑暗的绣坊空间。
+
+    sound: >
+      极度安静，只有远处偶尔的拆迁机械声，环境音压抑。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "reflection"
+
+    style_notes: >
+      极度克制的孤独感，通过光线和空间营造压抑氛围。
+
+    visual_anchors:
+      - "林素琴：56岁，孤独迷茫表情"
+      - "木牌：蜀绣传承象征"
+      - "黑暗空间：压抑氛围"
+
+    continuity_from: "场2冲突后的独处"
+    continuity_to: "为拿针动作做准备"
+
+  - shot_id: "E1_S12"
+    scene_id: "SC03_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夜"
+
+    plot: >
+      林素琴拿起针，试图继续刺绣。
+
+    performance: >
+      手部动作缓慢，拿起针，动作犹豫。
+
+    lighting: >
+      夜晚，窗外冷光，色温3000K，极低照度，针尖微弱反光。
+
+    camera: >
+      固定机位，手部特写，标准镜头，俯视角度。
+
+    blocking: >
+      手部占据画面中心，针在前景，绣布在背景。
+
+    sound: >
+      针碰触绣布的轻微声音，环境音极低。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "action"
+
+    style_notes: >
+      手部动作的犹豫展现内心的动摇。
+
+    visual_anchors:
+      - "林素琴的手：56岁，动作犹豫"
+      - "针：极细金属针"
+      - "绣布：浅色底"
+
+    continuity_from: "接续看木牌"
+    continuity_to: "为手停住做准备"
+
+  - shot_id: "E1_S13"
+    scene_id: "SC03_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夜"
+
+    plot: >
+      林素琴的手停住，无法下针，第一集结束留下悬念。
+
+    performance: >
+      手部动作停顿，针悬在绣布上方，手微微颤抖，无法下针。
+
+    lighting: >
+      夜晚，窗外冷光，色温3000K，极低照度，针尖反光。
+
+    camera: >
+      固定机位，手部极近特写，微距镜头，针悬空的瞬间。
+
+    blocking: >
+      手部占据画面中心，针悬在绣布上方，距离约1厘米。
+
+    sound: >
+      极度安静，只有林素琴的呼吸声，远处拆迁机械闷响。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 6
+    beat_type: "cliffhanger"
+
+    style_notes: >
+      悬念镜头，针悬空的瞬间是第一集的结束点，展现林素琴内心的彻底动摇。
+
+    visual_anchors:
+      - "林素琴的手：微微颤抖"
+      - "针：悬在绣布上方，无法下针"
+      - "距离：约1厘米"
+
+    continuity_from: "接续拿针动作"
+    continuity_to: "第一集结束，为第二集做铺垫"
+
+  - shot_id: "E1_S14"
+    scene_id: "SC03_OLD_EMBROIDERY_SHOP"
+    character: "林素琴"
+    location: "INT. 老绣坊 - 夜"
+
+    plot: >
+      林素琴面部特写，展现内心的迷茫和痛苦，第一集结束。
+
+    performance: >
+      面部表情从迷茫转为痛苦，眼神空洞，嘴唇微微颤抖。
+
+    lighting: >
+      夜晚，窗外冷光打在面部，色温3000K，极低照度，半明半暗。
+
+    camera: >
+      固定机位，面部特写，标准镜头，平视角度。
+
+    blocking: >
+      面部占据画面中心，背景完全黑暗。
+
+    sound: >
+      林素琴的呼吸声略显沉重，远处拆迁机械闷响持续，渐弱。
+
+    dialogue: >
+      无对白
+
+    duration_sec: 5
+    beat_type: "cliffhanger"
+
+    style_notes: >
+      第一集结束镜头，克制的痛苦表情，为第二集的情感转折做铺垫。
+
+    visual_anchors:
+      - "林素琴：56岁，迷茫痛苦表情"
+      - "黑暗背景：压抑氛围"
+
+    continuity_from: "接续手停住"
+    continuity_to: "第一集结束"
+

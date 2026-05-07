@@ -17,6 +17,39 @@ Work in this order unless the user explicitly asks for a narrow task:
 9. **Generation handoff**: create prompts/assets for image/video tools only after the visual and continuity gates pass.
 10. **Memory evolution**: distill user feedback into project rules first, then promote repeated patterns to global memory.
 
+## Parallel Execution Default
+
+The ordered model above defines dependency gates, not wall-clock serialization. For every serious project, default to parallel execution whenever tasks do not depend on the same unlocked decision or write the same artifact. Use `docs/workflow-parallelization.md` as the detailed scheduling reference.
+
+### Keep These Gates Serial
+
+- First script read and project premise lock.
+- Crew brief synthesis from research into one shared doctrine.
+- Visual bible lock for recurring characters, scenes, props, moodboards, and anti-patterns.
+- First accepted master image for each recurring character, location, or key prop.
+- Visual fingerprint extraction from approved images only.
+- Final continuity review across adjacent shots.
+- Final visual approval before video generation or handoff.
+
+### Run These In Parallel By Default
+
+- After script intake, split research into department lanes: director/narrative, cinematography/light/lens, production design/space/material, character/costume, sound, editing/continuity, physical reality references, and atmosphere references.
+- Run Nuwa-style distillation dimensions in parallel when distilling a director, cinematographer, production designer, or other creative mind: writings, interviews, external views, decisions, timeline, and expression/craft DNA.
+- After the crew brief, draft visual bible assets in parallel by recurring element: each main character, each main location, recurring props, moodboard, and atmosphere references.
+- After visual bible anchors are stable, split shot planning by scene or sequence. One owner must later normalize shot ids, style, duration rhythm, and continuity handoffs.
+- Write prompts in parallel by asset group: character, scene establishing, prop, shot image prompt, video motion prompt, and prompt-library pattern study.
+- Generate independent images with `.codex/scripts/gen_api.py batch`; group jobs by dependency layer and use concurrent downloads.
+- Batch visual review by risk group: character identity, scene/location, props, then shot sequence. Extract fingerprints immediately from passing images.
+
+### Parallel Work Rules
+
+- Do not let two workers write the same file. Give every lane a disjoint output path, then merge at checkpoints.
+- Treat `research/source-register.md` as a merge artifact. Department lanes can draft source cards separately, then consolidate.
+- Start slow I/O tasks early: OpenCLI searches, reference downloads, image generation, uploads, and batch downloads.
+- Use batch generation only for independent prompts. For reference-dependent work, generate in layers: master asset -> review/fingerprint -> dependent variations.
+- Start image batches around `--concurrency=6`, raise toward `10` only if stable, and lower to `3-4` if the provider rate-limits or prompts are heavy.
+- Review early samples before launching a large dependent batch. A bad anchor can poison downstream variations.
+
 ## Existing Assets
 
 - `episode_1_vpipe_v2.yaml` — existing VPipe shot-list asset. Preserve it unless the user asks for edits. Use it as a style and schema reference when building new shot plans.
@@ -236,6 +269,14 @@ These are non-negotiable requirements with verifiable artifacts. Violation block
 | Visual review | Prior generated frames approved | `reviews/*_visual.md` with approval or only INFO/WARNING |
 
 **Generation strategy:** Prefer reference-image and fingerprint-driven prompts over long abstract prompts. Moodboards and visual fingerprints are stronger than adjectives. Use Claude Code's built-in vision for all image analysis.
+
+**Concurrent generation:** External image generation can use the async LinkAPI CLI in `.codex/scripts/gen_api.py`. For batch jobs, prefer one shared `aiohttp.ClientSession` through:
+
+```bash
+python .codex/scripts/gen_api.py batch "<manifest.json>" --output-dir="<renders_dir>" --concurrency=10 --download --download-concurrency=10
+```
+
+This submits image generation requests concurrently and then downloads returned `data[].url` images concurrently. On 2026-05-08, a 10-image batch test succeeded with 10 response JSON files and 10 PNG downloads in `projects/concurrency-test/renders/`. Tune `--concurrency` downward if the provider rate-limits or the prompt payloads are heavy.
 
 ## Definition of Done
 

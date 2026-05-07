@@ -1,0 +1,23 @@
+{
+  "created": 1778193331,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone Guochao Chinese opera styling character. Strict 16:9 horizontal image, full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right on a clean light warm background. No environment scene, no group, no extra characters, no cropped body. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist, pants/skirt-shorts, shoes, back details. Keep the opera headwear shape but makeup is simplified modern beauty makeup, not heavy stage makeup: natural translucent skin, fine eyeliner, soft blush, clean red or peach lip, no white painted face. Young Chinese Guochao for ages 16-35, wearable and photogenic. Preserve xiqu headwear DNA: black forehead hair patches, pearl tassels, bead flowers, pom-poms, cloud motifs, lingzi arcs where specified. Modern clothing: short jacket, small cloud collar, pankou buttons, embroidered gauze, detachable water-sleeve panels, wide-leg trousers, culotte shorts, short boots or clean sneakers. Do NOT use mamian skirt, do NOT use stereotypical long new-Chinese robe, no gothic, no cyberpunk, no samurai, no kimono, no text labels, no watermark.\n\nDesign 03: Pink-white soft Huadan sweet-cool Guochao. Same young female character in all three views. Headwear: smaller pink-white floral opera crown, soft pink pom-poms, blue filigree side ornaments, pearl tassels, black forehead hair patches but softened. Makeup is very wearable peach-pink beauty makeup. Outfit: soft pink cropped jacket with pale blue embroidery, small cloud collar, pankou buttons, translucent gauze sleeves, pearl tassel waist chain, ivory culotte shorts or skirt-shorts over slim straight pants, clean white short boots. Front view shows youthful silhouette; side view shows short jacket and tassel layers; back view shows floral embroidery and hairpiece attachment. Fresh, not bridal, not long robe.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/5b138ecd-df90-4086-a058-d52cfe347925/f8164f82-e440-4aba-bc6c-2079edf7935d.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10604,
+    "input_tokens": 4954,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3834,
+      "audio_tokens": 0,
+      "image_tokens": 1120
+    }
+  }
+}

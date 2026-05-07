@@ -1,0 +1,23 @@
+{
+  "created": 1778184930,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a white candle in a clear holder on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/821af69f-c930-4c5f-9f28-380dce8720c3/4951000f-960e-4c4f-9277-c4daa791f930.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1077,
+    "input_tokens": 312,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 312,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

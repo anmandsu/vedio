@@ -1,0 +1,23 @@
+{
+  "created": 1778184930,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a single red ceramic mug on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/b9532eec-ac4a-43c7-8f90-1786b82047d2/5e7e5867-64c2-4e7c-a315-48b203ec2968.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1061,
+    "input_tokens": 296,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 296,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

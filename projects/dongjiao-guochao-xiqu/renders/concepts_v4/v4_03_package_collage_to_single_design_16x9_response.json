@@ -1,0 +1,23 @@
+{
+  "created": 1778190442,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal image. Use the user-provided traditional Chinese opera images as the primary visual base: preserve the authentic xiqu headwear logic, including black forehead hair patches, opera makeup structure, blue-white-pink bead flowers, red pom-poms, pearl ornaments, long curved pheasant-feather / lingzi arcs, tassels, water sleeves, and performance gesture. Transform these into a new high-design Guochao styling concept for an Eastern Suburb Memory Chinese opera styling experience pavilion. The result should be a fresh design effect image, not a copy of the reference photo. Photorealistic fashion editorial, premium concept rendering, Chinese opera heritage plus contemporary styling, industrial red-brick Chengdu setting. No text, no watermark, no logo, no Japanese elements, no kimono, no samurai, no generic hanfu, no cheap costume, no plastic skin.\n\nUse the fourth reference collage as a moodboard, but generate one coherent high-end 16:9 concept image, not a collage. Show three package archetypes in one frame: left red-and-blue martial dan with red pom-poms and long lingzi arcs, center blue-white refined phoenix crown with pearl fan and sleeve gesture, right pink soft Guochao danjiao with floral crown and tassels. They stand in one unified Eastern Suburb Memory industrial courtyard with red brick, old wood, black steel and soft greenery. Headwear and hairstyle are the focus: visible black hair patches, pearl sprays, pom-poms, curved lingzi arcs, blue enamel filigree, silk flower pads. Make it feel like a styling package campaign image for an opera makeup experience?, not a costume rental catalog. Strict 16:9 horizontal, premium editorial lighting, no text, no watermark.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/8775c321-e2a5-4065-94ae-f0f7262e9333/4a2ea29e-488c-4666-9be2-011312e68241.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 9628,
+    "input_tokens": 3978,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3418,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

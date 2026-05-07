@@ -1,0 +1,23 @@
+{
+  "created": 1778184933,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a small glass vase with one white flower on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/982f8db7-08ab-4069-b2b1-b57a0e8fba13/d9604a76-b034-44c5-aeab-5b24e6af3ff4.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1093,
+    "input_tokens": 328,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 328,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

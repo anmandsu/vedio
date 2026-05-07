@@ -1,0 +1,23 @@
+{
+  "created": 1778192868,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: System, gender-neutral or androgynous performer. Multi-mode machine-like archive program. Costume: modular layered white-gray coat with precise square panel seams, detachable collar pieces suggesting different modes, pale jade transparent edge strips, tiny cinnabar warning tab, calm mechanical posture.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/8fb57b10-dfd7-405c-935a-8e7576cf5e64/b6b0d96b-5d96-4141-85db-5ba69b771d1d.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 3077,
+    "input_tokens": 1664,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1664,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

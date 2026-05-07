@@ -1,0 +1,23 @@
+{
+  "created": 1778190447,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal image. Use the user-provided traditional Chinese opera images as the primary visual base: preserve the authentic xiqu headwear logic, including black forehead hair patches, opera makeup structure, blue-white-pink bead flowers, red pom-poms, pearl ornaments, long curved pheasant-feather / lingzi arcs, tassels, water sleeves, and performance gesture. Transform these into a new high-design Guochao styling concept for an Eastern Suburb Memory Chinese opera styling experience pavilion. The result should be a fresh design effect image, not a copy of the reference photo. Photorealistic fashion editorial, premium concept rendering, Chinese opera heritage plus contemporary styling, industrial red-brick Chengdu setting. No text, no watermark, no logo, no Japanese elements, no kimono, no samurai, no generic hanfu, no cheap costume, no plastic skin.\n\nCreate the master visual for the East Suburb Memory Guochao Chinese opera styling experience pavilion, using the traditional opera references as the headwear foundation. Scene: a premium industrial storefront/studio in Chengdu, red brick facade, black steel pipes, warm mirror lights, display wall with opera headpieces, a styling chair and costume rack in soft blur. Foreground: one central model wearing a newly designed danjiao phoenix crown hairstyle with black forehead hair patches, blue-white-pink pearl crown, red pom-poms, tassels; behind her two blurred supporting models show lingzi arc and red martial dan variations. This must look like a new commercial design proposal for a real experience?, not a stage performance still. Strict 16:9 horizontal, cinematic fashion campaign, enough negative space, high design sense, warm industrial lighting plus soft blue accent. No readable signs, no text, no logo.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/dd030561-56f1-4ac4-91d9-a6e41f8204c8/749983ab-97d5-47b4-9c0b-890cac3f279f.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 10910,
+    "input_tokens": 5260,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3580,
+      "audio_tokens": 0,
+      "image_tokens": 1680
+    }
+  }
+}

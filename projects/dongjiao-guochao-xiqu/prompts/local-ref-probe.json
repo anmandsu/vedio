@@ -1,0 +1,11 @@
+[
+  {
+    "id": "local_ref_probe",
+    "aspect_ratio": "16:9",
+    "quality": "low",
+    "reference_urls": [
+      "C:\\Users\\123\\Videos\\vedio V3\\projects\\dongjiao-guochao-xiqu\\research\\reference-images\\user-opera\\user_opera_ref_02.jpg"
+    ],
+    "prompt": "Probe only. Create a simple 16:9 image inspired by the local reference, Chinese opera headwear, no text."
+  }
+]

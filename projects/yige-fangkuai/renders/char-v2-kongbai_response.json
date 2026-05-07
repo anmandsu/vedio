@@ -1,0 +1,23 @@
+{
+  "created": 1778193893,
+  "data": [
+    {
+      "revised_prompt": "Unified character costume concept, wide 16:9 clean paper-white studio stage, one full-body performer only, no design-sheet layout, no text, no labels, no extra panels. High-end minimalist avant-garde Chinese stage costume, poetic and human, same ensemble language for every character: warm white / paper white / pale gray soft layered contemporary stagewear, long vest or robe-coat, wide trousers, subtle translucent pale-jade edge detail, thin ink-gray square-grid seams, one tiny cinnabar card/seal accent at most. Light, breathable, actor-friendly, elegant, spiritual, with 灵气 in gaze and gesture. No armor, no cosplay, no fantasy hero, no bulky shoulder pieces, no ornate ancient costume, no readable text.\nKongbai, male, philosophical, concise, deep. Long pale gray-white silhouette, largest empty square negative-space panel, almost no accent color, quiet grounded posture, calm distant gaze.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/c3f98936-bb3a-4563-bc64-7327ca130ad8/599954a8-c252-41ed-806f-cc712bafdef0.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4307,
+    "input_tokens": 1796,
+    "output_tokens": 2511,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1796,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

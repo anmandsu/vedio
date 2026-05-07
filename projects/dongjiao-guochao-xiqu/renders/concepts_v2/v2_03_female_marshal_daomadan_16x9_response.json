@@ -1,0 +1,23 @@
+{
+  "created": 1778189479,
+  "data": [
+    {
+      "revised_prompt": "Strict 16:9 horizontal design concept image for a Chengdu Eastern Suburb Memory Guochao Chinese opera styling experience pavilion. Use the reference images for structural inspiration only: preserve Chinese opera headwear logic, transform it into contemporary hairstyle and wearable styling design. High-end fashion editorial, photorealistic, design-forward, not a literal copy, not cosplay, not museum restoration. Primary design language: Chinese opera kuitou structure, phoenix crown, marshal helmet, female marshal helmet, hard-frame silhouette, pearl tassels, red pom-poms, red tassel plume, gold wire, kingfisher-blue accents, silk, light armor, industrial red brick and black steel. No text, no watermark, no logo, no Japanese elements, no samurai, no kimono, no fantasy game armor, no cheap plastic, no bridal studio.Create a high-design photorealistic concept image for a female marshal / daomadan hairstyle based on Chinese opera female marshal headwear. A young Chinese woman stands in an industrial opera styling studio. Her hairstyle is the hero: tight clean hairline, sculptural silver-white female marshal helmet frame, high black ponytail threaded through the back, two short side wing ornaments, small red pom-poms, pearl tassel clusters, kingfisher-blue enamel details, brushed silver armor hair plates, a controlled red tassel accent. The design should feel like a modern hair show piece derived from xiqu kuitou, not a historical costume reproduction.\n\nCostume: silver-white light armor over red-and-blue opera-inspired narrow sleeves, slim waist belt, small water-sleeve fabric trailing as a graphic line, modern wearable cut. Pose: strong profile-to-camera turn, one arm lifting a sleeve line, confident but elegant.\n\nComposition: strict 16:9 horizontal, dynamic diagonal from sleeve to ponytail plume, headwear and hair silhouette fully visible, industrial red-brick and black-pipe background, shallow depth of field, no text. Lighting: bright transparent fill, 4000K warm key with cool silver highlights, soft directional shadows, all silver and pearl details visible. Avoid fantasy warrior princess, avoid anime, avoid Japanese armor, avoid oversexualized costume, avoid flat studio catalog image.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/3060eae8-d8fe-4b34-8967-d12da2d132b2/e508c378-484e-4b32-8ac7-75ef2448386d.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 11772,
+    "input_tokens": 6122,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4442,
+      "audio_tokens": 0,
+      "image_tokens": 1680
+    }
+  }
+}

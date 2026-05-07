@@ -1,0 +1,91 @@
+A cinematic macro photograph of a traditional Chinese lucky bag (福袋) from 1980s-90s, shot in intimate close-up with warm lighting and shallow depth of field. Based on real vintage lucky bags from Xiaohongshu research.
+
+SUBJECT - Traditional Lucky Bag (福袋):
+- Small fabric pouch, 8cm × 6cm, traditional Chinese design
+- Red silk or cotton fabric, faded to muted burgundy/rust red
+- Drawstring closure at top, yellow/gold cord, frayed ends
+- CRITICAL: Worn edges showing white fabric threads, significant fraying
+- Embroidered pattern: simple floral or "福" character, thread worn
+- Soft rounded shape, slightly flattened from years of handling
+- Fabric shows gentle creases and fold lines
+
+REAL-WORLD DETAILS (from research):
+- Hand-stitched construction, visible stitches at seams
+- Drawstring: cotton or silk cord, frayed ends, knot worn smooth
+- Embroidery: gold/yellow thread, slightly loose, colors faded
+- Fabric surface: faded color, no longer vibrant red
+- Color variation: darker in creases, lighter on raised areas
+- Worn edges concentrated at corners and opening
+- Fraying extends 2-3mm from edge, multiple loose threads
+- Small stains or discoloration from decades of handling
+- Soft texture, slightly fuzzy from age
+
+COMPOSITION & CAMERA:
+- 21:9 cinematic aspect ratio (CRITICAL)
+- Close-up macro shot, bag fills 50-60% of frame width
+- Bag positioned slightly off-center right, creating negative space on left
+- Shot from 20-degree angle above, intimate perspective
+- 100mm macro lens equivalent, f/1.8 aperture
+- Horizontal composition showcasing worn edge detail and embroidery
+
+LIGHTING - Tender and Nostalgic:
+- Primary: Soft window light from upper left, 3500K warm afternoon light
+- Gentle highlight on fabric texture and worn threads
+- Soft graduated shadows, 2:1 lighting ratio maximum
+- Worn edge threads catch light, creating delicate halo effect
+- Fabric texture revealed by soft directional light
+- Warm tender glow, emotional and intimate mood
+- Transparent shadows, detail visible throughout
+
+ENVIRONMENT - Minimal Emotional Context:
+- Background: Soft-focus dark wooden surface (old table)
+- A piece of aged paper or fabric in far background, blurred bokeh
+- Warm cream and amber tones in out-of-focus areas
+- Creates intimate personal atmosphere
+- Suggests grandmother's drawer or memory box
+- Horizontal composition allows more environmental context
+
+MATERIAL AUTHENTICITY:
+- Fabric surface: faded color, no longer vibrant red
+- Color variation: darker in creases, lighter on raised areas
+- WORN EDGES (CRITICAL FEATURE):
+  - White fabric threads visible at edges and corners
+  - Fraying extends 2-3mm from edge
+  - Multiple loose threads, some curled
+  - Edge wear concentrated at corners and opening
+  - Shows decades of handling and opening/closing
+- Embroidery: thread slightly loose, colors faded
+- Drawstring: frayed ends, knot worn smooth
+- Fabric texture: soft, slightly fuzzy from age
+- Small stains or discoloration, authentic aging
+
+SPECIFIC DETAILS:
+- Drawstring pulled partially closed, creating gathered fabric
+- Embroidered "福" character or simple flower pattern visible
+- Gold/yellow thread in embroidery, slightly tarnished
+- Fabric shows hand-stitched construction, visible stitches
+- Small patch of darker discoloration (oil from hands)
+- Gentle creases from being stored folded
+- Soft shadows in fabric folds
+- Thread fragments visible on surface
+
+MOOD & AESTHETIC:
+- Deeply emotional and nostalgic, grandmother's treasure
+- Tender and intimate, like holding a memory
+- Quiet dignity of cherished objects
+- Documentary intimacy meets editorial art direction
+- Emphasizes passage of time and emotional significance
+- Restrained elegance, poetic and touching
+
+TECHNICAL SPECS:
+- 21:9 aspect ratio (2.35:1 cinematic format) - MANDATORY
+- 4K resolution, razor-sharp focus on worn edge detail
+- Extreme shallow depth of field, creamy bokeh
+- Natural film grain, Kodak Portra 400 aesthetic
+- Realistic fabric texture rendering, authentic aging
+- Color palette: muted burgundy, warm golds, cream highlights
+- High detail on worn threads, atmospheric blur elsewhere
+- Soft focus falloff, gentle and tender
+
+NEGATIVE PROMPT:
+NO pure white background, NO studio seamless backdrop, NO flat even lighting, NO centered symmetrical composition, NO bright vibrant red (must be faded), NO clean pristine edges (must show wear), NO plastic appearance, NO oversaturated colors, NO dramatic high-contrast shadows, NO people or hands, NO text or labels, NO modern materials, NO new-looking fabric, NO AI artifacts, NO cartoon style, NO excessive bokeh blur, NO lens flare effects, NO shiny satin fabric (must be matte aged silk/cotton), NO 1:1 square format, NO 4:5 portrait format (MUST be 21:9 cinematic)

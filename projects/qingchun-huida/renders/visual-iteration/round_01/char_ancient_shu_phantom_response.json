@@ -1,0 +1,23 @@
+{
+  "created": 1778186295,
+  "data": [
+    {
+      "revised_prompt": "Round 1 visual exploration: clear symbolic stage concept, simple readable silhouettes, establish the three-color system, not overdesigned yet.\n\nAsset ID: char_ancient_shu_phantom\nAsset type: character\nPrimary request: Ancient Shu ancestor phantom for stage, full-body symbolic nonliteral costume design sheet, translucent bronze-green and muted gold layered fabric, ritual circular arm silhouette, mask-inspired geometry but not a literal artifact copy, soft haze, dancer-like pose, no historical reconstruction claim\nPrompt pattern: Character reference sheet for film and stage production. Full body standing pose, front dominant view plus small detail insets for costume/props, clean dark gray studio-stage background, even key light plus colored rim light.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/7e4298fd-357b-4141-86a8-9f3f3ebcd256/d7410a8c-b8a2-4483-95c1-b9d737e12131.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 4299,
+    "input_tokens": 3534,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 3534,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

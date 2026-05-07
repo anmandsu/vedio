@@ -17,6 +17,7 @@ venv/
 Thumbs.db
 .idea/
 .vscode/
+.claude/settings.local.json
 
 # Temporary/generated cache folders
 tmp/

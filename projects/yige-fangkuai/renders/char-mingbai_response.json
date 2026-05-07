@@ -1,0 +1,23 @@
+{
+  "created": 1778192905,
+  "data": [
+    {
+      "revised_prompt": "Character costume concept sheet in the same project style, wide 16:9 clean paper-white studio stage background, high-end minimalist avant-garde Chinese stage costume design, full-body performer, neutral theatrical pose, subtle modular Rubik-like square motif, refined off-white / pale gray base, translucent pale-jade acrylic costume details, tiny cinnabar seal accent, no projection, no hanging props, no readable text, no ornate ancient costume, modern stage sketch costume with symbolic Chinese-character identity.\nCharacter: Mingbai / clear understanding, male. Direct, know-it-all, straightforward. Costume: crisp pale gray-white tailored stage outfit, sharp straight seam lines, transparent square lens-like chest panel, neat identity card clipped at waist, confident frontal stance.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/c4359bb4-596a-424f-ac4d-ff15b903227a/01bb5661-9ac1-4bfe-9618-0af3fadeb9bc.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 2991,
+    "input_tokens": 1578,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1578,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

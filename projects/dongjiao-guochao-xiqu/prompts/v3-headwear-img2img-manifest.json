@@ -1,0 +1,46 @@
+[
+  {
+    "id": "v3_01_fengguan_design_board_16x9",
+    "aspect_ratio": "16:9",
+    "quality": "high",
+    "reference_urls": [
+      "https://webstatic.aiproxy.vip/output/20260508/134041/033b42fd-7b17-47e1-88df-2e8241d03279/ff9994bf-893c-4bc0-9ad4-a40f12bef922.png",
+      "https://www.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/museo_etnologico/04_01_corona_fenice_dettaglio.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://zolimacitymag.com/wp-content/uploads/2019/09/Cantonese-Chinese-opera_headdress_10_zolima-citymag.webp"
+    ],
+    "prompt": "Improve the referenced phoenix-crown hairstyle into a more design-forward 16:9 concept board image for a Guochao Chinese opera styling experience pavilion. Keep the successful industrial red-brick studio and elegant model, but make the hair design more clearly derived from traditional xiqu phoenix crown: larger fan-shaped hard frame, two side bobin wing panels, visible black sculpted hair coil supporting the crown, central phoenix, kingfisher-blue enamel, dense pearl tassels, red bead clusters, hand-wired gold filigree. Add a subtle rear display mannequin or blurred detail reflection only if it helps show the design process; no text. Premium fashion editorial, high-end styling proposal, not bridal, not generic hanfu. Strict 16:9 horizontal. Warm 4000K light, transparent fill, all gold wire and pearl details visible. No Japanese elements, no logo, no watermark, no cheap plastic, no AI text."
+  },
+  {
+    "id": "v3_02_shuaikui_stronger_helmet_16x9",
+    "aspect_ratio": "16:9",
+    "quality": "high",
+    "reference_urls": [
+      "https://webstatic.aiproxy.vip/output/20260508/134041/e53c99d3-4ba4-4c9f-b305-9ae7fe8ca6f2/bc865dd6-a68d-45f3-96da-2adf3a7c3817.png",
+      "https://i.etsystatic.com/9861225/r/il/c0bd8c/4163501249/il_fullxfull.4163501249_k510.jpg",
+      "https://i.etsystatic.com/9861225/r/il/fad827/4163499489/il_fullxfull.4163499489_47rf.jpg"
+    ],
+    "prompt": "Use the references to redesign the image into a much stronger Chinese opera shuai-kui marshal-helmet hairstyle, still contemporary and wearable but with a clearly readable hard helmet body. Keep the young Chinese model and industrial red-brick setting, but replace the simple headband feeling with a sculptural black lacquer half-helmet integrated into slicked-back hair: curved side ear guards, gold forehead plate, raised back crest, red pom-poms, long red tassel plume, small pearl/metal bead ornaments, visible aged-gold trim. The hair should disappear into the helmet frame and reappear as a controlled low ponytail, so it reads as hairstyle plus kuitou structure. Costume: black-red modern opera jacket with light armor shoulders and command flag. Strict 16:9 horizontal, more dramatic design effect image, helmet silhouette readable from far away. Avoid samurai, avoid fantasy armor, avoid sci-fi, avoid simple hairband, avoid cheap cosplay."
+  },
+  {
+    "id": "v3_03_female_marshal_design_sheet_16x9",
+    "aspect_ratio": "16:9",
+    "quality": "high",
+    "reference_urls": [
+      "https://webstatic.aiproxy.vip/output/20260508/134041/3060eae8-d8fe-4b34-8967-d12da2d132b2/e508c378-484e-4b32-8ac7-75ef2448386d.png",
+      "https://learning.hku.hk/ccch9051/group-35/files/original/8bdc3d476da2deaf51a635b2030332ac.png",
+      "https://en.people.cn/NMediaFile/2024/0709/FOREIGN1720504871636DGBSDPMFMN.jpg"
+    ],
+    "prompt": "Refine the referenced female marshal / daomadan image into a high-design 16:9 styling effect image. Preserve the strong female model, silver-white female marshal headwear, high black ponytail, red pom-poms and industrial brick background, but make the headpiece more obviously based on xiqu female marshal helmet: tighter forehead band, silver hard-frame side wings, small pearl tassels near temples, red pom-poms arranged on a crown ridge, one controlled plume/ponytail arc, visible handmade paper-metal construction. Costume should be wearable modern Guochao: silver light armor over red-blue narrow sleeves, water-sleeve diagonal motion line. The image should feel like a premium hair design proposal, not a stage costume catalog. Strict 16:9 horizontal, crisp headwear silhouette, no text, no logo, no Japanese armor, no anime, no fantasy warrior."
+  },
+  {
+    "id": "v3_04_storefront_pitch_visual_16x9",
+    "aspect_ratio": "16:9",
+    "quality": "high",
+    "reference_urls": [
+      "https://webstatic.aiproxy.vip/output/20260508/134041/b92f9553-a735-4dbd-af2d-c391ffa67d15/d467cfd1-5176-4579-b773-49e020c75e6f.png",
+      "https://journeyrambler.com/wp-content/uploads/2026/01/Eastern-Suburb-Memorys-South-Gate-entrance.jpg",
+      "https://i.florago.top/posts/image2-d4a14f7750a0627190e563c9c502c0ab.jpg"
+    ],
+    "prompt": "Create a more architectural and design-led 16:9 master pitch visual for the proposed Eastern Suburb Memory Guochao Chinese opera styling experience pavilion. Use the reference group image and industrial location references. Show the experience? concept as a premium storefront/studio scene: red-brick industrial facade, black steel pipes, warm interior glow, display wall with phoenix crown and marshal helmet silhouettes, three styled models in front wearing modern xiqu headwear hairstyles. Headwear must be the hero: center phoenix crown hairstyle with fan frame and pearl tassels, one black-gold shuai-kui hairstyle with red tassel plume, one silver female marshal hairstyle. Make it look like a proposal rendering plus fashion campaign, suitable for investor/deck hero. Strict 16:9 horizontal, negative space around headpieces, warm gold and controlled cyan accents, wet floor reflections. No readable signage, no text, no logo, no tourist crowd, no generic hanfu, no Japanese elements."
+  }
+]

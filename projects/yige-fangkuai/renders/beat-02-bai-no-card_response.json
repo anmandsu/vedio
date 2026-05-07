@@ -1,0 +1,23 @@
+{
+  "created": 1778192865,
+  "data": [
+    {
+      "revised_prompt": "Style bible for every image: wide 16:9 contemporary Chinese avant-garde minimalist stage sketch concept, pure warm paper-white seamless proscenium stage, bright high-key low-contrast lighting, abundant negative space, premium clean design. Stage architecture made of refined Rubik-like interlocking square modules: matte white and pale gray lightweight hollow frames, translucent pale-jade acrylic edges, slim ribs, precise seams, caster bases, visible joinery, elegant internal voids. Strong 拼接感: modules slide, rotate, quarter-turn, separate, and recombine. No colorful toy Rubik colors. No heavy crates. No projection, no LED screen, no hanging props, no suspended objects, no brush-stroke backdrop, no dense museum wall, no readable labels. Simple neutral off-white costumes. The stage world is an abstract Chinese dictionary revision system, physical and actor-operated.\nScene beat 2: Bai has no identity card. One young male performer stands slightly isolated at center, empty hands visible, while surrounding performers hold small warm-white identity cards. A gap in the modular square-character structure remains open beside him. Mood: clean, curious, suspended. No readable text.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/8bf7aa89-040b-47ed-b3d5-dbad2e6cef9f/9030b27e-858f-47d5-b084-54b251467949.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 3789,
+    "input_tokens": 2376,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 2376,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

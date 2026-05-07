@@ -1,0 +1,23 @@
+{
+  "created": 1778193868,
+  "data": [
+    {
+      "revised_prompt": "Unified character costume concept, wide 16:9 clean paper-white studio stage, one full-body performer only, no design-sheet layout, no text, no labels, no extra panels. High-end minimalist avant-garde Chinese stage costume, poetic and human, same ensemble language for every character: warm white / paper white / pale gray soft layered contemporary stagewear, long vest or robe-coat, wide trousers, subtle translucent pale-jade edge detail, thin ink-gray square-grid seams, one tiny cinnabar card/seal accent at most. Light, breathable, actor-friendly, elegant, spiritual, with 灵气 in gaze and gesture. No armor, no cosplay, no fantasy hero, no bulky shoulder pieces, no ornate ancient costume, no readable text.\nMingbai, male, clear and direct. Crisp pale gray-white tailored vest, straight vertical seams, one clear square lens-like translucent panel, confident simple stance, direct gaze.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/39797f1d-dcac-4c6c-aa4b-1440ea201701/1c957ab9-cbca-412b-a705-24dba176da6d.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 3191,
+    "input_tokens": 1778,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 1778,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Round 2 costume and accessory upgrade: add clearer fabric texture, profession-specific accessories, shoe/hat/glove details, practical stage construction.
+
+Asset ID: char_final_three_generations
+Asset type: character
+Primary request: Final convergence group costume concept, archaeology, medical rescue, engineering and GRID lanes meeting center stage, gold ring, white rescue bag, blueprint tube and glowing cube held forward, unified ceremonial posture, coherent three-color costume system
+Prompt pattern: 16:9 theatrical costume concept frame for film and stage production. Full-body figure or ensemble centered in a wide stage design board, with costume/prop detail insets arranged on the side inside the same 16:9 frame, consistent black-box background and colored rim light.
+Research anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.
+Style: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.
+Lighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.
+Composition: professional art department board, elegant negative space, clear silhouette, no text overlays.
+Quality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.
+Negative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.
+
+Unified round tone: cool black-box theater with restrained earth-gold, cold white-orange, and electric blue accents; all images share the same haze density, stage floor texture, and polished art-department presentation.
+Aspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.

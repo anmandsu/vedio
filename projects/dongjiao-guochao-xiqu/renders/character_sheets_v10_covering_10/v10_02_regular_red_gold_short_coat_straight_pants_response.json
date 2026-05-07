@@ -1,0 +1,23 @@
+{
+  "created": 1778196380,
+  "data": [
+    {
+      "revised_prompt": "Character design sheet for one standalone young Chinese Guochao xiqu / Chinese opera inspired styling character. Strict 16:9 horizontal image. Full body THREE VIEWS of the same character and same outfit: front view, side/profile view, back view, arranged left-to-right. Show full head-to-toe silhouette, hairstyle/headwear, sleeves, waist construction, hem length, trousers or skirt structure, shoes, and back details. This is a fashion costume concept sheet for a styling experience store, not a stage photo and not a scene.\n\nCRITICAL BODY REQUIREMENT: keep the person in normal young fashion-model proportions like the previous accepted design sheets. Do NOT make the character visibly overweight, bulky, heavy, older, or plus-size. The model should look 16-35, fresh, average-to-slim body, normal arms and face, elegant posture. The CLOTHING is size-inclusive and forgiving, but the person does not become fat.\n\nFit requirement for real customers: no exposed navel, no exposed belly, no cropped top, no bare waist, no tight bodycon. Use mid-length tops, hip-covering jackets, long cloud-collar overlays, soft A-line lines, relaxed wide-leg or straight trousers, knee-length layered skirt-over-pants, vertical embroidery panels, soft draping that covers belly and hips. The outfit should be flattering for slightly chubby customers in real life while the design sheet model remains normal-bodied.\n\nStyle direction: modern Chinese Guochao for ages 16-35, wearable, photogenic, boutique styling experience, refined fashion illustration / photorealistic concept art. Keep traditional opera headwear silhouette as foundation: fengguan, shuai helmet, huadan bead flowers, wudan lingzi, pearl tassels, black forehead hair patches, red pom-poms, enamel side ornaments, cloud motifs. Makeup is simplified modern beauty makeup: natural translucent skin, fine eyeliner, soft blush, clean red/peach lip, no white painted opera face.\n\nFashion background: clean contemporary fashion studio background, cool white and very light gray, subtle editorial gradient, soft floor shadow. Do NOT use yellow, beige, warm parchment, palace background, stage set, industrial scene, text labels, captions, watermark, logo, or extra people.\n\nClothing rules: can use pankou buttons, cloud collar, cloud shoulder, embroidered gauze, detachable water-sleeve panels, pearl waist tassels, clean boots or fashion sneakers. Do NOT use mamian skirt. Do NOT use stereotypical long new-Chinese robe. No gothic, no cyberpunk, no techwear armor, no samurai, no kimono, no bridal gown.\n\nDesign 02: Normal-bodied young female model. Red-gold compact phoenix crown with pearl fringe. Cinnabar mid-thigh short coat with gold pankou and ivory cloud shoulder, slightly flared hem, ivory straight trousers, slim red side tassels, sheer sleeve drapes, red ankle boots. Covers waist and hips while keeping a clean silhouette.\n\nCritical consistency: the three views must show the SAME normal-bodied young character and SAME outfit, front/side/back only, full body, no labels or text. The person must not become fat or heavy; only the clothing should be belly-covering and friendly for real slightly chubby customers.",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/5ec6414f-6240-456c-a6f8-120ce9552a88/fef0011b-f55e-4c9f-ba16-04c46afce3e6.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 12548,
+    "input_tokens": 6898,
+    "output_tokens": 5650,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 6338,
+      "audio_tokens": 0,
+      "image_tokens": 560
+    }
+  }
+}

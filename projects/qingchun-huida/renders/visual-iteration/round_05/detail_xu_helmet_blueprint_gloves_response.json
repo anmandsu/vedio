@@ -1,0 +1,23 @@
+{
+  "created": 1778187488,
+  "data": [
+    {
+      "revised_prompt": "Round 5 final polish: premium theatrical production design, most elegant version, crisp costume details, refined composition, museum-quality concept art presentation.\n\nAsset ID: detail_xu_helmet_blueprint_gloves\nAsset type: detail\nPrimary request: Costume prop detail sheet: yellow safety helmet, rolled blueprint, work gloves, steel pencil, reflective vest edge, steel gray and blueprint cyan palette, handling marks and stage-ready materials\nPrompt pattern: 16:9 art department prop and costume detail board, close-up material study with 3-4 arranged views across a wide frame, matte black-box stage background, clear scale by hand/stand silhouette, texture and wear marks, no labels or readable text.\nResearch anchors: Sanxingdui bronze/gold/earth for archaeology; West China Hospital plateau medical rescue gear for medical lane; GRID student satellite and lab-blue cube for technology lane.\nStyle: high-end Chinese recital drama stage concept design, symbolic but practical for theater production, photorealistic concept art with designerly restraint.\nLighting: visible theatrical beams, controlled haze, black-box stage depth, area color washes, practical glowing props.\nComposition: professional art department board, elegant negative space, clear silhouette, no text overlays.\nQuality: detailed fabric weave, worn material texture, realistic contact shadows, coherent palette, no plastic skin, no airbrushing, no digital oversharpening.\nNegative prompt: no readable text, no watermark, no extra fingers, no deformed hands, no broken limbs, no duplicate faces, no Japanese kimono, no samurai, no shrine, no sci-fi armor, no astronauts, no fake logos, no cluttered chaos, no sterile showroom, no cartoon.\n\nUnified round tone: final polished 16:9 production-design board, museum-quality theatrical concept art, harmonious tri-color palette, consistent lens, lighting, haze, stage texture, and restrained Chinese contemporary design.\nAspect ratio requirement: 16:9 wide frame for every asset in this round, so the set feels coordinated on one presentation wall.\n",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/b61a05d6-62a3-4ca8-b87e-066a98bc3899/ffd92910-f437-44a1-9f6e-1890f0596e5a.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 5545,
+    "input_tokens": 4132,
+    "output_tokens": 1413,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 4132,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

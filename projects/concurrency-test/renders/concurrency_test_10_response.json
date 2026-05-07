@@ -1,0 +1,23 @@
+{
+  "created": 1778184927,
+  "data": [
+    {
+      "revised_prompt": "A simple studio test image of a silver spoon on a matte gray tabletop, soft daylight, plain background, photorealistic, square composition",
+      "url": "https://webstatic.aiproxy.vip/output/20260508/134041/8c461b9e-4a43-499d-aa5f-ee83a22c1cf1/69b05dd4-ef44-40dc-b7fb-36edd0e6b0a6.png"
+    }
+  ],
+  "model": "gpt-image-2",
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 1041,
+    "input_tokens": 276,
+    "output_tokens": 765,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "text_tokens": 276,
+      "audio_tokens": 0,
+      "image_tokens": 0
+    }
+  }
+}

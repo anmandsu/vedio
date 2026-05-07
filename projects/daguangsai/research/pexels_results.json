@@ -1,0 +1,228 @@
+{
+  "page": 1,
+  "per_page": 10,
+  "photos": [
+    {
+      "id": 33012598,
+      "width": 3024,
+      "height": 4032,
+      "url": "https://www.pexels.com/photo/cozy-living-room-bathed-in-golden-hour-light-33012598/",
+      "photographer": "Madew Rajawasan",
+      "photographer_url": "https://www.pexels.com/@madew-rajawasan-2150724533",
+      "photographer_id": 2150724533,
+      "avg_color": "#453327",
+      "src": {
+        "original": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg",
+        "large2x": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/33012598/pexels-photo-33012598.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Warm evening sunlight casting shadows in a cozy living room with wooden furniture and patterned tile floor."
+    },
+    {
+      "id": 17594422,
+      "width": 2000,
+      "height": 3000,
+      "url": "https://www.pexels.com/photo/golden-sunlight-illuminating-a-bedroom-17594422/",
+      "photographer": "Pew Nguyen",
+      "photographer_url": "https://www.pexels.com/@nguyendesigner",
+      "photographer_id": 65907,
+      "avg_color": "#7E542A",
+      "src": {
+        "original": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg",
+        "large2x": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/17594422/pexels-photo-17594422.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A cozy bedroom illuminated by warm evening sunlight creating a serene and inviting atmosphere."
+    },
+    {
+      "id": 35228360,
+      "width": 4032,
+      "height": 2688,
+      "url": "https://www.pexels.com/photo/golden-sunlight-streaming-into-cozy-room-interior-35228360/",
+      "photographer": "Meltem  B.",
+      "photographer_url": "https://www.pexels.com/@meltem-b-300284420",
+      "photographer_id": 300284420,
+      "avg_color": "#5F4632",
+      "src": {
+        "original": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg",
+        "large2x": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Warm sunlight filters through curtains, casting shadows in a cozy room corner."
+    },
+    {
+      "id": 29633350,
+      "width": 3304,
+      "height": 4550,
+      "url": "https://www.pexels.com/photo/warm-sunset-light-streaming-through-open-door-29633350/",
+      "photographer": "hayrunnisa  malay",
+      "photographer_url": "https://www.pexels.com/@hayrunnisa-malay-623571717",
+      "photographer_id": 623571717,
+      "avg_color": "#604125",
+      "src": {
+        "original": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg",
+        "large2x": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/29633350/pexels-photo-29633350.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Golden hour light casts shadows through an open door onto a room interior."
+    },
+    {
+      "id": 33347600,
+      "width": 4000,
+      "height": 6000,
+      "url": "https://www.pexels.com/photo/cozy-dining-room-with-warm-sunlight-33347600/",
+      "photographer": "Benjamin Eriksen",
+      "photographer_url": "https://www.pexels.com/@benjaminberiksen",
+      "photographer_id": 916270671,
+      "avg_color": "#70513D",
+      "src": {
+        "original": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg",
+        "large2x": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/33347600/pexels-photo-33347600.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A cozy dining room bathed in warm, golden sunlight, creating a serene and inviting atmosphere."
+    },
+    {
+      "id": 12003080,
+      "width": 3840,
+      "height": 2160,
+      "url": "https://www.pexels.com/photo/orange-sofas-in-the-living-room-12003080/",
+      "photographer": "Yusuf P",
+      "photographer_url": "https://www.pexels.com/@artyusufpatel",
+      "photographer_id": 70980054,
+      "avg_color": "#9E6327",
+      "src": {
+        "original": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg",
+        "large2x": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/12003080/pexels-photo-12003080.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "A cozy living room with warm sunlight, stylish furniture and modern interior design."
+    },
+    {
+      "id": 17483602,
+      "width": 3024,
+      "height": 4032,
+      "url": "https://www.pexels.com/photo/potted-plant-in-sunlight-17483602/",
+      "photographer": "Abdullah  BEGTAŞ",
+      "photographer_url": "https://www.pexels.com/@abdullahbegtas",
+      "photographer_id": 492290489,
+      "avg_color": "#4A2D05",
+      "src": {
+        "original": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg",
+        "large2x": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/17483602/pexels-photo-17483602.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Warm sunlight casts shadows on a cozy corner with a potted plant and cushions."
+    },
+    {
+      "id": 15956265,
+      "width": 2068,
+      "height": 4000,
+      "url": "https://www.pexels.com/photo/sunlight-on-cabinet-15956265/",
+      "photographer": "David Scott",
+      "photographer_url": "https://www.pexels.com/@david-scott-372779266",
+      "photographer_id": 372779266,
+      "avg_color": "#6E421D",
+      "src": {
+        "original": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg",
+        "large2x": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/15956265/pexels-photo-15956265.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Warm sunset light casting striped shadows on a kitchen cabinet, creating a cozy ambiance."
+    },
+    {
+      "id": 13009040,
+      "width": 3000,
+      "height": 2000,
+      "url": "https://www.pexels.com/photo/sunlight-coming-through-the-camper-window-13009040/",
+      "photographer": "Erik Schereder",
+      "photographer_url": "https://www.pexels.com/@erik-schereder-3173655",
+      "photographer_id": 3173655,
+      "avg_color": "#352C23",
+      "src": {
+        "original": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg",
+        "large2x": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/13009040/pexels-photo-13009040.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Tranquil bedroom interior bathed in warm sunrise light through the window, creating a serene atmosphere."
+    },
+    {
+      "id": 17843763,
+      "width": 1727,
+      "height": 3072,
+      "url": "https://www.pexels.com/photo/round-table-in-the-corner-of-a-restaurant-reflecting-sunlight-17843763/",
+      "photographer": "Hazily Light",
+      "photographer_url": "https://www.pexels.com/@hazily-light-672092024",
+      "photographer_id": 672092024,
+      "avg_color": "#413F2A",
+      "src": {
+        "original": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg",
+        "large2x": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "large": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "medium": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "small": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&h=130",
+        "portrait": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "landscape": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "tiny": "https://images.pexels.com/photos/17843763/pexels-photo-17843763.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280"
+      },
+      "liked": false,
+      "alt": "Warm and inviting restaurant corner with golden sunlight streaming through the windows."
+    }
+  ],
+  "total_results": 8000,
+  "next_page": "https://api.pexels.com/v1/v1/search?page=2&per_page=10&query=interior+golden+hour"
+}
